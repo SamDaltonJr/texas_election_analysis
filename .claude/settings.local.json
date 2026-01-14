@@ -4,7 +4,8 @@
       "Bash(python collect_texas_elections.py:*)",
       "Bash(pip install:*)",
       "Bash(python -m pip install:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(python:*)"
     ]
   }
 }

@@ -1,0 +1,62 @@
+================================================================================
+TEXAS ELECTION DATA COVERAGE REPORT
+================================================================================
+
+USABLE DATA FILES:
+--------------------------------------------------------------------------------
+
+dataverse_president_county_2000_2020_texas.csv
+  Rows: 4,064 | Columns: 11
+  Years: 2000, 2004, 2008, 2012, 2016
+  Columns: year, state, state_po, county, FIPS, office, candidate, party, candidatevotes, totalvotes, version
+
+openelections_2014_general.csv
+  Rows: 1,402 | Columns: 7
+  Columns: office, district, candidate, incumbent, party, votes, pct
+
+openelections_2016_general_precinct.csv
+  Rows: 218,644 | Columns: 9
+  Columns: county, precinct, office, district, candidate, party, votes, early_voting, election_day
+
+openelections_2018_general_precinct.csv
+  Rows: 463,336 | Columns: 13
+  Columns: county, precinct, office, district, candidate, party, votes, absentee, election_day, early_voting, mail, provisional, limited
+
+dataverse_president_county_2000_2020.tsv
+  Rows: 50,524 | Columns: 11
+  Years: 2000, 2004, 2008, 2012, 2016
+  Columns: year, state, state_po, county, FIPS, office, candidate, party, candidatevotes, totalvotes, version
+
+openelections_2014_general.csv
+  Rows: 1,402 | Columns: 7
+  Columns: office, district, candidate, incumbent, party, votes, pct
+
+openelections_2016_general_precinct.csv
+  Rows: 218,644 | Columns: 9
+  Columns: county, precinct, office, district, candidate, party, votes, early_voting, election_day
+
+openelections_2018_general_precinct.csv
+  Rows: 463,336 | Columns: 13
+  Columns: county, precinct, office, district, candidate, party, votes, absentee, election_day, early_voting, mail, provisional, limited
+
+================================================================================
+NON-USABLE FILES:
+--------------------------------------------------------------------------------
+
+census_2018_race_sex.xlsx
+  Issues: Error reading file: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+
+census_2020_age.xlsx
+  Issues: Error reading file: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+
+census_2020_race_sex.xlsx
+  Issues: Error reading file: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+
+tx_2020_general_raw.csv
+  Issues: File is HTML, not CSV
+
+tx_2022_general_raw.csv
+  Issues: File is HTML, not CSV
+
+tx_2024_general_raw.csv
+  Issues: File is HTML, not CSV
