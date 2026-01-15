@@ -1,0 +1,1511 @@
+year,district,office,candidate,party,votes,percentage
+2018,STATE,U.S. Senate,Cruz,REP,4259630,50.9
+2018,STATE,U.S. Senate,O'Rourke,DEM,4044073,48.3
+2018,STATE,U.S. Senate,Dikeman,LIB,65472,0.8
+2018,STATE,Governor,Abbott,REP,4655344,55.8
+2018,STATE,Governor,Valdez,DEM,3545673,42.5
+2018,STATE,Governor,Tippetts,LIB,140596,1.7
+2018,STATE,Lieutenant Governor,Patrick,REP,4260186,51.3
+2018,STATE,Lieutenant Governor,Collier,DEM,3859878,46.5
+2018,STATE,Lieutenant Governor,McKennon,LIB,183455,2.2
+2018,STATE,Attorney General,Paxton,REP,4190455,50.6
+2018,1,U.S. Senate,Cruz,REP,47345,74.4
+2018,1,U.S. Senate,O'Rourke,DEM,15929,25.0
+2018,1,U.S. Senate,Dikeman,LIB,392,0.6
+2018,1,Governor,Abbott,REP,48519,76.2
+2018,1,Governor,Valdez,DEM,14503,22.8
+2018,1,Governor,Tippetts,LIB,627,1.0
+2018,1,Lieutenant Governor,Patrick,REP,44928,70.8
+2018,1,Lieutenant Governor,Collier,DEM,17582,27.7
+2018,1,Lieutenant Governor,McKennon,LIB,924,1.5
+2018,1,Attorney General,Paxton,REP,46141,72.9
+2018,2,U.S. Senate,Cruz,REP,45603,78.2
+2018,2,U.S. Senate,O'Rourke,DEM,12330,21.1
+2018,2,U.S. Senate,Dikeman,LIB,407,0.7
+2018,2,Governor,Abbott,REP,47220,81.1
+2018,2,Governor,Valdez,DEM,10314,17.7
+2018,2,Governor,Tippetts,LIB,708,1.2
+2018,2,Lieutenant Governor,Patrick,REP,44203,76.2
+2018,2,Lieutenant Governor,Collier,DEM,12802,22.1
+2018,2,Lieutenant Governor,McKennon,LIB,992,1.7
+2018,2,Attorney General,Paxton,REP,44092,76.3
+2018,3,U.S. Senate,Cruz,REP,44226,76.5
+2018,3,U.S. Senate,O'Rourke,DEM,13197,22.8
+2018,3,U.S. Senate,Dikeman,LIB,416,0.7
+2018,3,Governor,Abbott,REP,46247,79.8
+2018,3,Governor,Valdez,DEM,10992,19.0
+2018,3,Governor,Tippetts,LIB,733,1.3
+2018,3,Lieutenant Governor,Patrick,REP,44309,76.5
+2018,3,Lieutenant Governor,Collier,DEM,12550,21.7
+2018,3,Lieutenant Governor,McKennon,LIB,1025,1.8
+2018,3,Attorney General,Paxton,REP,43905,76.0
+2018,4,U.S. Senate,Cruz,REP,37372,70.4
+2018,4,U.S. Senate,O'Rourke,DEM,15366,28.9
+2018,4,U.S. Senate,Dikeman,LIB,375,0.7
+2018,4,Governor,Abbott,REP,39301,73.9
+2018,4,Governor,Valdez,DEM,13145,24.7
+2018,4,Governor,Tippetts,LIB,739,1.4
+2018,4,Lieutenant Governor,Patrick,REP,36949,69.6
+2018,4,Lieutenant Governor,Collier,DEM,15129,28.5
+2018,4,Lieutenant Governor,McKennon,LIB,996,1.9
+2018,4,Attorney General,Paxton,REP,36622,69.2
+2018,5,U.S. Senate,Cruz,REP,49017,79.1
+2018,5,U.S. Senate,O'Rourke,DEM,12521,20.2
+2018,5,U.S. Senate,Dikeman,LIB,399,0.6
+2018,5,Governor,Abbott,REP,50164,80.8
+2018,5,Governor,Valdez,DEM,11243,18.1
+2018,5,Governor,Tippetts,LIB,652,1.1
+2018,5,Lieutenant Governor,Patrick,REP,46979,76.0
+2018,5,Lieutenant Governor,Collier,DEM,13822,22.4
+2018,5,Lieutenant Governor,McKennon,LIB,1038,1.7
+2018,5,Attorney General,Paxton,REP,48013,77.8
+2018,6,U.S. Senate,Cruz,REP,42395,67.8
+2018,6,U.S. Senate,O'Rourke,DEM,19725,31.6
+2018,6,U.S. Senate,Dikeman,LIB,370,0.6
+2018,6,Governor,Abbott,REP,44075,70.7
+2018,6,Governor,Valdez,DEM,17492,28.1
+2018,6,Governor,Tippetts,LIB,761,1.2
+2018,6,Lieutenant Governor,Patrick,REP,41848,67.5
+2018,6,Lieutenant Governor,Collier,DEM,19056,30.7
+2018,6,Lieutenant Governor,McKennon,LIB,1133,1.8
+2018,6,Attorney General,Paxton,REP,41735,67.4
+2018,7,U.S. Senate,Cruz,REP,43243,69.7
+2018,7,U.S. Senate,O'Rourke,DEM,18396,29.7
+2018,7,U.S. Senate,Dikeman,LIB,387,0.6
+2018,7,Governor,Abbott,REP,44858,72.3
+2018,7,Governor,Valdez,DEM,16516,26.6
+2018,7,Governor,Tippetts,LIB,698,1.1
+2018,7,Lieutenant Governor,Patrick,REP,41634,67.3
+2018,7,Lieutenant Governor,Collier,DEM,19187,31.0
+2018,7,Lieutenant Governor,McKennon,LIB,1053,1.7
+2018,7,Attorney General,Paxton,REP,42359,68.6
+2018,8,U.S. Senate,Cruz,REP,42984,77.0
+2018,8,U.S. Senate,O'Rourke,DEM,12476,22.3
+2018,8,U.S. Senate,Dikeman,LIB,386,0.7
+2018,8,Governor,Abbott,REP,44448,79.3
+2018,8,Governor,Valdez,DEM,10982,19.6
+2018,8,Governor,Tippetts,LIB,609,1.1
+2018,8,Lieutenant Governor,Patrick,REP,42004,75.2
+2018,8,Lieutenant Governor,Collier,DEM,12945,23.2
+2018,8,Lieutenant Governor,McKennon,LIB,884,1.6
+2018,8,Attorney General,Paxton,REP,42107,75.5
+2018,9,U.S. Senate,Cruz,REP,49843,75.6
+2018,9,U.S. Senate,O'Rourke,DEM,15669,23.8
+2018,9,U.S. Senate,Dikeman,LIB,377,0.6
+2018,9,Governor,Abbott,REP,51160,77.8
+2018,9,Governor,Valdez,DEM,13918,21.2
+2018,9,Governor,Tippetts,LIB,642,1.0
+2018,9,Lieutenant Governor,Patrick,REP,47811,73.0
+2018,9,Lieutenant Governor,Collier,DEM,16649,25.4
+2018,9,Lieutenant Governor,McKennon,LIB,1014,1.5
+2018,9,Attorney General,Paxton,REP,48554,74.3
+2018,10,U.S. Senate,Cruz,REP,41022,67.7
+2018,10,U.S. Senate,O'Rourke,DEM,19106,31.5
+2018,10,U.S. Senate,Dikeman,LIB,461,0.8
+2018,10,Governor,Abbott,REP,43647,72.1
+2018,10,Governor,Valdez,DEM,15879,26.2
+2018,10,Governor,Tippetts,LIB,975,1.6
+2018,10,Lieutenant Governor,Patrick,REP,40204,66.8
+2018,10,Lieutenant Governor,Collier,DEM,18647,31.0
+2018,10,Lieutenant Governor,McKennon,LIB,1336,2.2
+2018,10,Attorney General,Paxton,REP,39882,66.4
+2018,11,U.S. Senate,Cruz,REP,46614,74.1
+2018,11,U.S. Senate,O'Rourke,DEM,15949,25.4
+2018,11,U.S. Senate,Dikeman,LIB,303,0.5
+2018,11,Governor,Abbott,REP,47835,76.3
+2018,11,Governor,Valdez,DEM,14264,22.8
+2018,11,Governor,Tippetts,LIB,568,0.9
+2018,11,Lieutenant Governor,Patrick,REP,44393,71.4
+2018,11,Lieutenant Governor,Collier,DEM,16881,27.1
+2018,11,Lieutenant Governor,McKennon,LIB,933,1.5
+2018,11,Attorney General,Paxton,REP,45610,73.4
+2018,12,U.S. Senate,Cruz,REP,42707,70.4
+2018,12,U.S. Senate,O'Rourke,DEM,17488,28.8
+2018,12,U.S. Senate,Dikeman,LIB,435,0.7
+2018,12,Governor,Abbott,REP,44537,73.6
+2018,12,Governor,Valdez,DEM,15193,25.1
+2018,12,Governor,Tippetts,LIB,820,1.4
+2018,12,Lieutenant Governor,Patrick,REP,41318,68.5
+2018,12,Lieutenant Governor,Collier,DEM,17830,29.5
+2018,12,Lieutenant Governor,McKennon,LIB,1194,2.0
+2018,12,Attorney General,Paxton,REP,41565,69.2
+2018,13,U.S. Senate,Cruz,REP,39131,70.5
+2018,13,U.S. Senate,O'Rourke,DEM,16007,28.9
+2018,13,U.S. Senate,Dikeman,LIB,330,0.6
+2018,13,Governor,Abbott,REP,40588,73.2
+2018,13,Governor,Valdez,DEM,14310,25.8
+2018,13,Governor,Tippetts,LIB,560,1.0
+2018,13,Lieutenant Governor,Patrick,REP,37526,68.0
+2018,13,Lieutenant Governor,Collier,DEM,16719,30.3
+2018,13,Lieutenant Governor,McKennon,LIB,913,1.7
+2018,13,Attorney General,Paxton,REP,37878,68.8
+2018,14,U.S. Senate,Cruz,REP,28748,53.3
+2018,14,U.S. Senate,O'Rourke,DEM,24593,45.6
+2018,14,U.S. Senate,Dikeman,LIB,551,1.0
+2018,14,Governor,Abbott,REP,31818,59.4
+2018,14,Governor,Valdez,DEM,20559,38.4
+2018,14,Governor,Tippetts,LIB,1220,2.3
+2018,14,Lieutenant Governor,Patrick,REP,28663,53.9
+2018,14,Lieutenant Governor,Collier,DEM,22721,42.7
+2018,14,Lieutenant Governor,McKennon,LIB,1788,3.4
+2018,14,Attorney General,Paxton,REP,28743,54.2
+2018,15,U.S. Senate,Cruz,REP,44053,63.7
+2018,15,U.S. Senate,O'Rourke,DEM,24515,35.5
+2018,15,U.S. Senate,Dikeman,LIB,568,0.8
+2018,15,Governor,Abbott,REP,47524,68.8
+2018,15,Governor,Valdez,DEM,20402,29.6
+2018,15,Governor,Tippetts,LIB,1103,1.6
+2018,15,Lieutenant Governor,Patrick,REP,44555,64.7
+2018,15,Lieutenant Governor,Collier,DEM,22773,33.1
+2018,15,Lieutenant Governor,McKennon,LIB,1518,2.2
+2018,15,Attorney General,Paxton,REP,43752,63.7
+2018,16,U.S. Senate,Cruz,REP,44109,77.4
+2018,16,U.S. Senate,O'Rourke,DEM,12471,21.9
+2018,16,U.S. Senate,Dikeman,LIB,405,0.7
+2018,16,Governor,Abbott,REP,45739,80.0
+2018,16,Governor,Valdez,DEM,10712,18.7
+2018,16,Governor,Tippetts,LIB,696,1.2
+2018,16,Lieutenant Governor,Patrick,REP,43873,77.0
+2018,16,Lieutenant Governor,Collier,DEM,12136,21.3
+2018,16,Lieutenant Governor,McKennon,LIB,992,1.7
+2018,16,Attorney General,Paxton,REP,43519,76.5
+2018,17,U.S. Senate,Cruz,REP,36702,61.9
+2018,17,U.S. Senate,O'Rourke,DEM,22055,37.2
+2018,17,U.S. Senate,Dikeman,LIB,570,1.0
+2018,17,Governor,Abbott,REP,39058,65.9
+2018,17,Governor,Valdez,DEM,19117,32.2
+2018,17,Governor,Tippetts,LIB,1105,1.9
+2018,17,Lieutenant Governor,Patrick,REP,35954,60.9
+2018,17,Lieutenant Governor,Collier,DEM,21552,36.5
+2018,17,Lieutenant Governor,McKennon,LIB,1529,2.6
+2018,17,Attorney General,Paxton,REP,35340,60.0
+2018,18,U.S. Senate,Cruz,REP,45938,81.8
+2018,18,U.S. Senate,O'Rourke,DEM,9927,17.7
+2018,18,U.S. Senate,Dikeman,LIB,284,0.5
+2018,18,Governor,Abbott,REP,46931,83.7
+2018,18,Governor,Valdez,DEM,8610,15.4
+2018,18,Governor,Tippetts,LIB,512,0.9
+2018,18,Lieutenant Governor,Patrick,REP,44961,80.4
+2018,18,Lieutenant Governor,Collier,DEM,10115,18.1
+2018,18,Lieutenant Governor,McKennon,LIB,821,1.5
+2018,18,Attorney General,Paxton,REP,44659,80.3
+2018,19,U.S. Senate,Cruz,REP,60931,69.5
+2018,19,U.S. Senate,O'Rourke,DEM,25969,29.6
+2018,19,U.S. Senate,Dikeman,LIB,812,0.9
+2018,19,Governor,Abbott,REP,64597,73.8
+2018,19,Governor,Valdez,DEM,21286,24.3
+2018,19,Governor,Tippetts,LIB,1688,1.9
+2018,19,Lieutenant Governor,Patrick,REP,60271,69.0
+2018,19,Lieutenant Governor,Collier,DEM,24908,28.5
+2018,19,Lieutenant Governor,McKennon,LIB,2142,2.5
+2018,19,Attorney General,Paxton,REP,58998,68.2
+2018,20,U.S. Senate,Cruz,REP,43418,56.1
+2018,20,U.S. Senate,O'Rourke,DEM,33079,42.7
+2018,20,U.S. Senate,Dikeman,LIB,946,1.2
+2018,20,Governor,Abbott,REP,47722,61.8
+2018,20,Governor,Valdez,DEM,27715,35.9
+2018,20,Governor,Tippetts,LIB,1840,2.4
+2018,20,Lieutenant Governor,Patrick,REP,43808,56.9
+2018,20,Lieutenant Governor,Collier,DEM,30885,40.1
+2018,20,Lieutenant Governor,McKennon,LIB,2323,3.0
+2018,20,Attorney General,Paxton,REP,42532,55.4
+2018,21,U.S. Senate,Cruz,REP,49150,76.9
+2018,21,U.S. Senate,O'Rourke,DEM,14471,22.6
+2018,21,U.S. Senate,Dikeman,LIB,323,0.5
+2018,21,Governor,Abbott,REP,50728,79.4
+2018,21,Governor,Valdez,DEM,12513,19.6
+2018,21,Governor,Tippetts,LIB,620,1.0
+2018,21,Lieutenant Governor,Patrick,REP,47944,75.5
+2018,21,Lieutenant Governor,Collier,DEM,14642,23.1
+2018,21,Lieutenant Governor,McKennon,LIB,910,1.4
+2018,21,Attorney General,Paxton,REP,48065,75.7
+2018,22,U.S. Senate,Cruz,REP,18174,37.6
+2018,22,U.S. Senate,O'Rourke,DEM,29896,61.9
+2018,22,U.S. Senate,Dikeman,LIB,221,0.5
+2018,22,Governor,Abbott,REP,19644,40.6
+2018,22,Governor,Valdez,DEM,28263,58.5
+2018,22,Governor,Tippetts,LIB,428,0.9
+2018,22,Lieutenant Governor,Patrick,REP,17918,37.3
+2018,22,Lieutenant Governor,Collier,DEM,29619,61.6
+2018,22,Lieutenant Governor,McKennon,LIB,526,1.1
+2018,22,Attorney General,Paxton,REP,17767,36.9
+2018,23,U.S. Senate,Cruz,REP,34376,58.1
+2018,23,U.S. Senate,O'Rourke,DEM,24336,41.1
+2018,23,U.S. Senate,Dikeman,LIB,463,0.8
+2018,23,Governor,Abbott,REP,36415,61.6
+2018,23,Governor,Valdez,DEM,21643,36.6
+2018,23,Governor,Tippetts,LIB,1038,1.8
+2018,23,Lieutenant Governor,Patrick,REP,34175,58.0
+2018,23,Lieutenant Governor,Collier,DEM,23409,39.8
+2018,23,Lieutenant Governor,McKennon,LIB,1299,2.2
+2018,23,Attorney General,Paxton,REP,33561,57.1
+2018,24,U.S. Senate,Cruz,REP,45411,65.2
+2018,24,U.S. Senate,O'Rourke,DEM,23655,34.0
+2018,24,U.S. Senate,Dikeman,LIB,562,0.8
+2018,24,Governor,Abbott,REP,48194,69.3
+2018,24,Governor,Valdez,DEM,20131,29.0
+2018,24,Governor,Tippetts,LIB,1182,1.7
+2018,24,Lieutenant Governor,Patrick,REP,45158,65.2
+2018,24,Lieutenant Governor,Collier,DEM,22677,32.7
+2018,24,Lieutenant Governor,McKennon,LIB,1457,2.1
+2018,24,Attorney General,Paxton,REP,44299,64.1
+2018,25,U.S. Senate,Cruz,REP,31624,59.8
+2018,25,U.S. Senate,O'Rourke,DEM,20897,39.5
+2018,25,U.S. Senate,Dikeman,LIB,401,0.8
+2018,25,Governor,Abbott,REP,33664,63.7
+2018,25,Governor,Valdez,DEM,18404,34.8
+2018,25,Governor,Tippetts,LIB,777,1.5
+2018,25,Lieutenant Governor,Patrick,REP,31223,59.2
+2018,25,Lieutenant Governor,Collier,DEM,20338,38.6
+2018,25,Lieutenant Governor,McKennon,LIB,1158,2.2
+2018,25,Attorney General,Paxton,REP,30896,58.8
+2018,26,U.S. Senate,Cruz,REP,34871,57.3
+2018,26,U.S. Senate,O'Rourke,DEM,25512,41.9
+2018,26,U.S. Senate,Dikeman,LIB,458,0.8
+2018,26,Governor,Abbott,REP,38225,62.9
+2018,26,Governor,Valdez,DEM,21625,35.6
+2018,26,Governor,Tippetts,LIB,915,1.5
+2018,26,Lieutenant Governor,Patrick,REP,35375,58.4
+2018,26,Lieutenant Governor,Collier,DEM,24028,39.7
+2018,26,Lieutenant Governor,McKennon,LIB,1155,1.9
+2018,26,Attorney General,Paxton,REP,34669,57.3
+2018,27,U.S. Senate,Cruz,REP,16666,25.9
+2018,27,U.S. Senate,O'Rourke,DEM,47268,73.5
+2018,27,U.S. Senate,Dikeman,LIB,335,0.5
+2018,27,Governor,Abbott,REP,20503,32.0
+2018,27,Governor,Valdez,DEM,42624,66.5
+2018,27,Governor,Tippetts,LIB,938,1.5
+2018,27,Lieutenant Governor,Patrick,REP,17605,27.5
+2018,27,Lieutenant Governor,Collier,DEM,45359,70.9
+2018,27,Lieutenant Governor,McKennon,LIB,986,1.5
+2018,27,Attorney General,Paxton,REP,16592,26.0
+2018,28,U.S. Senate,Cruz,REP,33522,56.1
+2018,28,U.S. Senate,O'Rourke,DEM,25830,43.2
+2018,28,U.S. Senate,Dikeman,LIB,387,0.6
+2018,28,Governor,Abbott,REP,36712,61.6
+2018,28,Governor,Valdez,DEM,22092,37.1
+2018,28,Governor,Tippetts,LIB,799,1.3
+2018,28,Lieutenant Governor,Patrick,REP,34025,57.3
+2018,28,Lieutenant Governor,Collier,DEM,24365,41.0
+2018,28,Lieutenant Governor,McKennon,LIB,972,1.6
+2018,28,Attorney General,Paxton,REP,33248,56.1
+2018,29,U.S. Senate,Cruz,REP,34069,57.9
+2018,29,U.S. Senate,O'Rourke,DEM,24331,41.4
+2018,29,U.S. Senate,Dikeman,LIB,431,0.7
+2018,29,Governor,Abbott,REP,36709,62.5
+2018,29,Governor,Valdez,DEM,21132,36.0
+2018,29,Governor,Tippetts,LIB,860,1.5
+2018,29,Lieutenant Governor,Patrick,REP,34274,58.5
+2018,29,Lieutenant Governor,Collier,DEM,23167,39.5
+2018,29,Lieutenant Governor,McKennon,LIB,1155,2.0
+2018,29,Attorney General,Paxton,REP,33550,57.4
+2018,30,U.S. Senate,Cruz,REP,44230,74.5
+2018,30,U.S. Senate,O'Rourke,DEM,14784,24.9
+2018,30,U.S. Senate,Dikeman,LIB,340,0.6
+2018,30,Governor,Abbott,REP,45681,77.0
+2018,30,Governor,Valdez,DEM,13016,22.0
+2018,30,Governor,Tippetts,LIB,591,1.0
+2018,30,Lieutenant Governor,Patrick,REP,42995,73.0
+2018,30,Lieutenant Governor,Collier,DEM,14961,25.4
+2018,30,Lieutenant Governor,McKennon,LIB,959,1.6
+2018,30,Attorney General,Paxton,REP,42714,72.7
+2018,31,U.S. Senate,Cruz,REP,25654,53.3
+2018,31,U.S. Senate,O'Rourke,DEM,22142,46.0
+2018,31,U.S. Senate,Dikeman,LIB,297,0.6
+2018,31,Governor,Abbott,REP,27792,58.8
+2018,31,Governor,Valdez,DEM,18999,40.2
+2018,31,Governor,Tippetts,LIB,437,0.9
+2018,31,Lieutenant Governor,Patrick,REP,24437,53.0
+2018,31,Lieutenant Governor,Collier,DEM,20823,45.1
+2018,31,Lieutenant Governor,McKennon,LIB,861,1.9
+2018,31,Attorney General,Paxton,REP,23861,51.8
+2018,32,U.S. Senate,Cruz,REP,34676,58.1
+2018,32,U.S. Senate,O'Rourke,DEM,24517,41.1
+2018,32,U.S. Senate,Dikeman,LIB,494,0.8
+2018,32,Governor,Abbott,REP,38722,65.0
+2018,32,Governor,Valdez,DEM,19970,33.5
+2018,32,Governor,Tippetts,LIB,910,1.5
+2018,32,Lieutenant Governor,Patrick,REP,34605,58.6
+2018,32,Lieutenant Governor,Collier,DEM,23065,39.0
+2018,32,Lieutenant Governor,McKennon,LIB,1425,2.4
+2018,32,Attorney General,Paxton,REP,34155,57.9
+2018,33,U.S. Senate,Cruz,REP,39036,60.0
+2018,33,U.S. Senate,O'Rourke,DEM,25486,39.2
+2018,33,U.S. Senate,Dikeman,LIB,559,0.9
+2018,33,Governor,Abbott,REP,42478,65.5
+2018,33,Governor,Valdez,DEM,21199,32.7
+2018,33,Governor,Tippetts,LIB,1152,1.8
+2018,33,Lieutenant Governor,Patrick,REP,39020,60.4
+2018,33,Lieutenant Governor,Collier,DEM,24105,37.3
+2018,33,Lieutenant Governor,McKennon,LIB,1437,2.2
+2018,33,Attorney General,Paxton,REP,38277,59.4
+2018,34,U.S. Senate,Cruz,REP,17957,41.4
+2018,34,U.S. Senate,O'Rourke,DEM,25122,57.9
+2018,34,U.S. Senate,Dikeman,LIB,281,0.6
+2018,34,Governor,Abbott,REP,21271,49.1
+2018,34,Governor,Valdez,DEM,21547,49.7
+2018,34,Governor,Tippetts,LIB,510,1.2
+2018,34,Lieutenant Governor,Patrick,REP,17580,41.0
+2018,34,Lieutenant Governor,Collier,DEM,24426,57.0
+2018,34,Lieutenant Governor,McKennon,LIB,882,2.1
+2018,34,Attorney General,Paxton,REP,17473,40.7
+2018,35,U.S. Senate,Cruz,REP,7285,27.9
+2018,35,U.S. Senate,O'Rourke,DEM,18614,71.4
+2018,35,U.S. Senate,Dikeman,LIB,175,0.7
+2018,35,Governor,Abbott,REP,8795,34.0
+2018,35,Governor,Valdez,DEM,16821,65.0
+2018,35,Governor,Tippetts,LIB,263,1.0
+2018,35,Lieutenant Governor,Patrick,REP,7069,27.7
+2018,35,Lieutenant Governor,Collier,DEM,17898,70.2
+2018,35,Lieutenant Governor,McKennon,LIB,516,2.0
+2018,35,Attorney General,Paxton,REP,6645,26.1
+2018,36,U.S. Senate,Cruz,REP,8548,27.1
+2018,36,U.S. Senate,O'Rourke,DEM,22812,72.3
+2018,36,U.S. Senate,Dikeman,LIB,174,0.6
+2018,36,Governor,Abbott,REP,10272,32.7
+2018,36,Governor,Valdez,DEM,20742,66.1
+2018,36,Governor,Tippetts,LIB,364,1.2
+2018,36,Lieutenant Governor,Patrick,REP,8576,27.5
+2018,36,Lieutenant Governor,Collier,DEM,21990,70.6
+2018,36,Lieutenant Governor,McKennon,LIB,579,1.9
+2018,36,Attorney General,Paxton,REP,8217,26.4
+2018,37,U.S. Senate,Cruz,REP,18037,45.6
+2018,37,U.S. Senate,O'Rourke,DEM,21267,53.8
+2018,37,U.S. Senate,Dikeman,LIB,249,0.6
+2018,37,Governor,Abbott,REP,20826,53.0
+2018,37,Governor,Valdez,DEM,17970,45.8
+2018,37,Governor,Tippetts,LIB,478,1.2
+2018,37,Lieutenant Governor,Patrick,REP,17836,46.2
+2018,37,Lieutenant Governor,Collier,DEM,19809,51.3
+2018,37,Lieutenant Governor,McKennon,LIB,972,2.5
+2018,37,Attorney General,Paxton,REP,16890,43.7
+2018,38,U.S. Senate,Cruz,REP,8411,26.6
+2018,38,U.S. Senate,O'Rourke,DEM,22893,72.5
+2018,38,U.S. Senate,Dikeman,LIB,258,0.8
+2018,38,Governor,Abbott,REP,10936,34.8
+2018,38,Governor,Valdez,DEM,19937,63.5
+2018,38,Governor,Tippetts,LIB,545,1.7
+2018,38,Lieutenant Governor,Patrick,REP,8606,27.9
+2018,38,Lieutenant Governor,Collier,DEM,21263,68.9
+2018,38,Lieutenant Governor,McKennon,LIB,1014,3.3
+2018,38,Attorney General,Paxton,REP,7900,25.5
+2018,39,U.S. Senate,Cruz,REP,9580,30.0
+2018,39,U.S. Senate,O'Rourke,DEM,22176,69.5
+2018,39,U.S. Senate,Dikeman,LIB,173,0.5
+2018,39,Governor,Abbott,REP,11472,36.1
+2018,39,Governor,Valdez,DEM,19944,62.8
+2018,39,Governor,Tippetts,LIB,338,1.1
+2018,39,Lieutenant Governor,Patrick,REP,9515,30.3
+2018,39,Lieutenant Governor,Collier,DEM,21295,67.8
+2018,39,Lieutenant Governor,McKennon,LIB,610,1.9
+2018,39,Attorney General,Paxton,REP,9023,28.7
+2018,40,U.S. Senate,Cruz,REP,8835,28.4
+2018,40,U.S. Senate,O'Rourke,DEM,22113,71.1
+2018,40,U.S. Senate,Dikeman,LIB,167,0.5
+2018,40,Governor,Abbott,REP,10809,34.9
+2018,40,Governor,Valdez,DEM,19834,64.0
+2018,40,Governor,Tippetts,LIB,329,1.1
+2018,40,Lieutenant Governor,Patrick,REP,8682,28.3
+2018,40,Lieutenant Governor,Collier,DEM,21393,69.7
+2018,40,Lieutenant Governor,McKennon,LIB,601,2.0
+2018,40,Attorney General,Paxton,REP,8295,27.1
+2018,41,U.S. Senate,Cruz,REP,15910,37.7
+2018,41,U.S. Senate,O'Rourke,DEM,26084,61.8
+2018,41,U.S. Senate,Dikeman,LIB,229,0.5
+2018,41,Governor,Abbott,REP,18649,44.3
+2018,41,Governor,Valdez,DEM,22935,54.5
+2018,41,Governor,Tippetts,LIB,504,1.2
+2018,41,Lieutenant Governor,Patrick,REP,16115,38.6
+2018,41,Lieutenant Governor,Collier,DEM,24772,59.3
+2018,41,Lieutenant Governor,McKennon,LIB,865,2.1
+2018,41,Attorney General,Paxton,REP,15497,37.2
+2018,42,U.S. Senate,Cruz,REP,11258,29.7
+2018,42,U.S. Senate,O'Rourke,DEM,26426,69.6
+2018,42,U.S. Senate,Dikeman,LIB,281,0.7
+2018,42,Governor,Abbott,REP,13289,35.3
+2018,42,Governor,Valdez,DEM,23927,63.5
+2018,42,Governor,Tippetts,LIB,437,1.2
+2018,42,Lieutenant Governor,Patrick,REP,10776,29.0
+2018,42,Lieutenant Governor,Collier,DEM,25495,68.6
+2018,42,Lieutenant Governor,McKennon,LIB,900,2.4
+2018,42,Attorney General,Paxton,REP,9672,26.1
+2018,43,U.S. Senate,Cruz,REP,30112,57.3
+2018,43,U.S. Senate,O'Rourke,DEM,22096,42.1
+2018,43,U.S. Senate,Dikeman,LIB,335,0.6
+2018,43,Governor,Abbott,REP,33054,63.1
+2018,43,Governor,Valdez,DEM,18726,35.8
+2018,43,Governor,Tippetts,LIB,568,1.1
+2018,43,Lieutenant Governor,Patrick,REP,29118,56.4
+2018,43,Lieutenant Governor,Collier,DEM,21500,41.7
+2018,43,Lieutenant Governor,McKennon,LIB,981,1.9
+2018,43,Attorney General,Paxton,REP,28933,56.1
+2018,44,U.S. Senate,Cruz,REP,38112,63.3
+2018,44,U.S. Senate,O'Rourke,DEM,21501,35.7
+2018,44,U.S. Senate,Dikeman,LIB,585,1.0
+2018,44,Governor,Abbott,REP,40678,67.8
+2018,44,Governor,Valdez,DEM,18435,30.7
+2018,44,Governor,Tippetts,LIB,906,1.5
+2018,44,Lieutenant Governor,Patrick,REP,38331,64.2
+2018,44,Lieutenant Governor,Collier,DEM,20034,33.5
+2018,44,Lieutenant Governor,McKennon,LIB,1362,2.3
+2018,44,Attorney General,Paxton,REP,37231,62.5
+2018,45,U.S. Senate,Cruz,REP,22033,37.0
+2018,45,U.S. Senate,O'Rourke,DEM,36955,62.0
+2018,45,U.S. Senate,Dikeman,LIB,633,1.1
+2018,45,Governor,Abbott,REP,25572,43.0
+2018,45,Governor,Valdez,DEM,32245,54.3
+2018,45,Governor,Tippetts,LIB,1603,2.7
+2018,45,Lieutenant Governor,Patrick,REP,22821,38.7
+2018,45,Lieutenant Governor,Collier,DEM,34172,57.9
+2018,45,Lieutenant Governor,McKennon,LIB,2035,3.4
+2018,45,Attorney General,Paxton,REP,22023,37.4
+2018,46,U.S. Senate,Cruz,REP,12975,20.7
+2018,46,U.S. Senate,O'Rourke,DEM,48940,78.2
+2018,46,U.S. Senate,Dikeman,LIB,670,1.1
+2018,46,Governor,Abbott,REP,15669,25.2
+2018,46,Governor,Valdez,DEM,44964,72.3
+2018,46,Governor,Tippetts,LIB,1574,2.5
+2018,46,Lieutenant Governor,Patrick,REP,13482,21.7
+2018,46,Lieutenant Governor,Collier,DEM,46649,75.2
+2018,46,Lieutenant Governor,McKennon,LIB,1873,3.0
+2018,46,Attorney General,Paxton,REP,13011,21.0
+2018,47,U.S. Senate,Cruz,REP,32466,36.8
+2018,47,U.S. Senate,O'Rourke,DEM,54806,62.1
+2018,47,U.S. Senate,Dikeman,LIB,1024,1.2
+2018,47,Governor,Abbott,REP,38421,43.9
+2018,47,Governor,Valdez,DEM,46852,53.5
+2018,47,Governor,Tippetts,LIB,2324,2.7
+2018,47,Lieutenant Governor,Patrick,REP,33310,38.1
+2018,47,Lieutenant Governor,Collier,DEM,51297,58.7
+2018,47,Lieutenant Governor,McKennon,LIB,2745,3.1
+2018,47,Attorney General,Paxton,REP,32068,36.8
+2018,48,U.S. Senate,Cruz,REP,25450,26.9
+2018,48,U.S. Senate,O'Rourke,DEM,68187,72.0
+2018,48,U.S. Senate,Dikeman,LIB,1024,1.1
+2018,48,Governor,Abbott,REP,31622,33.8
+2018,48,Governor,Valdez,DEM,59242,63.2
+2018,48,Governor,Tippetts,LIB,2808,3.0
+2018,48,Lieutenant Governor,Patrick,REP,26245,28.1
+2018,48,Lieutenant Governor,Collier,DEM,64033,68.5
+2018,48,Lieutenant Governor,McKennon,LIB,3159,3.4
+2018,48,Attorney General,Paxton,REP,25245,27.1
+2018,49,U.S. Senate,Cruz,REP,13729,14.0
+2018,49,U.S. Senate,O'Rourke,DEM,83334,85.0
+2018,49,U.S. Senate,Dikeman,LIB,1016,1.0
+2018,49,Governor,Abbott,REP,19088,19.7
+2018,49,Governor,Valdez,DEM,74703,77.3
+2018,49,Governor,Tippetts,LIB,2897,3.0
+2018,49,Lieutenant Governor,Patrick,REP,15087,15.7
+2018,49,Lieutenant Governor,Collier,DEM,77999,81.1
+2018,49,Lieutenant Governor,McKennon,LIB,3141,3.3
+2018,49,Attorney General,Paxton,REP,14269,14.9
+2018,50,U.S. Senate,Cruz,REP,10499,19.7
+2018,50,U.S. Senate,O'Rourke,DEM,42095,79.2
+2018,50,U.S. Senate,Dikeman,LIB,582,1.1
+2018,50,Governor,Abbott,REP,12885,24.4
+2018,50,Governor,Valdez,DEM,38505,72.8
+2018,50,Governor,Tippetts,LIB,1474,2.8
+2018,50,Lieutenant Governor,Patrick,REP,11120,21.1
+2018,50,Lieutenant Governor,Collier,DEM,39769,75.5
+2018,50,Lieutenant Governor,McKennon,LIB,1773,3.4
+2018,50,Attorney General,Paxton,REP,10600,20.1
+2018,51,U.S. Senate,Cruz,REP,6449,11.4
+2018,51,U.S. Senate,O'Rourke,DEM,49364,87.6
+2018,51,U.S. Senate,Dikeman,LIB,515,0.9
+2018,51,Governor,Abbott,REP,8879,15.9
+2018,51,Governor,Valdez,DEM,45471,81.4
+2018,51,Governor,Tippetts,LIB,1500,2.7
+2018,51,Lieutenant Governor,Patrick,REP,7223,13.0
+2018,51,Lieutenant Governor,Collier,DEM,46351,83.4
+2018,51,Lieutenant Governor,McKennon,LIB,1982,3.6
+2018,51,Attorney General,Paxton,REP,6807,12.3
+2018,52,U.S. Senate,Cruz,REP,33267,51.1
+2018,52,U.S. Senate,O'Rourke,DEM,31021,47.7
+2018,52,U.S. Senate,Dikeman,LIB,782,1.2
+2018,52,Governor,Abbott,REP,37207,57.3
+2018,52,Governor,Valdez,DEM,26120,40.3
+2018,52,Governor,Tippetts,LIB,1561,2.4
+2018,52,Lieutenant Governor,Patrick,REP,33674,52.2
+2018,52,Lieutenant Governor,Collier,DEM,28837,44.7
+2018,52,Lieutenant Governor,McKennon,LIB,2032,3.1
+2018,52,Attorney General,Paxton,REP,32612,50.7
+2018,53,U.S. Senate,Cruz,REP,58157,75.9
+2018,53,U.S. Senate,O'Rourke,DEM,17875,23.3
+2018,53,U.S. Senate,Dikeman,LIB,575,0.8
+2018,53,Governor,Abbott,REP,60425,79.0
+2018,53,Governor,Valdez,DEM,15168,19.8
+2018,53,Governor,Tippetts,LIB,911,1.2
+2018,53,Lieutenant Governor,Patrick,REP,56682,74.4
+2018,53,Lieutenant Governor,Collier,DEM,18028,23.7
+2018,53,Lieutenant Governor,McKennon,LIB,1447,1.9
+2018,53,Attorney General,Paxton,REP,56735,74.6
+2018,54,U.S. Senate,Cruz,REP,21498,54.0
+2018,54,U.S. Senate,O'Rourke,DEM,18032,45.3
+2018,54,U.S. Senate,Dikeman,LIB,315,0.8
+2018,54,Governor,Abbott,REP,23033,57.9
+2018,54,Governor,Valdez,DEM,16117,40.5
+2018,54,Governor,Tippetts,LIB,623,1.6
+2018,54,Lieutenant Governor,Patrick,REP,21480,54.2
+2018,54,Lieutenant Governor,Collier,DEM,17217,43.4
+2018,54,Lieutenant Governor,McKennon,LIB,948,2.4
+2018,54,Attorney General,Paxton,REP,21221,53.6
+2018,55,U.S. Senate,Cruz,REP,25939,55.5
+2018,55,U.S. Senate,O'Rourke,DEM,20385,43.6
+2018,55,U.S. Senate,Dikeman,LIB,408,0.9
+2018,55,Governor,Abbott,REP,28124,60.3
+2018,55,Governor,Valdez,DEM,17686,37.9
+2018,55,Governor,Tippetts,LIB,815,1.7
+2018,55,Lieutenant Governor,Patrick,REP,26160,56.3
+2018,55,Lieutenant Governor,Collier,DEM,19125,41.2
+2018,55,Lieutenant Governor,McKennon,LIB,1171,2.5
+2018,55,Attorney General,Paxton,REP,25845,55.7
+2018,56,U.S. Senate,Cruz,REP,40749,64.9
+2018,56,U.S. Senate,O'Rourke,DEM,21513,34.3
+2018,56,U.S. Senate,Dikeman,LIB,480,0.8
+2018,56,Governor,Abbott,REP,43608,69.4
+2018,56,Governor,Valdez,DEM,18295,29.1
+2018,56,Governor,Tippetts,LIB,943,1.5
+2018,56,Lieutenant Governor,Patrick,REP,39796,63.6
+2018,56,Lieutenant Governor,Collier,DEM,21389,34.2
+2018,56,Lieutenant Governor,McKennon,LIB,1422,2.3
+2018,56,Attorney General,Paxton,REP,39742,63.7
+2018,57,U.S. Senate,Cruz,REP,33144,56.4
+2018,57,U.S. Senate,O'Rourke,DEM,25145,42.8
+2018,57,U.S. Senate,Dikeman,LIB,507,0.9
+2018,57,Governor,Abbott,REP,36000,61.5
+2018,57,Governor,Valdez,DEM,21290,36.4
+2018,57,Governor,Tippetts,LIB,1260,2.2
+2018,57,Lieutenant Governor,Patrick,REP,33357,57.2
+2018,57,Lieutenant Governor,Collier,DEM,23347,40.0
+2018,57,Lieutenant Governor,McKennon,LIB,1591,2.7
+2018,57,Attorney General,Paxton,REP,32821,56.4
+2018,58,U.S. Senate,Cruz,REP,42603,76.2
+2018,58,U.S. Senate,O'Rourke,DEM,12844,23.0
+2018,58,U.S. Senate,Dikeman,LIB,479,0.9
+2018,58,Governor,Abbott,REP,44627,79.6
+2018,58,Governor,Valdez,DEM,10604,18.9
+2018,58,Governor,Tippetts,LIB,816,1.5
+2018,58,Lieutenant Governor,Patrick,REP,41957,75.1
+2018,58,Lieutenant Governor,Collier,DEM,12700,22.7
+2018,58,Lieutenant Governor,McKennon,LIB,1179,2.1
+2018,58,Attorney General,Paxton,REP,41322,74.2
+2018,59,U.S. Senate,Cruz,REP,43566,76.7
+2018,59,U.S. Senate,O'Rourke,DEM,12780,22.5
+2018,59,U.S. Senate,Dikeman,LIB,477,0.8
+2018,59,Governor,Abbott,REP,45405,79.9
+2018,59,Governor,Valdez,DEM,10635,18.7
+2018,59,Governor,Tippetts,LIB,765,1.3
+2018,59,Lieutenant Governor,Patrick,REP,42667,75.3
+2018,59,Lieutenant Governor,Collier,DEM,12784,22.6
+2018,59,Lieutenant Governor,McKennon,LIB,1225,2.2
+2018,59,Attorney General,Paxton,REP,42462,75.1
+2018,60,U.S. Senate,Cruz,REP,54245,81.1
+2018,60,U.S. Senate,O'Rourke,DEM,12117,18.1
+2018,60,U.S. Senate,Dikeman,LIB,527,0.8
+2018,60,Governor,Abbott,REP,56441,84.0
+2018,60,Governor,Valdez,DEM,9919,14.8
+2018,60,Governor,Tippetts,LIB,859,1.3
+2018,60,Lieutenant Governor,Patrick,REP,53658,80.1
+2018,60,Lieutenant Governor,Collier,DEM,12073,18.0
+2018,60,Lieutenant Governor,McKennon,LIB,1292,1.9
+2018,60,Attorney General,Paxton,REP,53279,79.7
+2018,61,U.S. Senate,Cruz,REP,35476,54.8
+2018,61,U.S. Senate,O'Rourke,DEM,28765,44.4
+2018,61,U.S. Senate,Dikeman,LIB,504,0.8
+2018,61,Governor,Abbott,REP,39236,61.0
+2018,61,Governor,Valdez,DEM,24032,37.4
+2018,61,Governor,Tippetts,LIB,1066,1.7
+2018,61,Lieutenant Governor,Patrick,REP,36196,56.6
+2018,61,Lieutenant Governor,Collier,DEM,26490,41.4
+2018,61,Lieutenant Governor,McKennon,LIB,1291,2.0
+2018,61,Attorney General,Paxton,REP,35170,55.0
+2018,62,U.S. Senate,Cruz,REP,45086,75.4
+2018,62,U.S. Senate,O'Rourke,DEM,14257,23.8
+2018,62,U.S. Senate,Dikeman,LIB,457,0.8
+2018,62,Governor,Abbott,REP,46383,77.7
+2018,62,Governor,Valdez,DEM,12462,20.9
+2018,62,Governor,Tippetts,LIB,827,1.4
+2018,62,Lieutenant Governor,Patrick,REP,43677,73.5
+2018,62,Lieutenant Governor,Collier,DEM,14540,24.5
+2018,62,Lieutenant Governor,McKennon,LIB,1189,2.0
+2018,62,Attorney General,Paxton,REP,43907,74.0
+2018,63,U.S. Senate,Cruz,REP,35744,53.2
+2018,63,U.S. Senate,O'Rourke,DEM,30905,46.0
+2018,63,U.S. Senate,Dikeman,LIB,517,0.8
+2018,63,Governor,Abbott,REP,39644,59.3
+2018,63,Governor,Valdez,DEM,25780,38.6
+2018,63,Governor,Tippetts,LIB,1410,2.1
+2018,63,Lieutenant Governor,Patrick,REP,36253,54.4
+2018,63,Lieutenant Governor,Collier,DEM,28580,42.9
+2018,63,Lieutenant Governor,McKennon,LIB,1770,2.7
+2018,63,Attorney General,Paxton,REP,35418,53.3
+2018,64,U.S. Senate,Cruz,REP,38047,57.3
+2018,64,U.S. Senate,O'Rourke,DEM,27812,41.9
+2018,64,U.S. Senate,Dikeman,LIB,533,0.8
+2018,64,Governor,Abbott,REP,40396,61.1
+2018,64,Governor,Valdez,DEM,24452,37.0
+2018,64,Governor,Tippetts,LIB,1300,2.0
+2018,64,Lieutenant Governor,Patrick,REP,37841,57.5
+2018,64,Lieutenant Governor,Collier,DEM,26110,39.7
+2018,64,Lieutenant Governor,McKennon,LIB,1826,2.8
+2018,64,Attorney General,Paxton,REP,37388,56.9
+2018,65,U.S. Senate,Cruz,REP,36686,54.5
+2018,65,U.S. Senate,O'Rourke,DEM,30049,44.6
+2018,65,U.S. Senate,Dikeman,LIB,572,0.8
+2018,65,Governor,Abbott,REP,40565,60.5
+2018,65,Governor,Valdez,DEM,25043,37.4
+2018,65,Governor,Tippetts,LIB,1428,2.1
+2018,65,Lieutenant Governor,Patrick,REP,37265,55.8
+2018,65,Lieutenant Governor,Collier,DEM,27815,41.7
+2018,65,Lieutenant Governor,McKennon,LIB,1677,2.5
+2018,65,Attorney General,Paxton,REP,36520,54.8
+2018,66,U.S. Senate,Cruz,REP,38444,54.5
+2018,66,U.S. Senate,O'Rourke,DEM,31523,44.7
+2018,66,U.S. Senate,Dikeman,LIB,514,0.7
+2018,66,Governor,Abbott,REP,42916,61.3
+2018,66,Governor,Valdez,DEM,25918,37.0
+2018,66,Governor,Tippetts,LIB,1192,1.7
+2018,66,Lieutenant Governor,Patrick,REP,39210,56.4
+2018,66,Lieutenant Governor,Collier,DEM,28990,41.7
+2018,66,Lieutenant Governor,McKennon,LIB,1381,2.0
+2018,66,Attorney General,Paxton,REP,38284,55.0
+2018,67,U.S. Senate,Cruz,REP,33902,54.2
+2018,67,U.S. Senate,O'Rourke,DEM,28085,44.9
+2018,67,U.S. Senate,Dikeman,LIB,519,0.8
+2018,67,Governor,Abbott,REP,37265,60.0
+2018,67,Governor,Valdez,DEM,23787,38.3
+2018,67,Governor,Tippetts,LIB,1106,1.8
+2018,67,Lieutenant Governor,Patrick,REP,34256,55.4
+2018,67,Lieutenant Governor,Collier,DEM,26135,42.3
+2018,67,Lieutenant Governor,McKennon,LIB,1394,2.3
+2018,67,Attorney General,Paxton,REP,33236,53.9
+2018,68,U.S. Senate,Cruz,REP,57103,84.4
+2018,68,U.S. Senate,O'Rourke,DEM,10080,14.9
+2018,68,U.S. Senate,Dikeman,LIB,456,0.7
+2018,68,Governor,Abbott,REP,58459,86.3
+2018,68,Governor,Valdez,DEM,8519,12.6
+2018,68,Governor,Tippetts,LIB,754,1.1
+2018,68,Lieutenant Governor,Patrick,REP,55027,81.6
+2018,68,Lieutenant Governor,Collier,DEM,11234,16.7
+2018,68,Lieutenant Governor,McKennon,LIB,1180,1.7
+2018,68,Attorney General,Paxton,REP,55802,82.9
+2018,69,U.S. Senate,Cruz,REP,40487,74.7
+2018,69,U.S. Senate,O'Rourke,DEM,13250,24.5
+2018,69,U.S. Senate,Dikeman,LIB,432,0.8
+2018,69,Governor,Abbott,REP,42014,77.6
+2018,69,Governor,Valdez,DEM,11474,21.2
+2018,69,Governor,Tippetts,LIB,683,1.3
+2018,69,Lieutenant Governor,Patrick,REP,38637,71.8
+2018,69,Lieutenant Governor,Collier,DEM,13938,25.9
+2018,69,Lieutenant Governor,McKennon,LIB,1203,2.2
+2018,69,Attorney General,Paxton,REP,39519,73.7
+2018,70,U.S. Senate,Cruz,REP,29577,45.7
+2018,70,U.S. Senate,O'Rourke,DEM,34620,53.5
+2018,70,U.S. Senate,Dikeman,LIB,535,0.8
+2018,70,Governor,Abbott,REP,33748,52.5
+2018,70,Governor,Valdez,DEM,29228,45.5
+2018,70,Governor,Tippetts,LIB,1275,2.0
+2018,70,Lieutenant Governor,Patrick,REP,30328,47.5
+2018,70,Lieutenant Governor,Collier,DEM,32094,50.2
+2018,70,Lieutenant Governor,McKennon,LIB,1461,2.3
+2018,70,Attorney General,Paxton,REP,29274,45.9
+2018,71,U.S. Senate,Cruz,REP,41415,75.7
+2018,71,U.S. Senate,O'Rourke,DEM,12858,23.5
+2018,71,U.S. Senate,Dikeman,LIB,460,0.8
+2018,71,Governor,Abbott,REP,42990,78.5
+2018,71,Governor,Valdez,DEM,10929,20.0
+2018,71,Governor,Tippetts,LIB,835,1.5
+2018,71,Lieutenant Governor,Patrick,REP,39952,73.3
+2018,71,Lieutenant Governor,Collier,DEM,13265,24.3
+2018,71,Lieutenant Governor,McKennon,LIB,1287,2.4
+2018,71,Attorney General,Paxton,REP,40691,74.8
+2018,72,U.S. Senate,Cruz,REP,40136,75.3
+2018,72,U.S. Senate,O'Rourke,DEM,12732,23.9
+2018,72,U.S. Senate,Dikeman,LIB,430,0.8
+2018,72,Governor,Abbott,REP,41498,77.8
+2018,72,Governor,Valdez,DEM,11140,20.9
+2018,72,Governor,Tippetts,LIB,691,1.3
+2018,72,Lieutenant Governor,Patrick,REP,37743,71.4
+2018,72,Lieutenant Governor,Collier,DEM,13840,26.2
+2018,72,Lieutenant Governor,McKennon,LIB,1280,2.4
+2018,72,Attorney General,Paxton,REP,38822,73.5
+2018,73,U.S. Senate,Cruz,REP,55144,68.0
+2018,73,U.S. Senate,O'Rourke,DEM,25165,31.0
+2018,73,U.S. Senate,Dikeman,LIB,805,1.0
+2018,73,Governor,Abbott,REP,58715,72.1
+2018,73,Governor,Valdez,DEM,21143,26.0
+2018,73,Governor,Tippetts,LIB,1535,1.9
+2018,73,Lieutenant Governor,Patrick,REP,55375,68.2
+2018,73,Lieutenant Governor,Collier,DEM,23851,29.4
+2018,73,Lieutenant Governor,McKennon,LIB,2015,2.5
+2018,73,Attorney General,Paxton,REP,54482,67.2
+2018,74,U.S. Senate,Cruz,REP,16635,37.3
+2018,74,U.S. Senate,O'Rourke,DEM,27552,61.8
+2018,74,U.S. Senate,Dikeman,LIB,419,0.9
+2018,74,Governor,Abbott,REP,18798,42.8
+2018,74,Governor,Valdez,DEM,24488,55.7
+2018,74,Governor,Tippetts,LIB,672,1.5
+2018,74,Lieutenant Governor,Patrick,REP,16626,38.5
+2018,74,Lieutenant Governor,Collier,DEM,25384,58.8
+2018,74,Lieutenant Governor,McKennon,LIB,1161,2.7
+2018,74,Attorney General,Paxton,REP,16071,37.3
+2018,75,U.S. Senate,Cruz,REP,6963,21.7
+2018,75,U.S. Senate,O'Rourke,DEM,25004,77.8
+2018,75,U.S. Senate,Dikeman,LIB,172,0.5
+2018,75,Governor,Abbott,REP,8573,27.2
+2018,75,Governor,Valdez,DEM,22450,71.2
+2018,75,Governor,Tippetts,LIB,508,1.6
+2018,75,Lieutenant Governor,Patrick,REP,7617,24.5
+2018,75,Lieutenant Governor,Collier,DEM,22684,72.8
+2018,75,Lieutenant Governor,McKennon,LIB,851,2.7
+2018,75,Attorney General,Paxton,REP,7303,23.4
+2018,76,U.S. Senate,Cruz,REP,20182,35.7
+2018,76,U.S. Senate,O'Rourke,DEM,36009,63.7
+2018,76,U.S. Senate,Dikeman,LIB,335,0.6
+2018,76,Governor,Abbott,REP,23352,41.4
+2018,76,Governor,Valdez,DEM,32291,57.2
+2018,76,Governor,Tippetts,LIB,778,1.4
+2018,76,Lieutenant Governor,Patrick,REP,21072,37.4
+2018,76,Lieutenant Governor,Collier,DEM,34299,60.9
+2018,76,Lieutenant Governor,McKennon,LIB,936,1.7
+2018,76,Attorney General,Paxton,REP,20248,36.0
+2018,77,U.S. Senate,Cruz,REP,7981,16.6
+2018,77,U.S. Senate,O'Rourke,DEM,39825,82.8
+2018,77,U.S. Senate,Dikeman,LIB,289,0.6
+2018,77,Governor,Abbott,REP,10478,22.1
+2018,77,Governor,Valdez,DEM,36069,76.1
+2018,77,Governor,Tippetts,LIB,841,1.8
+2018,77,Lieutenant Governor,Patrick,REP,9268,19.8
+2018,77,Lieutenant Governor,Collier,DEM,36179,77.1
+2018,77,Lieutenant Governor,McKennon,LIB,1460,3.1
+2018,77,Attorney General,Paxton,REP,8622,18.4
+2018,78,U.S. Senate,Cruz,REP,19730,33.1
+2018,78,U.S. Senate,O'Rourke,DEM,39566,66.3
+2018,78,U.S. Senate,Dikeman,LIB,376,0.6
+2018,78,Governor,Abbott,REP,23531,40.0
+2018,78,Governor,Valdez,DEM,34086,57.9
+2018,78,Governor,Tippetts,LIB,1214,2.1
+2018,78,Lieutenant Governor,Patrick,REP,21522,37.1
+2018,78,Lieutenant Governor,Collier,DEM,34664,59.8
+2018,78,Lieutenant Governor,McKennon,LIB,1829,3.2
+2018,78,Attorney General,Paxton,REP,20624,35.6
+2018,79,U.S. Senate,Cruz,REP,14002,25.9
+2018,79,U.S. Senate,O'Rourke,DEM,39723,73.5
+2018,79,U.S. Senate,Dikeman,LIB,294,0.5
+2018,79,Governor,Abbott,REP,17343,32.5
+2018,79,Governor,Valdez,DEM,35061,65.7
+2018,79,Governor,Tippetts,LIB,956,1.8
+2018,79,Lieutenant Governor,Patrick,REP,15585,29.5
+2018,79,Lieutenant Governor,Collier,DEM,35613,67.5
+2018,79,Lieutenant Governor,McKennon,LIB,1559,3.0
+2018,79,Attorney General,Paxton,REP,14784,28.0
+2018,80,U.S. Senate,Cruz,REP,17721,43.2
+2018,80,U.S. Senate,O'Rourke,DEM,22963,55.9
+2018,80,U.S. Senate,Dikeman,LIB,360,0.9
+2018,80,Governor,Abbott,REP,19747,48.6
+2018,80,Governor,Valdez,DEM,20461,50.3
+2018,80,Governor,Tippetts,LIB,463,1.1
+2018,80,Lieutenant Governor,Patrick,REP,17266,43.0
+2018,80,Lieutenant Governor,Collier,DEM,21968,54.8
+2018,80,Lieutenant Governor,McKennon,LIB,877,2.2
+2018,80,Attorney General,Paxton,REP,16352,40.9
+2018,81,U.S. Senate,Cruz,REP,24261,69.5
+2018,81,U.S. Senate,O'Rourke,DEM,10357,29.7
+2018,81,U.S. Senate,Dikeman,LIB,284,0.8
+2018,81,Governor,Abbott,REP,25331,72.4
+2018,81,Governor,Valdez,DEM,9194,26.3
+2018,81,Governor,Tippetts,LIB,466,1.3
+2018,81,Lieutenant Governor,Patrick,REP,23959,68.8
+2018,81,Lieutenant Governor,Collier,DEM,10068,28.9
+2018,81,Lieutenant Governor,McKennon,LIB,802,2.3
+2018,81,Attorney General,Paxton,REP,23900,68.8
+2018,82,U.S. Senate,Cruz,REP,36356,76.5
+2018,82,U.S. Senate,O'Rourke,DEM,10777,22.7
+2018,82,U.S. Senate,Dikeman,LIB,391,0.8
+2018,82,Governor,Abbott,REP,37592,79.3
+2018,82,Governor,Valdez,DEM,9069,19.1
+2018,82,Governor,Tippetts,LIB,736,1.6
+2018,82,Lieutenant Governor,Patrick,REP,35458,75.2
+2018,82,Lieutenant Governor,Collier,DEM,10538,22.4
+2018,82,Lieutenant Governor,McKennon,LIB,1148,2.4
+2018,82,Attorney General,Paxton,REP,35857,76.1
+2018,83,U.S. Senate,Cruz,REP,45702,75.6
+2018,83,U.S. Senate,O'Rourke,DEM,14386,23.8
+2018,83,U.S. Senate,Dikeman,LIB,402,0.7
+2018,83,Governor,Abbott,REP,47080,78.1
+2018,83,Governor,Valdez,DEM,12094,20.1
+2018,83,Governor,Tippetts,LIB,1105,1.8
+2018,83,Lieutenant Governor,Patrick,REP,42828,71.4
+2018,83,Lieutenant Governor,Collier,DEM,15634,26.1
+2018,83,Lieutenant Governor,McKennon,LIB,1529,2.5
+2018,83,Attorney General,Paxton,REP,44301,73.9
+2018,84,U.S. Senate,Cruz,REP,26594,55.5
+2018,84,U.S. Senate,O'Rourke,DEM,20894,43.6
+2018,84,U.S. Senate,Dikeman,LIB,414,0.9
+2018,84,Governor,Abbott,REP,28448,59.7
+2018,84,Governor,Valdez,DEM,18038,37.8
+2018,84,Governor,Tippetts,LIB,1187,2.5
+2018,84,Lieutenant Governor,Patrick,REP,25962,54.7
+2018,84,Lieutenant Governor,Collier,DEM,19945,42.0
+2018,84,Lieutenant Governor,McKennon,LIB,1548,3.3
+2018,84,Attorney General,Paxton,REP,26292,55.5
+2018,85,U.S. Senate,Cruz,REP,48171,66.2
+2018,85,U.S. Senate,O'Rourke,DEM,24172,33.2
+2018,85,U.S. Senate,Dikeman,LIB,427,0.6
+2018,85,Governor,Abbott,REP,50762,69.9
+2018,85,Governor,Valdez,DEM,21097,29.1
+2018,85,Governor,Tippetts,LIB,754,1.0
+2018,85,Lieutenant Governor,Patrick,REP,47454,65.6
+2018,85,Lieutenant Governor,Collier,DEM,23796,32.9
+2018,85,Lieutenant Governor,McKennon,LIB,1098,1.5
+2018,85,Attorney General,Paxton,REP,46905,65.0
+2018,86,U.S. Senate,Cruz,REP,46806,79.7
+2018,86,U.S. Senate,O'Rourke,DEM,11498,19.6
+2018,86,U.S. Senate,Dikeman,LIB,419,0.7
+2018,86,Governor,Abbott,REP,48077,82.0
+2018,86,Governor,Valdez,DEM,9748,16.6
+2018,86,Governor,Tippetts,LIB,793,1.4
+2018,86,Lieutenant Governor,Patrick,REP,44914,77.0
+2018,86,Lieutenant Governor,Collier,DEM,12080,20.7
+2018,86,Lieutenant Governor,McKennon,LIB,1354,2.3
+2018,86,Attorney General,Paxton,REP,45751,78.5
+2018,87,U.S. Senate,Cruz,REP,33321,76.4
+2018,87,U.S. Senate,O'Rourke,DEM,9875,22.7
+2018,87,U.S. Senate,Dikeman,LIB,393,0.9
+2018,87,Governor,Abbott,REP,34006,78.2
+2018,87,Governor,Valdez,DEM,8831,20.3
+2018,87,Governor,Tippetts,LIB,645,1.5
+2018,87,Lieutenant Governor,Patrick,REP,31430,72.6
+2018,87,Lieutenant Governor,Collier,DEM,10754,24.9
+2018,87,Lieutenant Governor,McKennon,LIB,1089,2.5
+2018,87,Attorney General,Paxton,REP,32459,75.1
+2018,88,U.S. Senate,Cruz,REP,38965,81.6
+2018,88,U.S. Senate,O'Rourke,DEM,8517,17.8
+2018,88,U.S. Senate,Dikeman,LIB,281,0.6
+2018,88,Governor,Abbott,REP,39571,82.9
+2018,88,Governor,Valdez,DEM,7542,15.8
+2018,88,Governor,Tippetts,LIB,594,1.2
+2018,88,Lieutenant Governor,Patrick,REP,35646,75.2
+2018,88,Lieutenant Governor,Collier,DEM,10676,22.5
+2018,88,Lieutenant Governor,McKennon,LIB,1088,2.3
+2018,88,Attorney General,Paxton,REP,37699,79.6
+2018,89,U.S. Senate,Cruz,REP,37580,56.0
+2018,89,U.S. Senate,O'Rourke,DEM,28848,43.0
+2018,89,U.S. Senate,Dikeman,LIB,625,0.9
+2018,89,Governor,Abbott,REP,40988,61.5
+2018,89,Governor,Valdez,DEM,24404,36.6
+2018,89,Governor,Tippetts,LIB,1275,1.9
+2018,89,Lieutenant Governor,Patrick,REP,37741,57.0
+2018,89,Lieutenant Governor,Collier,DEM,26879,40.6
+2018,89,Lieutenant Governor,McKennon,LIB,1571,2.4
+2018,89,Attorney General,Paxton,REP,37007,55.9
+2018,90,U.S. Senate,Cruz,REP,10432,26.3
+2018,90,U.S. Senate,O'Rourke,DEM,29015,73.1
+2018,90,U.S. Senate,Dikeman,LIB,272,0.7
+2018,90,Governor,Abbott,REP,12015,30.4
+2018,90,Governor,Valdez,DEM,26803,67.9
+2018,90,Governor,Tippetts,LIB,644,1.6
+2018,90,Lieutenant Governor,Patrick,REP,10836,27.6
+2018,90,Lieutenant Governor,Collier,DEM,27519,70.2
+2018,90,Lieutenant Governor,McKennon,LIB,861,2.2
+2018,90,Attorney General,Paxton,REP,10522,26.9
+2018,91,U.S. Senate,Cruz,REP,34211,59.1
+2018,91,U.S. Senate,O'Rourke,DEM,23153,40.0
+2018,91,U.S. Senate,Dikeman,LIB,557,1.0
+2018,91,Governor,Abbott,REP,36915,63.9
+2018,91,Governor,Valdez,DEM,19733,34.2
+2018,91,Governor,Tippetts,LIB,1126,1.9
+2018,91,Lieutenant Governor,Patrick,REP,34677,60.2
+2018,91,Lieutenant Governor,Collier,DEM,21450,37.3
+2018,91,Lieutenant Governor,McKennon,LIB,1440,2.5
+2018,91,Attorney General,Paxton,REP,33864,59.0
+2018,92,U.S. Senate,Cruz,REP,15153,37.5
+2018,92,U.S. Senate,O'Rourke,DEM,24968,61.7
+2018,92,U.S. Senate,Dikeman,LIB,335,0.8
+2018,92,Governor,Abbott,REP,17064,42.4
+2018,92,Governor,Valdez,DEM,22422,55.7
+2018,92,Governor,Tippetts,LIB,804,2.0
+2018,92,Lieutenant Governor,Patrick,REP,15511,38.6
+2018,92,Lieutenant Governor,Collier,DEM,23604,58.8
+2018,92,Lieutenant Governor,McKennon,LIB,1023,2.5
+2018,92,Attorney General,Paxton,REP,15114,37.7
+2018,93,U.S. Senate,Cruz,REP,30154,56.5
+2018,93,U.S. Senate,O'Rourke,DEM,22805,42.7
+2018,93,U.S. Senate,Dikeman,LIB,442,0.8
+2018,93,Governor,Abbott,REP,32735,61.5
+2018,93,Governor,Valdez,DEM,19518,36.7
+2018,93,Governor,Tippetts,LIB,978,1.8
+2018,93,Lieutenant Governor,Patrick,REP,30551,57.6
+2018,93,Lieutenant Governor,Collier,DEM,21172,39.9
+2018,93,Lieutenant Governor,McKennon,LIB,1342,2.5
+2018,93,Attorney General,Paxton,REP,30015,56.7
+2018,94,U.S. Senate,Cruz,REP,38066,55.1
+2018,94,U.S. Senate,O'Rourke,DEM,30385,44.0
+2018,94,U.S. Senate,Dikeman,LIB,670,1.0
+2018,94,Governor,Abbott,REP,41692,60.5
+2018,94,Governor,Valdez,DEM,25794,37.4
+2018,94,Governor,Tippetts,LIB,1463,2.1
+2018,94,Lieutenant Governor,Patrick,REP,38438,55.9
+2018,94,Lieutenant Governor,Collier,DEM,28442,41.4
+2018,94,Lieutenant Governor,McKennon,LIB,1843,2.7
+2018,94,Attorney General,Paxton,REP,37618,54.9
+2018,95,U.S. Senate,Cruz,REP,9945,21.6
+2018,95,U.S. Senate,O'Rourke,DEM,35704,77.7
+2018,95,U.S. Senate,Dikeman,LIB,307,0.7
+2018,95,Governor,Abbott,REP,11576,25.2
+2018,95,Governor,Valdez,DEM,33584,73.2
+2018,95,Governor,Tippetts,LIB,728,1.6
+2018,95,Lieutenant Governor,Patrick,REP,10263,22.4
+2018,95,Lieutenant Governor,Collier,DEM,34625,75.6
+2018,95,Lieutenant Governor,McKennon,LIB,893,2.0
+2018,95,Attorney General,Paxton,REP,9891,21.6
+2018,96,U.S. Senate,Cruz,REP,37465,55.4
+2018,96,U.S. Senate,O'Rourke,DEM,29662,43.8
+2018,96,U.S. Senate,Dikeman,LIB,538,0.8
+2018,96,Governor,Abbott,REP,40846,60.5
+2018,96,Governor,Valdez,DEM,25501,37.8
+2018,96,Governor,Tippetts,LIB,1146,1.7
+2018,96,Lieutenant Governor,Patrick,REP,37740,56.0
+2018,96,Lieutenant Governor,Collier,DEM,28125,41.8
+2018,96,Lieutenant Governor,McKennon,LIB,1487,2.2
+2018,96,Attorney General,Paxton,REP,37190,55.4
+2018,97,U.S. Senate,Cruz,REP,36194,54.8
+2018,97,U.S. Senate,O'Rourke,DEM,29325,44.4
+2018,97,U.S. Senate,Dikeman,LIB,572,0.9
+2018,97,Governor,Abbott,REP,39928,60.6
+2018,97,Governor,Valdez,DEM,24649,37.4
+2018,97,Governor,Tippetts,LIB,1285,2.0
+2018,97,Lieutenant Governor,Patrick,REP,36593,55.8
+2018,97,Lieutenant Governor,Collier,DEM,27343,41.7
+2018,97,Lieutenant Governor,McKennon,LIB,1691,2.6
+2018,97,Attorney General,Paxton,REP,35896,54.9
+2018,98,U.S. Senate,Cruz,REP,51053,62.5
+2018,98,U.S. Senate,O'Rourke,DEM,29922,36.7
+2018,98,U.S. Senate,Dikeman,LIB,655,0.8
+2018,98,Governor,Abbott,REP,56000,68.9
+2018,98,Governor,Valdez,DEM,23752,29.2
+2018,98,Governor,Tippetts,LIB,1555,1.9
+2018,98,Lieutenant Governor,Patrick,REP,51886,64.0
+2018,98,Lieutenant Governor,Collier,DEM,27187,33.5
+2018,98,Lieutenant Governor,McKennon,LIB,1962,2.4
+2018,98,Attorney General,Paxton,REP,51054,63.2
+2018,99,U.S. Senate,Cruz,REP,31621,56.6
+2018,99,U.S. Senate,O'Rourke,DEM,23700,42.5
+2018,99,U.S. Senate,Dikeman,LIB,504,0.9
+2018,99,Governor,Abbott,REP,34172,61.3
+2018,99,Governor,Valdez,DEM,20521,36.8
+2018,99,Governor,Tippetts,LIB,1011,1.8
+2018,99,Lieutenant Governor,Patrick,REP,31882,57.5
+2018,99,Lieutenant Governor,Collier,DEM,22145,39.9
+2018,99,Lieutenant Governor,McKennon,LIB,1428,2.6
+2018,99,Attorney General,Paxton,REP,31303,56.6
+2018,100,U.S. Senate,Cruz,REP,4433,12.1
+2018,100,U.S. Senate,O'Rourke,DEM,32111,87.4
+2018,100,U.S. Senate,Dikeman,LIB,204,0.6
+2018,100,Governor,Abbott,REP,5811,15.9
+2018,100,Governor,Valdez,DEM,29968,82.0
+2018,100,Governor,Tippetts,LIB,777,2.1
+2018,100,Lieutenant Governor,Patrick,REP,4814,13.2
+2018,100,Lieutenant Governor,Collier,DEM,30821,84.8
+2018,100,Lieutenant Governor,McKennon,LIB,705,1.9
+2018,100,Attorney General,Paxton,REP,4530,12.5
+2018,101,U.S. Senate,Cruz,REP,14895,29.7
+2018,101,U.S. Senate,O'Rourke,DEM,34858,69.6
+2018,101,U.S. Senate,Dikeman,LIB,356,0.7
+2018,101,Governor,Abbott,REP,17461,35.0
+2018,101,Governor,Valdez,DEM,31537,63.2
+2018,101,Governor,Tippetts,LIB,936,1.9
+2018,101,Lieutenant Governor,Patrick,REP,15553,31.2
+2018,101,Lieutenant Governor,Collier,DEM,33119,66.5
+2018,101,Lieutenant Governor,McKennon,LIB,1120,2.2
+2018,101,Attorney General,Paxton,REP,14970,30.1
+2018,102,U.S. Senate,Cruz,REP,15488,33.4
+2018,102,U.S. Senate,O'Rourke,DEM,30504,65.7
+2018,102,U.S. Senate,Dikeman,LIB,406,0.9
+2018,102,Governor,Abbott,REP,17993,39.0
+2018,102,Governor,Valdez,DEM,27139,58.8
+2018,102,Governor,Tippetts,LIB,1012,2.2
+2018,102,Lieutenant Governor,Patrick,REP,16014,34.9
+2018,102,Lieutenant Governor,Collier,DEM,28741,62.6
+2018,102,Lieutenant Governor,McKennon,LIB,1133,2.5
+2018,102,Attorney General,Paxton,REP,15411,33.6
+2018,103,U.S. Senate,Cruz,REP,9966,23.3
+2018,103,U.S. Senate,O'Rourke,DEM,32541,76.1
+2018,103,U.S. Senate,Dikeman,LIB,270,0.6
+2018,103,Governor,Abbott,REP,12071,28.4
+2018,103,Governor,Valdez,DEM,29505,69.5
+2018,103,Governor,Tippetts,LIB,874,2.1
+2018,103,Lieutenant Governor,Patrick,REP,10646,25.3
+2018,103,Lieutenant Governor,Collier,DEM,30506,72.4
+2018,103,Lieutenant Governor,McKennon,LIB,995,2.4
+2018,103,Attorney General,Paxton,REP,10154,24.1
+2018,104,U.S. Senate,Cruz,REP,9576,25.9
+2018,104,U.S. Senate,O'Rourke,DEM,27147,73.4
+2018,104,U.S. Senate,Dikeman,LIB,263,0.7
+2018,104,Governor,Abbott,REP,11082,30.2
+2018,104,Governor,Valdez,DEM,25037,68.2
+2018,104,Governor,Tippetts,LIB,603,1.6
+2018,104,Lieutenant Governor,Patrick,REP,10082,27.7
+2018,104,Lieutenant Governor,Collier,DEM,25580,70.3
+2018,104,Lieutenant Governor,McKennon,LIB,721,2.0
+2018,104,Attorney General,Paxton,REP,9592,26.4
+2018,105,U.S. Senate,Cruz,REP,14575,37.6
+2018,105,U.S. Senate,O'Rourke,DEM,23888,61.7
+2018,105,U.S. Senate,Dikeman,LIB,275,0.7
+2018,105,Governor,Abbott,REP,16384,42.6
+2018,105,Governor,Valdez,DEM,21360,55.5
+2018,105,Governor,Tippetts,LIB,726,1.9
+2018,105,Lieutenant Governor,Patrick,REP,15055,39.4
+2018,105,Lieutenant Governor,Collier,DEM,22273,58.4
+2018,105,Lieutenant Governor,McKennon,LIB,837,2.2
+2018,105,Attorney General,Paxton,REP,14496,37.9
+2018,106,U.S. Senate,Cruz,REP,34146,57.6
+2018,106,U.S. Senate,O'Rourke,DEM,24653,41.6
+2018,106,U.S. Senate,Dikeman,LIB,459,0.8
+2018,106,Governor,Abbott,REP,37500,63.5
+2018,106,Governor,Valdez,DEM,20427,34.6
+2018,106,Governor,Tippetts,LIB,1099,1.9
+2018,106,Lieutenant Governor,Patrick,REP,34606,58.8
+2018,106,Lieutenant Governor,Collier,DEM,22889,38.9
+2018,106,Lieutenant Governor,McKennon,LIB,1325,2.3
+2018,106,Attorney General,Paxton,REP,33975,57.8
+2018,107,U.S. Senate,Cruz,REP,12473,33.5
+2018,107,U.S. Senate,O'Rourke,DEM,24479,65.8
+2018,107,U.S. Senate,Dikeman,LIB,278,0.7
+2018,107,Governor,Abbott,REP,14018,37.9
+2018,107,Governor,Valdez,DEM,22325,60.3
+2018,107,Governor,Tippetts,LIB,684,1.8
+2018,107,Lieutenant Governor,Patrick,REP,12940,35.2
+2018,107,Lieutenant Governor,Collier,DEM,23074,62.7
+2018,107,Lieutenant Governor,McKennon,LIB,769,2.1
+2018,107,Attorney General,Paxton,REP,12407,33.7
+2018,108,U.S. Senate,Cruz,REP,47905,51.4
+2018,108,U.S. Senate,O'Rourke,DEM,44564,47.8
+2018,108,U.S. Senate,Dikeman,LIB,738,0.8
+2018,108,Governor,Abbott,REP,57142,61.7
+2018,108,Governor,Valdez,DEM,33433,36.1
+2018,108,Governor,Tippetts,LIB,1998,2.2
+2018,108,Lieutenant Governor,Patrick,REP,49274,53.5
+2018,108,Lieutenant Governor,Collier,DEM,40744,44.3
+2018,108,Lieutenant Governor,McKennon,LIB,2020,2.2
+2018,108,Attorney General,Paxton,REP,47572,51.8
+2018,109,U.S. Senate,Cruz,REP,11056,19.5
+2018,109,U.S. Senate,O'Rourke,DEM,45246,79.9
+2018,109,U.S. Senate,Dikeman,LIB,296,0.5
+2018,109,Governor,Abbott,REP,13563,24.0
+2018,109,Governor,Valdez,DEM,41679,73.9
+2018,109,Governor,Tippetts,LIB,1162,2.1
+2018,109,Lieutenant Governor,Patrick,REP,11559,20.6
+2018,109,Lieutenant Governor,Collier,DEM,43701,77.7
+2018,109,Lieutenant Governor,McKennon,LIB,979,1.7
+2018,109,Attorney General,Paxton,REP,11005,19.6
+2018,110,U.S. Senate,Cruz,REP,3538,10.9
+2018,110,U.S. Senate,O'Rourke,DEM,28881,88.6
+2018,110,U.S. Senate,Dikeman,LIB,174,0.5
+2018,110,Governor,Abbott,REP,4499,13.9
+2018,110,Governor,Valdez,DEM,27484,84.6
+2018,110,Governor,Tippetts,LIB,492,1.5
+2018,110,Lieutenant Governor,Patrick,REP,3799,11.7
+2018,110,Lieutenant Governor,Collier,DEM,28058,86.7
+2018,110,Lieutenant Governor,McKennon,LIB,506,1.6
+2018,110,Attorney General,Paxton,REP,3617,11.2
+2018,111,U.S. Senate,Cruz,REP,11382,19.8
+2018,111,U.S. Senate,O'Rourke,DEM,45793,79.6
+2018,111,U.S. Senate,Dikeman,LIB,330,0.6
+2018,111,Governor,Abbott,REP,14158,24.7
+2018,111,Governor,Valdez,DEM,42038,73.4
+2018,111,Governor,Tippetts,LIB,1081,1.9
+2018,111,Lieutenant Governor,Patrick,REP,11913,20.8
+2018,111,Lieutenant Governor,Collier,DEM,44273,77.5
+2018,111,Lieutenant Governor,McKennon,LIB,962,1.7
+2018,111,Attorney General,Paxton,REP,11309,19.8
+2018,112,U.S. Senate,Cruz,REP,37670,51.0
+2018,112,U.S. Senate,O'Rourke,DEM,35511,48.1
+2018,112,U.S. Senate,Dikeman,LIB,624,0.8
+2018,112,Governor,Abbott,REP,42515,57.8
+2018,112,Governor,Valdez,DEM,29470,40.1
+2018,112,Governor,Tippetts,LIB,1573,2.1
+2018,112,Lieutenant Governor,Patrick,REP,38226,52.3
+2018,112,Lieutenant Governor,Collier,DEM,33290,45.5
+2018,112,Lieutenant Governor,McKennon,LIB,1616,2.2
+2018,112,Attorney General,Paxton,REP,37118,50.8
+2018,113,U.S. Senate,Cruz,REP,20487,38.9
+2018,113,U.S. Senate,O'Rourke,DEM,31815,60.4
+2018,113,U.S. Senate,Dikeman,LIB,376,0.7
+2018,113,Governor,Abbott,REP,23111,44.0
+2018,113,Governor,Valdez,DEM,28528,54.3
+2018,113,Governor,Tippetts,LIB,872,1.7
+2018,113,Lieutenant Governor,Patrick,REP,20982,40.2
+2018,113,Lieutenant Governor,Collier,DEM,30234,57.9
+2018,113,Lieutenant Governor,McKennon,LIB,993,1.9
+2018,113,Attorney General,Paxton,REP,20397,39.1
+2018,114,U.S. Senate,Cruz,REP,17895,28.7
+2018,114,U.S. Senate,O'Rourke,DEM,43767,70.3
+2018,114,U.S. Senate,Dikeman,LIB,603,1.0
+2018,114,Governor,Abbott,REP,22392,36.3
+2018,114,Governor,Valdez,DEM,37431,60.7
+2018,114,Governor,Tippetts,LIB,1891,3.1
+2018,114,Lieutenant Governor,Patrick,REP,18972,30.9
+2018,114,Lieutenant Governor,Collier,DEM,40555,66.0
+2018,114,Lieutenant Governor,McKennon,LIB,1909,3.1
+2018,114,Attorney General,Paxton,REP,18242,29.7
+2018,115,U.S. Senate,Cruz,REP,24682,40.9
+2018,115,U.S. Senate,O'Rourke,DEM,35148,58.2
+2018,115,U.S. Senate,Dikeman,LIB,531,0.9
+2018,115,Governor,Abbott,REP,28920,48.2
+2018,115,Governor,Valdez,DEM,29811,49.7
+2018,115,Governor,Tippetts,LIB,1285,2.1
+2018,115,Lieutenant Governor,Patrick,REP,25436,42.6
+2018,115,Lieutenant Governor,Collier,DEM,32723,54.8
+2018,115,Lieutenant Governor,McKennon,LIB,1546,2.6
+2018,115,Attorney General,Paxton,REP,24579,41.2
+2018,116,U.S. Senate,Cruz,REP,14583,28.4
+2018,116,U.S. Senate,O'Rourke,DEM,36372,70.7
+2018,116,U.S. Senate,Dikeman,LIB,466,0.9
+2018,116,Governor,Abbott,REP,17608,34.5
+2018,116,Governor,Valdez,DEM,32419,63.5
+2018,116,Governor,Tippetts,LIB,1032,2.0
+2018,116,Lieutenant Governor,Patrick,REP,15708,30.9
+2018,116,Lieutenant Governor,Collier,DEM,33818,66.5
+2018,116,Lieutenant Governor,McKennon,LIB,1346,2.6
+2018,116,Attorney General,Paxton,REP,14559,28.6
+2018,117,U.S. Senate,Cruz,REP,14199,34.0
+2018,117,U.S. Senate,O'Rourke,DEM,27113,65.0
+2018,117,U.S. Senate,Dikeman,LIB,418,1.0
+2018,117,Governor,Abbott,REP,16992,41.0
+2018,117,Governor,Valdez,DEM,23808,57.4
+2018,117,Governor,Tippetts,LIB,677,1.6
+2018,117,Lieutenant Governor,Patrick,REP,15177,36.7
+2018,117,Lieutenant Governor,Collier,DEM,25207,61.0
+2018,117,Lieutenant Governor,McKennon,LIB,962,2.3
+2018,117,Attorney General,Paxton,REP,14152,34.3
+2018,118,U.S. Senate,Cruz,REP,23145,47.0
+2018,118,U.S. Senate,O'Rourke,DEM,25598,52.0
+2018,118,U.S. Senate,Dikeman,LIB,490,1.0
+2018,118,Governor,Abbott,REP,25839,52.7
+2018,118,Governor,Valdez,DEM,22375,45.6
+2018,118,Governor,Tippetts,LIB,803,1.6
+2018,118,Lieutenant Governor,Patrick,REP,23891,48.9
+2018,118,Lieutenant Governor,Collier,DEM,23891,48.9
+2018,118,Lieutenant Governor,McKennon,LIB,1081,2.2
+2018,118,Attorney General,Paxton,REP,22629,46.4
+2018,119,U.S. Senate,Cruz,REP,14578,31.7
+2018,119,U.S. Senate,O'Rourke,DEM,30978,67.4
+2018,119,U.S. Senate,Dikeman,LIB,438,1.0
+2018,119,Governor,Abbott,REP,17485,38.2
+2018,119,Governor,Valdez,DEM,27554,60.2
+2018,119,Governor,Tippetts,LIB,724,1.6
+2018,119,Lieutenant Governor,Patrick,REP,15598,34.2
+2018,119,Lieutenant Governor,Collier,DEM,28989,63.6
+2018,119,Lieutenant Governor,McKennon,LIB,999,2.2
+2018,119,Attorney General,Paxton,REP,14331,31.5
+2018,120,U.S. Senate,Cruz,REP,12988,30.4
+2018,120,U.S. Senate,O'Rourke,DEM,29289,68.7
+2018,120,U.S. Senate,Dikeman,LIB,385,0.9
+2018,120,Governor,Abbott,REP,15335,36.1
+2018,120,Governor,Valdez,DEM,26308,62.0
+2018,120,Governor,Tippetts,LIB,792,1.9
+2018,120,Lieutenant Governor,Patrick,REP,13744,32.5
+2018,120,Lieutenant Governor,Collier,DEM,27591,65.2
+2018,120,Lieutenant Governor,McKennon,LIB,993,2.3
+2018,120,Attorney General,Paxton,REP,12778,30.2
+2018,121,U.S. Senate,Cruz,REP,40896,52.2
+2018,121,U.S. Senate,O'Rourke,DEM,36819,47.0
+2018,121,U.S. Senate,Dikeman,LIB,693,0.9
+2018,121,Governor,Abbott,REP,45753,58.6
+2018,121,Governor,Valdez,DEM,30825,39.5
+2018,121,Governor,Tippetts,LIB,1497,1.9
+2018,121,Lieutenant Governor,Patrick,REP,41567,53.4
+2018,121,Lieutenant Governor,Collier,DEM,34472,44.3
+2018,121,Lieutenant Governor,McKennon,LIB,1746,2.2
+2018,121,Attorney General,Paxton,REP,40270,51.9
+2018,122,U.S. Senate,Cruz,REP,46009,56.3
+2018,122,U.S. Senate,O'Rourke,DEM,35047,42.9
+2018,122,U.S. Senate,Dikeman,LIB,641,0.8
+2018,122,Governor,Abbott,REP,51207,62.9
+2018,122,Governor,Valdez,DEM,28797,35.4
+2018,122,Governor,Tippetts,LIB,1402,1.7
+2018,122,Lieutenant Governor,Patrick,REP,47045,58.0
+2018,122,Lieutenant Governor,Collier,DEM,32403,39.9
+2018,122,Lieutenant Governor,McKennon,LIB,1697,2.1
+2018,122,Attorney General,Paxton,REP,45497,56.2
+2018,123,U.S. Senate,Cruz,REP,18370,31.4
+2018,123,U.S. Senate,O'Rourke,DEM,39554,67.7
+2018,123,U.S. Senate,Dikeman,LIB,530,0.9
+2018,123,Governor,Abbott,REP,21814,37.5
+2018,123,Governor,Valdez,DEM,35158,60.5
+2018,123,Governor,Tippetts,LIB,1128,1.9
+2018,123,Lieutenant Governor,Patrick,REP,19384,33.5
+2018,123,Lieutenant Governor,Collier,DEM,37071,64.1
+2018,123,Lieutenant Governor,McKennon,LIB,1405,2.4
+2018,123,Attorney General,Paxton,REP,18100,31.4
+2018,124,U.S. Senate,Cruz,REP,11411,28.7
+2018,124,U.S. Senate,O'Rourke,DEM,28032,70.4
+2018,124,U.S. Senate,Dikeman,LIB,384,1.0
+2018,124,Governor,Abbott,REP,13987,35.3
+2018,124,Governor,Valdez,DEM,24977,63.0
+2018,124,Governor,Tippetts,LIB,662,1.7
+2018,124,Lieutenant Governor,Patrick,REP,12497,31.6
+2018,124,Lieutenant Governor,Collier,DEM,26065,66.0
+2018,124,Lieutenant Governor,McKennon,LIB,950,2.4
+2018,124,Attorney General,Paxton,REP,11426,28.9
+2018,125,U.S. Senate,Cruz,REP,21025,35.7
+2018,125,U.S. Senate,O'Rourke,DEM,37319,63.3
+2018,125,U.S. Senate,Dikeman,LIB,573,1.0
+2018,125,Governor,Abbott,REP,24639,42.1
+2018,125,Governor,Valdez,DEM,32805,56.0
+2018,125,Governor,Tippetts,LIB,1117,1.9
+2018,125,Lieutenant Governor,Patrick,REP,22263,38.1
+2018,125,Lieutenant Governor,Collier,DEM,34677,59.3
+2018,125,Lieutenant Governor,McKennon,LIB,1492,2.6
+2018,125,Attorney General,Paxton,REP,20819,35.7
+2018,126,U.S. Senate,Cruz,REP,38851,59.4
+2018,126,U.S. Senate,O'Rourke,DEM,26058,39.8
+2018,126,U.S. Senate,Dikeman,LIB,489,0.7
+2018,126,Governor,Abbott,REP,41939,64.1
+2018,126,Governor,Valdez,DEM,22564,34.5
+2018,126,Governor,Tippetts,LIB,917,1.4
+2018,126,Lieutenant Governor,Patrick,REP,39150,59.9
+2018,126,Lieutenant Governor,Collier,DEM,25072,38.4
+2018,126,Lieutenant Governor,McKennon,LIB,1118,1.7
+2018,126,Attorney General,Paxton,REP,38534,59.1
+2018,127,U.S. Senate,Cruz,REP,40573,59.3
+2018,127,U.S. Senate,O'Rourke,DEM,27326,40.0
+2018,127,U.S. Senate,Dikeman,LIB,487,0.7
+2018,127,Governor,Abbott,REP,43673,63.9
+2018,127,Governor,Valdez,DEM,23777,34.8
+2018,127,Governor,Tippetts,LIB,913,1.3
+2018,127,Lieutenant Governor,Patrick,REP,41027,60.1
+2018,127,Lieutenant Governor,Collier,DEM,26144,38.3
+2018,127,Lieutenant Governor,McKennon,LIB,1100,1.6
+2018,127,Attorney General,Paxton,REP,40035,58.8
+2018,128,U.S. Senate,Cruz,REP,32586,66.8
+2018,128,U.S. Senate,O'Rourke,DEM,15892,32.6
+2018,128,U.S. Senate,Dikeman,LIB,318,0.7
+2018,128,Governor,Abbott,REP,34060,69.7
+2018,128,Governor,Valdez,DEM,14202,29.1
+2018,128,Governor,Tippetts,LIB,609,1.2
+2018,128,Lieutenant Governor,Patrick,REP,32390,66.4
+2018,128,Lieutenant Governor,Collier,DEM,15643,32.1
+2018,128,Lieutenant Governor,McKennon,LIB,770,1.6
+2018,128,Attorney General,Paxton,REP,32058,65.8
+2018,129,U.S. Senate,Cruz,REP,38281,56.3
+2018,129,U.S. Senate,O'Rourke,DEM,29112,42.8
+2018,129,U.S. Senate,Dikeman,LIB,565,0.8
+2018,129,Governor,Abbott,REP,41744,61.5
+2018,129,Governor,Valdez,DEM,25004,36.8
+2018,129,Governor,Tippetts,LIB,1129,1.7
+2018,129,Lieutenant Governor,Patrick,REP,38488,56.8
+2018,129,Lieutenant Governor,Collier,DEM,27888,41.2
+2018,129,Lieutenant Governor,McKennon,LIB,1386,2.0
+2018,129,Attorney General,Paxton,REP,37639,55.7
+2018,130,U.S. Senate,Cruz,REP,42747,66.6
+2018,130,U.S. Senate,O'Rourke,DEM,20968,32.7
+2018,130,U.S. Senate,Dikeman,LIB,475,0.7
+2018,130,Governor,Abbott,REP,45448,70.8
+2018,130,Governor,Valdez,DEM,17834,27.8
+2018,130,Governor,Tippetts,LIB,884,1.4
+2018,130,Lieutenant Governor,Patrick,REP,42737,66.7
+2018,130,Lieutenant Governor,Collier,DEM,20223,31.6
+2018,130,Lieutenant Governor,McKennon,LIB,1129,1.8
+2018,130,Attorney General,Paxton,REP,42384,66.3
+2018,131,U.S. Senate,Cruz,REP,5628,14.3
+2018,131,U.S. Senate,O'Rourke,DEM,33440,85.2
+2018,131,U.S. Senate,Dikeman,LIB,199,0.5
+2018,131,Governor,Abbott,REP,7293,18.5
+2018,131,Governor,Valdez,DEM,31698,80.4
+2018,131,Governor,Tippetts,LIB,424,1.1
+2018,131,Lieutenant Governor,Patrick,REP,6129,15.6
+2018,131,Lieutenant Governor,Collier,DEM,32813,83.3
+2018,131,Lieutenant Governor,McKennon,LIB,450,1.1
+2018,131,Attorney General,Paxton,REP,5714,14.5
+2018,132,U.S. Senate,Cruz,REP,32220,57.5
+2018,132,U.S. Senate,O'Rourke,DEM,23431,41.8
+2018,132,U.S. Senate,Dikeman,LIB,414,0.7
+2018,132,Governor,Abbott,REP,34909,62.3
+2018,132,Governor,Valdez,DEM,20325,36.2
+2018,132,Governor,Tippetts,LIB,838,1.5
+2018,132,Lieutenant Governor,Patrick,REP,32472,58.0
+2018,132,Lieutenant Governor,Collier,DEM,22462,40.1
+2018,132,Lieutenant Governor,McKennon,LIB,1054,1.9
+2018,132,Attorney General,Paxton,REP,32033,57.3
+2018,133,U.S. Senate,Cruz,REP,34930,53.1
+2018,133,U.S. Senate,O'Rourke,DEM,30329,46.1
+2018,133,U.S. Senate,Dikeman,LIB,533,0.8
+2018,133,Governor,Abbott,REP,39548,60.3
+2018,133,Governor,Valdez,DEM,24855,37.9
+2018,133,Governor,Tippetts,LIB,1181,1.8
+2018,133,Lieutenant Governor,Patrick,REP,35093,53.6
+2018,133,Lieutenant Governor,Collier,DEM,29089,44.4
+2018,133,Lieutenant Governor,McKennon,LIB,1304,2.0
+2018,133,Attorney General,Paxton,REP,34377,52.6
+2018,134,U.S. Senate,Cruz,REP,32114,36.8
+2018,134,U.S. Senate,O'Rourke,DEM,54514,62.4
+2018,134,U.S. Senate,Dikeman,LIB,669,0.8
+2018,134,Governor,Abbott,REP,39112,45.3
+2018,134,Governor,Valdez,DEM,45388,52.5
+2018,134,Governor,Tippetts,LIB,1925,2.2
+2018,134,Lieutenant Governor,Patrick,REP,32789,37.9
+2018,134,Lieutenant Governor,Collier,DEM,51809,60.0
+2018,134,Lieutenant Governor,McKennon,LIB,1817,2.1
+2018,134,Attorney General,Paxton,REP,31523,36.6
+2018,135,U.S. Senate,Cruz,REP,16162,35.0
+2018,135,U.S. Senate,O'Rourke,DEM,29762,64.4
+2018,135,U.S. Senate,Dikeman,LIB,315,0.7
+2018,135,Governor,Abbott,REP,18147,39.2
+2018,135,Governor,Valdez,DEM,27501,59.4
+2018,135,Governor,Tippetts,LIB,626,1.4
+2018,135,Lieutenant Governor,Patrick,REP,16751,36.3
+2018,135,Lieutenant Governor,Collier,DEM,28666,62.1
+2018,135,Lieutenant Governor,McKennon,LIB,781,1.7
+2018,135,Attorney General,Paxton,REP,16173,35.0
+2018,136,U.S. Senate,Cruz,REP,23172,35.3
+2018,136,U.S. Senate,O'Rourke,DEM,41750,63.5
+2018,136,U.S. Senate,Dikeman,LIB,786,1.2
+2018,136,Governor,Abbott,REP,27285,41.8
+2018,136,Governor,Valdez,DEM,36167,55.3
+2018,136,Governor,Tippetts,LIB,1896,2.9
+2018,136,Lieutenant Governor,Patrick,REP,24063,37.0
+2018,136,Lieutenant Governor,Collier,DEM,38653,59.5
+2018,136,Lieutenant Governor,McKennon,LIB,2282,3.5
+2018,136,Attorney General,Paxton,REP,23031,35.5
+2018,137,U.S. Senate,Cruz,REP,8713,30.9
+2018,137,U.S. Senate,O'Rourke,DEM,19309,68.4
+2018,137,U.S. Senate,Dikeman,LIB,214,0.8
+2018,137,Governor,Abbott,REP,10183,36.1
+2018,137,Governor,Valdez,DEM,17557,62.3
+2018,137,Governor,Tippetts,LIB,463,1.6
+2018,137,Lieutenant Governor,Patrick,REP,9034,32.1
+2018,137,Lieutenant Governor,Collier,DEM,18625,66.1
+2018,137,Lieutenant Governor,McKennon,LIB,523,1.9
+2018,137,Attorney General,Paxton,REP,8653,30.8
+2018,138,U.S. Senate,Cruz,REP,32754,52.8
+2018,138,U.S. Senate,O'Rourke,DEM,28778,46.4
+2018,138,U.S. Senate,Dikeman,LIB,519,0.8
+2018,138,Governor,Abbott,REP,36330,58.7
+2018,138,Governor,Valdez,DEM,24479,39.6
+2018,138,Governor,Tippetts,LIB,1064,1.7
+2018,138,Lieutenant Governor,Patrick,REP,33088,53.5
+2018,138,Lieutenant Governor,Collier,DEM,27607,44.7
+2018,138,Lieutenant Governor,McKennon,LIB,1111,1.8
+2018,138,Attorney General,Paxton,REP,32323,52.4
+2018,139,U.S. Senate,Cruz,REP,11599,22.9
+2018,139,U.S. Senate,O'Rourke,DEM,38842,76.5
+2018,139,U.S. Senate,Dikeman,LIB,301,0.6
+2018,139,Governor,Abbott,REP,13994,27.5
+2018,139,Governor,Valdez,DEM,36147,71.1
+2018,139,Governor,Tippetts,LIB,683,1.3
+2018,139,Lieutenant Governor,Patrick,REP,12137,23.9
+2018,139,Lieutenant Governor,Collier,DEM,37954,74.7
+2018,139,Lieutenant Governor,McKennon,LIB,692,1.4
+2018,139,Attorney General,Paxton,REP,11512,22.7
+2018,140,U.S. Senate,Cruz,REP,5393,21.5
+2018,140,U.S. Senate,O'Rourke,DEM,19532,78.0
+2018,140,U.S. Senate,Dikeman,LIB,130,0.5
+2018,140,Governor,Abbott,REP,6466,25.7
+2018,140,Governor,Valdez,DEM,18428,73.4
+2018,140,Governor,Tippetts,LIB,224,0.9
+2018,140,Lieutenant Governor,Patrick,REP,5880,23.4
+2018,140,Lieutenant Governor,Collier,DEM,18949,75.5
+2018,140,Lieutenant Governor,McKennon,LIB,265,1.1
+2018,140,Attorney General,Paxton,REP,5502,22.0
+2018,141,U.S. Senate,Cruz,REP,4459,13.6
+2018,141,U.S. Senate,O'Rourke,DEM,28096,85.8
+2018,141,U.S. Senate,Dikeman,LIB,182,0.6
+2018,141,Governor,Abbott,REP,5657,17.2
+2018,141,Governor,Valdez,DEM,26877,81.8
+2018,141,Governor,Tippetts,LIB,342,1.0
+2018,141,Lieutenant Governor,Patrick,REP,4752,14.5
+2018,141,Lieutenant Governor,Collier,DEM,27735,84.4
+2018,141,Lieutenant Governor,McKennon,LIB,367,1.1
+2018,141,Attorney General,Paxton,REP,4427,13.5
+2018,142,U.S. Senate,Cruz,REP,8265,21.6
+2018,142,U.S. Senate,O'Rourke,DEM,29705,77.8
+2018,142,U.S. Senate,Dikeman,LIB,218,0.6
+2018,142,Governor,Abbott,REP,10024,26.2
+2018,142,Governor,Valdez,DEM,27738,72.6
+2018,142,Governor,Tippetts,LIB,458,1.2
+2018,142,Lieutenant Governor,Patrick,REP,8748,22.9
+2018,142,Lieutenant Governor,Collier,DEM,28976,75.9
+2018,142,Lieutenant Governor,McKennon,LIB,462,1.2
+2018,142,Attorney General,Paxton,REP,8290,21.7
+2018,143,U.S. Senate,Cruz,REP,8751,26.9
+2018,143,U.S. Senate,O'Rourke,DEM,23602,72.5
+2018,143,U.S. Senate,Dikeman,LIB,184,0.6
+2018,143,Governor,Abbott,REP,10180,31.3
+2018,143,Governor,Valdez,DEM,22069,67.8
+2018,143,Governor,Tippetts,LIB,306,0.9
+2018,143,Lieutenant Governor,Patrick,REP,9296,28.6
+2018,143,Lieutenant Governor,Collier,DEM,22798,70.1
+2018,143,Lieutenant Governor,McKennon,LIB,408,1.3
+2018,143,Attorney General,Paxton,REP,8770,27.0
+2018,144,U.S. Senate,Cruz,REP,12511,36.8
+2018,144,U.S. Senate,O'Rourke,DEM,21278,62.5
+2018,144,U.S. Senate,Dikeman,LIB,234,0.7
+2018,144,Governor,Abbott,REP,13996,41.1
+2018,144,Governor,Valdez,DEM,19731,57.9
+2018,144,Governor,Tippetts,LIB,351,1.0
+2018,144,Lieutenant Governor,Patrick,REP,13039,38.4
+2018,144,Lieutenant Governor,Collier,DEM,20481,60.3
+2018,144,Lieutenant Governor,McKennon,LIB,463,1.4
+2018,144,Attorney General,Paxton,REP,12484,36.8
+2018,145,U.S. Senate,Cruz,REP,12101,24.1
+2018,145,U.S. Senate,O'Rourke,DEM,37672,75.0
+2018,145,U.S. Senate,Dikeman,LIB,483,1.0
+2018,145,Governor,Abbott,REP,15227,30.4
+2018,145,Governor,Valdez,DEM,33746,67.5
+2018,145,Governor,Tippetts,LIB,1037,2.1
+2018,145,Lieutenant Governor,Patrick,REP,12927,25.9
+2018,145,Lieutenant Governor,Collier,DEM,35806,71.8
+2018,145,Lieutenant Governor,McKennon,LIB,1160,2.3
+2018,145,Attorney General,Paxton,REP,12150,24.4
+2018,146,U.S. Senate,Cruz,REP,9227,18.6
+2018,146,U.S. Senate,O'Rourke,DEM,40111,80.7
+2018,146,U.S. Senate,Dikeman,LIB,342,0.7
+2018,146,Governor,Abbott,REP,11690,23.6
+2018,146,Governor,Valdez,DEM,37173,74.9
+2018,146,Governor,Tippetts,LIB,760,1.5
+2018,146,Lieutenant Governor,Patrick,REP,9669,19.5
+2018,146,Lieutenant Governor,Collier,DEM,39162,79.0
+2018,146,Lieutenant Governor,McKennon,LIB,754,1.5
+2018,146,Attorney General,Paxton,REP,9080,18.3
+2018,147,U.S. Senate,Cruz,REP,9575,17.4
+2018,147,U.S. Senate,O'Rourke,DEM,45020,81.9
+2018,147,U.S. Senate,Dikeman,LIB,364,0.7
+2018,147,Governor,Abbott,REP,12495,22.8
+2018,147,Governor,Valdez,DEM,41361,75.3
+2018,147,Governor,Tippetts,LIB,1036,1.9
+2018,147,Lieutenant Governor,Patrick,REP,10301,18.8
+2018,147,Lieutenant Governor,Collier,DEM,43416,79.3
+2018,147,Lieutenant Governor,McKennon,LIB,1049,1.9
+2018,147,Attorney General,Paxton,REP,9730,17.8
+2018,148,U.S. Senate,Cruz,REP,16281,37.5
+2018,148,U.S. Senate,O'Rourke,DEM,26815,61.7
+2018,148,U.S. Senate,Dikeman,LIB,348,0.8
+2018,148,Governor,Abbott,REP,18438,42.4
+2018,148,Governor,Valdez,DEM,24357,56.1
+2018,148,Governor,Tippetts,LIB,653,1.5
+2018,148,Lieutenant Governor,Patrick,REP,16948,39.1
+2018,148,Lieutenant Governor,Collier,DEM,25684,59.2
+2018,148,Lieutenant Governor,McKennon,LIB,757,1.7
+2018,148,Attorney General,Paxton,REP,16338,37.7
+2018,149,U.S. Senate,Cruz,REP,12097,30.6
+2018,149,U.S. Senate,O'Rourke,DEM,27142,68.7
+2018,149,U.S. Senate,Dikeman,LIB,256,0.6
+2018,149,Governor,Abbott,REP,13763,34.8
+2018,149,Governor,Valdez,DEM,25331,64.0
+2018,149,Governor,Tippetts,LIB,506,1.3
+2018,149,Lieutenant Governor,Patrick,REP,12761,32.3
+2018,149,Lieutenant Governor,Collier,DEM,26257,66.4
+2018,149,Lieutenant Governor,McKennon,LIB,538,1.4
+2018,149,Attorney General,Paxton,REP,12190,30.9
+2018,150,U.S. Senate,Cruz,REP,33084,58.1
+2018,150,U.S. Senate,O'Rourke,DEM,23466,41.2
+2018,150,U.S. Senate,Dikeman,LIB,413,0.7
+2018,150,Governor,Abbott,REP,35503,62.4
+2018,150,Governor,Valdez,DEM,20662,36.3
+2018,150,Governor,Tippetts,LIB,765,1.3
+2018,150,Lieutenant Governor,Patrick,REP,33419,58.8
+2018,150,Lieutenant Governor,Collier,DEM,22454,39.5
+2018,150,Lieutenant Governor,McKennon,LIB,939,1.7
+2018,150,Attorney General,Paxton,REP,32917,58.0

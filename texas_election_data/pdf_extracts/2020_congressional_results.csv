@@ -1,0 +1,391 @@
+year,district,office,candidate,party,votes,percentage
+2020,STATE,President,Biden,D,5257513,46.5
+2020,STATE,President,Trump,R,5889022,52.0
+2020,STATE,President,Jorgensen,L,126212,1.1
+2020,STATE,President,Hawkins,G,33378,0.3
+2020,STATE,President,Write-In,W,10927,0.1
+2020,STATE,U.S. Senate,Cornyn,R,5961643,53.5
+2020,STATE,U.S. Senate,Hegar,D,4887309,43.9
+2020,STATE,U.S. Senate,McKennon,L,209623,1.9
+2020,STATE,U.S. Senate,Collins,G,81753,0.7
+2020,STATE,Railroad Commissioner,Castaneda,D,4791167,43.6
+2020,1,President,Biden,D,89084,27.5
+2020,1,President,Trump,R,230986,71.3
+2020,1,President,Jorgensen,L,3087,1.0
+2020,1,President,Hawkins,G,694,0.2
+2020,1,President,Write-In,W,153,0.0
+2020,1,U.S. Senate,Cornyn,R,229999,71.6
+2020,1,U.S. Senate,Hegar,D,85313,26.6
+2020,1,U.S. Senate,McKennon,L,4613,1.4
+2020,1,U.S. Senate,Collins,G,1316,0.4
+2020,1,Railroad Commissioner,Castaneda,D,81379,25.5
+2020,2,President,Biden,D,125217,39.3
+2020,2,President,Trump,R,189106,59.3
+2020,2,President,Jorgensen,L,3750,1.2
+2020,2,President,Hawkins,G,841,0.3
+2020,2,President,Write-In,W,66,0.0
+2020,2,U.S. Senate,Cornyn,R,191799,60.8
+2020,2,U.S. Senate,Hegar,D,116097,36.8
+2020,2,U.S. Senate,McKennon,L,5921,1.9
+2020,2,U.S. Senate,Collins,G,1857,0.6
+2020,2,Railroad Commissioner,Castaneda,D,113073,36.3
+2020,3,President,Biden,D,136806,40.4
+2020,3,President,Trump,R,195992,57.8
+2020,3,President,Jorgensen,L,4308,1.3
+2020,3,President,Hawkins,G,815,0.2
+2020,3,President,Write-In,W,909,0.3
+2020,3,U.S. Senate,Cornyn,R,199755,60.3
+2020,3,U.S. Senate,Hegar,D,123598,37.3
+2020,3,U.S. Senate,McKennon,L,6020,1.8
+2020,3,U.S. Senate,Collins,G,1944,0.6
+2020,3,Railroad Commissioner,Castaneda,D,119204,36.6
+2020,4,President,Biden,D,143820,40.4
+2020,4,President,Trump,R,207292,58.2
+2020,4,President,Jorgensen,L,3654,1.0
+2020,4,President,Hawkins,G,782,0.2
+2020,4,President,Write-In,W,845,0.2
+2020,4,U.S. Senate,Cornyn,R,213326,60.9
+2020,4,U.S. Senate,Hegar,D,130012,37.1
+2020,4,U.S. Senate,McKennon,L,5446,1.6
+2020,4,U.S. Senate,Collins,G,1703,0.5
+2020,4,Railroad Commissioner,Castaneda,D,124347,36.1
+2020,5,President,Biden,D,117758,41.3
+2020,5,President,Trump,R,163933,57.5
+2020,5,President,Jorgensen,L,2722,1.0
+2020,5,President,Hawkins,G,839,0.3
+2020,5,President,Write-In,W,64,0.0
+2020,5,U.S. Senate,Cornyn,R,166812,58.7
+2020,5,U.S. Senate,Hegar,D,110460,38.9
+2020,5,U.S. Senate,McKennon,L,4639,1.6
+2020,5,U.S. Senate,Collins,G,2090,0.7
+2020,5,Railroad Commissioner,Castaneda,D,109411,38.8
+2020,6,President,Biden,D,118557,39.5
+2020,6,President,Trump,R,177313,59.0
+2020,6,President,Jorgensen,L,3357,1.1
+2020,6,President,Hawkins,G,846,0.3
+2020,6,President,Write-In,W,325,0.1
+2020,6,U.S. Senate,Cornyn,R,179660,60.2
+2020,6,U.S. Senate,Hegar,D,110836,37.2
+2020,6,U.S. Senate,McKennon,L,5606,1.9
+2020,6,U.S. Senate,Collins,G,2093,0.7
+2020,6,Railroad Commissioner,Castaneda,D,108164,36.6
+2020,7,President,Biden,D,179573,65.6
+2020,7,President,Trump,R,90201,32.9
+2020,7,President,Jorgensen,L,2971,1.1
+2020,7,President,Hawkins,G,854,0.3
+2020,7,President,Write-In,W,170,0.1
+2020,7,U.S. Senate,Cornyn,R,96916,36.2
+2020,7,U.S. Senate,Hegar,D,164802,61.5
+2020,7,U.S. Senate,McKennon,L,4360,1.6
+2020,7,U.S. Senate,Collins,G,1924,0.7
+2020,7,Railroad Commissioner,Castaneda,D,159717,60.6
+2020,8,President,Biden,D,119373,41.4
+2020,8,President,Trump,R,165356,57.3
+2020,8,President,Jorgensen,L,2780,1.0
+2020,8,President,Hawkins,G,834,0.3
+2020,8,President,Write-In,W,49,0.0
+2020,8,U.S. Senate,Cornyn,R,165422,58.2
+2020,8,U.S. Senate,Hegar,D,111552,39.3
+2020,8,U.S. Senate,McKennon,L,5146,1.8
+2020,8,U.S. Senate,Collins,G,1894,0.7
+2020,8,Railroad Commissioner,Castaneda,D,109757,39.1
+2020,9,President,Biden,D,103239,46.7
+2020,9,President,Trump,R,115023,52.0
+2020,9,President,Jorgensen,L,2041,0.9
+2020,9,President,Hawkins,G,684,0.3
+2020,9,President,Write-In,W,6,0.0
+2020,9,U.S. Senate,Cornyn,R,113167,52.4
+2020,9,U.S. Senate,Hegar,D,96773,44.8
+2020,9,U.S. Senate,McKennon,L,3994,1.9
+2020,9,U.S. Senate,Collins,G,1911,0.9
+2020,9,Railroad Commissioner,Castaneda,D,98563,46.1
+2020,10,President,Biden,D,144389,41.7
+2020,10,President,Trump,R,195630,56.5
+2020,10,President,Jorgensen,L,4801,1.4
+2020,10,President,Hawkins,G,803,0.2
+2020,10,President,Write-In,W,747,0.2
+2020,10,U.S. Senate,Cornyn,R,201159,58.9
+2020,10,U.S. Senate,Hegar,D,132517,38.8
+2020,10,U.S. Senate,McKennon,L,6464,1.9
+2020,10,U.S. Senate,Collins,G,1656,0.5
+2020,10,Railroad Commissioner,Castaneda,D,125629,37.4
+2020,11,President,Biden,D,101157,34.2
+2020,11,President,Trump,R,190043,64.2
+2020,11,President,Jorgensen,L,3679,1.2
+2020,11,President,Hawkins,G,664,0.2
+2020,11,President,Write-In,W,337,0.1
+2020,11,U.S. Senate,Cornyn,R,189995,65.1
+2020,11,U.S. Senate,Hegar,D,94626,32.4
+2020,11,U.S. Senate,McKennon,L,5581,1.9
+2020,11,U.S. Senate,Collins,G,1481,0.5
+2020,11,Railroad Commissioner,Castaneda,D,91436,31.7
+2020,12,President,Biden,D,118539,40.4
+2020,12,President,Trump,R,170097,57.9
+2020,12,President,Jorgensen,L,3867,1.3
+2020,12,President,Hawkins,G,869,0.3
+2020,12,President,Write-In,W,155,0.1
+2020,12,U.S. Senate,Cornyn,R,173532,59.7
+2020,12,U.S. Senate,Hegar,D,109215,37.5
+2020,12,U.S. Senate,McKennon,L,6152,2.1
+2020,12,U.S. Senate,Collins,G,2004,0.7
+2020,12,Railroad Commissioner,Castaneda,D,104709,36.4
+2020,13,President,Biden,D,81298,27.1
+2020,13,President,Trump,R,213356,71.2
+2020,13,President,Jorgensen,L,3952,1.3
+2020,13,President,Hawkins,G,850,0.3
+2020,13,President,Write-In,W,191,0.1
+2020,13,U.S. Senate,Cornyn,R,212665,71.9
+2020,13,U.S. Senate,Hegar,D,75370,25.5
+2020,13,U.S. Senate,McKennon,L,6105,2.1
+2020,13,U.S. Senate,Collins,G,1807,0.6
+2020,13,Railroad Commissioner,Castaneda,D,71589,24.5
+2020,14,President,Biden,D,118853,37.2
+2020,14,President,Trump,R,195562,61.3
+2020,14,President,Jorgensen,L,3728,1.2
+2020,14,President,Hawkins,G,759,0.2
+2020,14,President,Write-In,W,328,0.1
+2020,14,U.S. Senate,Cornyn,R,195141,62.0
+2020,14,U.S. Senate,Hegar,D,112010,35.6
+2020,14,U.S. Senate,McKennon,L,5840,1.9
+2020,14,U.S. Senate,Collins,G,1847,0.6
+2020,14,Railroad Commissioner,Castaneda,D,108919,35.0
+2020,15,President,Biden,D,109872,48.3
+2020,15,President,Trump,R,115267,50.7
+2020,15,President,Jorgensen,L,1440,0.6
+2020,15,President,Hawkins,G,788,0.3
+2020,15,President,Write-In,W,63,0.0
+2020,15,U.S. Senate,Cornyn,R,109824,50.3
+2020,15,U.S. Senate,Hegar,D,101316,46.4
+2020,15,U.S. Senate,McKennon,L,4512,2.1
+2020,15,U.S. Senate,Collins,G,2552,1.2
+2020,15,Railroad Commissioner,Castaneda,D,104955,48.9
+2020,16,President,Biden,D,165477,67.0
+2020,16,President,Trump,R,77565,31.4
+2020,16,President,Jorgensen,L,2487,1.0
+2020,16,President,Hawkins,G,1307,0.5
+2020,16,President,Write-In,W,0,0.0
+2020,16,U.S. Senate,Cornyn,R,73823,30.8
+2020,16,U.S. Senate,Hegar,D,152919,63.7
+2020,16,U.S. Senate,McKennon,L,7638,3.2
+2020,16,U.S. Senate,Collins,G,5603,2.3
+2020,16,Railroad Commissioner,Castaneda,D,148872,63.0
+2020,17,President,Biden,D,131507,41.4
+2020,17,President,Trump,R,180018,56.7
+2020,17,President,Jorgensen,L,4448,1.4
+2020,17,President,Hawkins,G,837,0.3
+2020,17,President,Write-In,W,639,0.2
+2020,17,U.S. Senate,Cornyn,R,181163,58.2
+2020,17,U.S. Senate,Hegar,D,122145,39.2
+2020,17,U.S. Senate,McKennon,L,6225,2.0
+2020,17,U.S. Senate,Collins,G,1875,0.6
+2020,17,Railroad Commissioner,Castaneda,D,115807,37.8
+2020,18,President,Biden,D,225094,80.7
+2020,18,President,Trump,R,50557,18.1
+2020,18,President,Jorgensen,L,2040,0.7
+2020,18,President,Hawkins,G,1012,0.4
+2020,18,President,Write-In,W,162,0.1
+2020,18,U.S. Senate,Cornyn,R,52900,19.4
+2020,18,U.S. Senate,Hegar,D,213048,78.0
+2020,18,U.S. Senate,McKennon,L,4635,1.7
+2020,18,U.S. Senate,Collins,G,2617,1.0
+2020,18,Railroad Commissioner,Castaneda,D,211347,78.1
+2020,19,President,Biden,D,73170,26.2
+2020,19,President,Trump,R,202434,72.3
+2020,19,President,Jorgensen,L,3326,1.2
+2020,19,President,Hawkins,G,661,0.2
+2020,19,President,Write-In,W,214,0.1
+2020,19,U.S. Senate,Cornyn,R,201522,73.1
+2020,19,U.S. Senate,Hegar,D,66919,24.3
+2020,19,U.S. Senate,McKennon,L,5761,2.1
+2020,19,U.S. Senate,Collins,G,1502,0.5
+2020,19,Railroad Commissioner,Castaneda,D,64031,23.5
+2020,20,President,Biden,D,172100,69.3
+2020,20,President,Trump,R,72306,29.1
+2020,20,President,Jorgensen,L,2621,1.1
+2020,20,President,Hawkins,G,1187,0.5
+2020,20,President,Write-In,W,177,0.1
+2020,20,U.S. Senate,Cornyn,R,74514,30.8
+2020,20,U.S. Senate,Hegar,D,159241,65.9
+2020,20,U.S. Senate,McKennon,L,5360,2.2
+2020,20,U.S. Senate,Collins,G,2635,1.1
+2020,20,Railroad Commissioner,Castaneda,D,161827,67.3
+2020,21,President,Biden,D,161598,40.9
+2020,21,President,Trump,R,227752,57.6
+2020,21,President,Jorgensen,L,4849,1.2
+2020,21,President,Hawkins,G,1050,0.3
+2020,21,President,Write-In,W,233,0.1
+2020,21,U.S. Senate,Cornyn,R,234119,59.8
+2020,21,U.S. Senate,Hegar,D,147470,37.7
+2020,21,U.S. Senate,McKennon,L,7407,1.9
+2020,21,U.S. Senate,Collins,G,2286,0.6
+2020,21,Railroad Commissioner,Castaneda,D,145421,37.6
+2020,22,President,Biden,D,137239,41.2
+2020,22,President,Trump,R,191067,57.3
+2020,22,President,Jorgensen,L,3569,1.1
+2020,22,President,Hawkins,G,898,0.3
+2020,22,President,Write-In,W,648,0.2
+2020,22,U.S. Senate,Cornyn,R,194334,59.5
+2020,22,U.S. Senate,Hegar,D,124728,38.2
+2020,22,U.S. Senate,McKennon,L,5645,1.7
+2020,22,U.S. Senate,Collins,G,1734,0.5
+2020,22,Railroad Commissioner,Castaneda,D,121017,37.6
+2020,23,President,Biden,D,137113,45.6
+2020,23,President,Trump,R,159464,53.0
+2020,23,President,Jorgensen,L,3176,1.1
+2020,23,President,Hawkins,G,820,0.3
+2020,23,President,Write-In,W,135,0.0
+2020,23,U.S. Senate,Cornyn,R,159928,54.5
+2020,23,U.S. Senate,Hegar,D,125993,42.9
+2020,23,U.S. Senate,McKennon,L,5339,1.8
+2020,23,U.S. Senate,Collins,G,2414,0.8
+2020,23,Railroad Commissioner,Castaneda,D,126405,43.6
+2020,24,President,Biden,D,164047,43.0
+2020,24,President,Trump,R,211215,55.4
+2020,24,President,Jorgensen,L,4967,1.3
+2020,24,President,Hawkins,G,1034,0.3
+2020,24,President,Write-In,W,111,0.0
+2020,24,U.S. Senate,Cornyn,R,224839,59.2
+2020,24,U.S. Senate,Hegar,D,146335,38.5
+2020,24,U.S. Senate,McKennon,L,6739,1.8
+2020,24,U.S. Senate,Collins,G,2195,0.6
+2020,24,Railroad Commissioner,Castaneda,D,141564,37.7
+2020,25,President,Biden,D,124555,41.3
+2020,25,President,Trump,R,172548,57.3
+2020,25,President,Jorgensen,L,3148,1.0
+2020,25,President,Hawkins,G,828,0.3
+2020,25,President,Write-In,W,196,0.1
+2020,25,U.S. Senate,Cornyn,R,172991,58.0
+2020,25,U.S. Senate,Hegar,D,117610,39.5
+2020,25,U.S. Senate,McKennon,L,5381,1.8
+2020,25,U.S. Senate,Collins,G,2053,0.7
+2020,25,Railroad Commissioner,Castaneda,D,114696,38.8
+2020,26,President,Biden,D,142810,40.0
+2020,26,President,Trump,R,208775,58.5
+2020,26,President,Jorgensen,L,4413,1.2
+2020,26,President,Hawkins,G,791,0.2
+2020,26,President,Write-In,W,212,0.1
+2020,26,U.S. Senate,Cornyn,R,214529,60.8
+2020,26,U.S. Senate,Hegar,D,129466,36.7
+2020,26,U.S. Senate,McKennon,L,7085,2.0
+2020,26,U.S. Senate,Collins,G,2018,0.6
+2020,26,Railroad Commissioner,Castaneda,D,122934,35.5
+2020,27,President,Biden,D,124123,40.6
+2020,27,President,Trump,R,176960,57.8
+2020,27,President,Jorgensen,L,3598,1.2
+2020,27,President,Hawkins,G,906,0.3
+2020,27,President,Write-In,W,467,0.2
+2020,27,U.S. Senate,Cornyn,R,177460,58.7
+2020,27,U.S. Senate,Hegar,D,117723,38.9
+2020,27,U.S. Senate,McKennon,L,5440,1.8
+2020,27,U.S. Senate,Collins,G,1723,0.6
+2020,27,Railroad Commissioner,Castaneda,D,114901,38.5
+2020,28,President,Biden,D,112479,54.3
+2020,28,President,Trump,R,92571,44.7
+2020,28,President,Jorgensen,L,1228,0.6
+2020,28,President,Hawkins,G,689,0.3
+2020,28,President,Write-In,W,164,0.1
+2020,28,U.S. Senate,Cornyn,R,82563,42.3
+2020,28,U.S. Senate,Hegar,D,105875,54.2
+2020,28,U.S. Senate,McKennon,L,3947,2.0
+2020,28,U.S. Senate,Collins,G,2983,1.5
+2020,28,Railroad Commissioner,Castaneda,D,110488,57.5
+2020,29,President,Biden,D,139455,71.0
+2020,29,President,Trump,R,54480,27.7
+2020,29,President,Jorgensen,L,1613,0.8
+2020,29,President,Hawkins,G,792,0.4
+2020,29,President,Write-In,W,8,0.0
+2020,29,U.S. Senate,Cornyn,R,54621,28.5
+2020,29,U.S. Senate,Hegar,D,131116,68.4
+2020,29,U.S. Senate,McKennon,L,3762,2.0
+2020,29,U.S. Senate,Collins,G,2085,1.1
+2020,29,Railroad Commissioner,Castaneda,D,131910,69.4
+2020,30,President,Biden,D,208524,77.8
+2020,30,President,Trump,R,56351,21.0
+2020,30,President,Jorgensen,L,1962,0.7
+2020,30,President,Hawkins,G,1140,0.4
+2020,30,President,Write-In,W,33,0.0
+2020,30,U.S. Senate,Cornyn,R,58530,22.0
+2020,30,U.S. Senate,Hegar,D,200408,75.3
+2020,30,U.S. Senate,McKennon,L,4501,1.7
+2020,30,U.S. Senate,Collins,G,2769,1.0
+2020,30,Railroad Commissioner,Castaneda,D,201011,75.8
+2020,31,President,Biden,D,126675,40.0
+2020,31,President,Trump,R,183076,57.9
+2020,31,President,Jorgensen,L,4932,1.6
+2020,31,President,Hawkins,G,902,0.3
+2020,31,President,Write-In,W,788,0.2
+2020,31,U.S. Senate,Cornyn,R,184934,59.2
+2020,31,U.S. Senate,Hegar,D,119160,38.2
+2020,31,U.S. Senate,McKennon,L,6504,2.1
+2020,31,U.S. Senate,Collins,G,1626,0.5
+2020,31,Railroad Commissioner,Castaneda,D,112573,36.5
+2020,32,President,Biden,D,141998,44.2
+2020,32,President,Trump,R,174250,54.2
+2020,32,President,Jorgensen,L,3724,1.2
+2020,32,President,Hawkins,G,1002,0.3
+2020,32,President,Write-In,W,248,0.1
+2020,32,U.S. Senate,Cornyn,R,179974,56.4
+2020,32,U.S. Senate,Hegar,D,131585,41.2
+2020,32,U.S. Senate,McKennon,L,5433,1.7
+2020,32,U.S. Senate,Collins,G,2274,0.7
+2020,32,Railroad Commissioner,Castaneda,D,129570,41.0
+2020,33,President,Biden,D,162915,71.7
+2020,33,President,Trump,R,60789,26.8
+2020,33,President,Jorgensen,L,2422,1.1
+2020,33,President,Hawkins,G,1037,0.5
+2020,33,President,Write-In,W,0,0.0
+2020,33,U.S. Senate,Cornyn,R,65705,29.1
+2020,33,U.S. Senate,Hegar,D,153714,68.0
+2020,33,U.S. Senate,McKennon,L,4292,1.9
+2020,33,U.S. Senate,Collins,G,2240,1.0
+2020,33,Railroad Commissioner,Castaneda,D,152821,68.2
+2020,34,President,Biden,D,123609,50.8
+2020,34,President,Trump,R,116465,47.9
+2020,34,President,Jorgensen,L,2126,0.9
+2020,34,President,Hawkins,G,685,0.3
+2020,34,President,Write-In,W,394,0.2
+2020,34,U.S. Senate,Cornyn,R,113552,47.8
+2020,34,U.S. Senate,Hegar,D,117491,49.4
+2020,34,U.S. Senate,McKennon,L,4299,1.8
+2020,34,U.S. Senate,Collins,G,2398,1.0
+2020,34,Railroad Commissioner,Castaneda,D,119422,51.1
+2020,35,President,Biden,D,141577,48.3
+2020,35,President,Trump,R,147063,50.1
+2020,35,President,Jorgensen,L,3315,1.1
+2020,35,President,Hawkins,G,1002,0.3
+2020,35,President,Write-In,W,308,0.1
+2020,35,U.S. Senate,Cornyn,R,148565,51.7
+2020,35,U.S. Senate,Hegar,D,130884,45.5
+2020,35,U.S. Senate,McKennon,L,5761,2.0
+2020,35,U.S. Senate,Collins,G,2244,0.8
+2020,35,Railroad Commissioner,Castaneda,D,132563,46.5
+2020,36,President,Biden,D,109652,36.0
+2020,36,President,Trump,R,191389,62.8
+2020,36,President,Jorgensen,L,2995,1.0
+2020,36,President,Hawkins,G,663,0.2
+2020,36,President,Write-In,W,113,0.0
+2020,36,U.S. Senate,Cornyn,R,190225,63.3
+2020,36,U.S. Senate,Hegar,D,103709,34.5
+2020,36,U.S. Senate,McKennon,L,5006,1.7
+2020,36,U.S. Senate,Collins,G,1750,0.6
+2020,36,Railroad Commissioner,Castaneda,D,101642,34.2
+2020,37,President,Biden,D,281054,80.1
+2020,37,President,Trump,R,62265,17.7
+2020,37,President,Jorgensen,L,5037,1.4
+2020,37,President,Hawkins,G,1429,0.4
+2020,37,President,Write-In,W,1262,0.4
+2020,37,U.S. Senate,Cornyn,R,69372,20.1
+2020,37,U.S. Senate,Hegar,D,265764,77.0
+2020,37,U.S. Senate,McKennon,L,7239,2.1
+2020,37,U.S. Senate,Collins,G,2825,0.8
+2020,37,Railroad Commissioner,Castaneda,D,254615,75.4
+2020,38,President,Biden,D,143207,40.6
+2020,38,President,Trump,R,204505,58.0
+2020,38,President,Jorgensen,L,4079,1.2
+2020,38,President,Hawkins,G,784,0.2
+2020,38,President,Write-In,W,7,0.0
+2020,38,U.S. Senate,Cornyn,R,212308,60.8
+2020,38,U.S. Senate,Hegar,D,129509,37.1
+2020,38,U.S. Senate,McKennon,L,5825,1.7
+2020,38,U.S. Senate,Collins,G,1825,0.5
+2020,38,Railroad Commissioner,Castaneda,D,124878,36.3

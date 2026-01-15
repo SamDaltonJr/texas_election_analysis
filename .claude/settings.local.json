@@ -5,7 +5,18 @@
       "Bash(pip install:*)",
       "Bash(python -m pip install:*)",
       "Bash(dir:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git fsck:*)",
+      "Bash(git fetch:*)",
+      "Bash(git gc:*)",
+      "Bash(git cat-file:*)",
+      "Bash(xargs git grep:*)",
+      "Bash(git hash-object:*)",
+      "Bash(curl:*)",
+      "Bash(ls:*)"
     ]
   }
 }

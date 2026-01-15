@@ -1,0 +1,508 @@
+year,district,office,candidate,party,votes,percentage
+2022,STATE,Governor,Abbott,R,4437097,54.7
+2022,STATE,Governor,Barrios,G,28590,0.4
+2022,STATE,Governor,O'Rourke,D,3554772,43.8
+2022,STATE,Governor,Tippetts,L,81942,1.0
+2022,STATE,Governor,Write-In,W,4367,0.1
+2022,STATE,Lieutenant Governor,Collier,D,3493602,43.5
+2022,STATE,Lieutenant Governor,Patrick,R,4317770,53.7
+2022,STATE,Lieutenant Governor,Steele,L,222257,2.8
+2022,STATE,Attorney General,Ash,L,233768,2.9
+2022,STATE,Attorney General,Garza,D,3498276,43.7
+2022,1,Governor,Abbott,R,179617,76.4
+2022,1,Governor,Barrios,G,568,0.2
+2022,1,Governor,O'Rourke,D,53077,22.6
+2022,1,Governor,Tippetts,L,1818,0.8
+2022,1,Governor,Write-In,W,121,0.1
+2022,1,Lieutenant Governor,Collier,D,53414,22.8
+2022,1,Lieutenant Governor,Patrick,R,176135,75.3
+2022,1,Lieutenant Governor,Steele,L,4476,1.9
+2022,1,Attorney General,Ash,L,4633,2.0
+2022,1,Attorney General,Garza,D,53719,23.0
+2022,2,Governor,Abbott,R,139838,60.9
+2022,2,Governor,Barrios,G,713,0.3
+2022,2,Governor,O'Rourke,D,86375,37.6
+2022,2,Governor,Tippetts,L,2521,1.1
+2022,2,Governor,Write-In,W,17,0.0
+2022,2,Lieutenant Governor,Collier,D,85122,37.2
+2022,2,Lieutenant Governor,Patrick,R,137760,60.2
+2022,2,Lieutenant Governor,Steele,L,5793,2.5
+2022,2,Attorney General,Ash,L,6217,2.7
+2022,2,Attorney General,Garza,D,84627,37.1
+2022,3,Governor,Abbott,R,155635,61.1
+2022,3,Governor,Barrios,G,620,0.2
+2022,3,Governor,O'Rourke,D,95527,37.5
+2022,3,Governor,Tippetts,L,2726,1.1
+2022,3,Governor,Write-In,W,164,0.1
+2022,3,Lieutenant Governor,Collier,D,95232,37.7
+2022,3,Lieutenant Governor,Patrick,R,150821,59.8
+2022,3,Lieutenant Governor,Steele,L,6255,2.5
+2022,3,Attorney General,Ash,L,8645,3.4
+2022,3,Attorney General,Garza,D,93603,37.3
+2022,4,Governor,Abbott,R,162196,61.4
+2022,4,Governor,Barrios,G,552,0.2
+2022,4,Governor,O'Rourke,D,98619,37.4
+2022,4,Governor,Tippetts,L,2429,0.9
+2022,4,Governor,Write-In,W,163,0.1
+2022,4,Lieutenant Governor,Collier,D,99006,37.8
+2022,4,Lieutenant Governor,Patrick,R,157309,60.0
+2022,4,Lieutenant Governor,Steele,L,5735,2.2
+2022,4,Attorney General,Ash,L,7740,3.0
+2022,4,Attorney General,Garza,D,97774,37.5
+2022,5,Governor,Abbott,R,124194,60.0
+2022,5,Governor,Barrios,G,571,0.3
+2022,5,Governor,O'Rourke,D,79768,38.6
+2022,5,Governor,Tippetts,L,1857,0.9
+2022,5,Governor,Write-In,W,443,0.2
+2022,5,Lieutenant Governor,Collier,D,79949,38.9
+2022,5,Lieutenant Governor,Patrick,R,120257,58.5
+2022,5,Lieutenant Governor,Steele,L,5371,2.6
+2022,5,Attorney General,Ash,L,6613,3.2
+2022,5,Attorney General,Garza,D,78703,38.4
+2022,6,Governor,Abbott,R,135770,61.6
+2022,6,Governor,Barrios,G,564,0.3
+2022,6,Governor,O'Rourke,D,81910,37.1
+2022,6,Governor,Tippetts,L,2195,1.0
+2022,6,Governor,Write-In,W,113,0.1
+2022,6,Lieutenant Governor,Collier,D,82073,37.5
+2022,6,Lieutenant Governor,Patrick,R,131130,59.9
+2022,6,Lieutenant Governor,Steele,L,5862,2.7
+2022,6,Attorney General,Ash,L,7455,3.4
+2022,6,Attorney General,Garza,D,80410,36.8
+2022,7,Governor,Abbott,R,61235,33.2
+2022,7,Governor,Barrios,G,728,0.4
+2022,7,Governor,O'Rourke,D,120037,65.2
+2022,7,Governor,Tippetts,L,2176,1.2
+2022,7,Governor,Write-In,W,52,0.0
+2022,7,Lieutenant Governor,Collier,D,118812,64.9
+2022,7,Lieutenant Governor,Patrick,R,59454,32.5
+2022,7,Lieutenant Governor,Steele,L,4732,2.6
+2022,7,Attorney General,Ash,L,5129,2.8
+2022,7,Attorney General,Garza,D,117890,64.6
+2022,8,Governor,Abbott,R,125439,61.9
+2022,8,Governor,Barrios,G,633,0.3
+2022,8,Governor,O'Rourke,D,74573,36.8
+2022,8,Governor,Tippetts,L,1919,0.9
+2022,8,Governor,Write-In,W,29,0.0
+2022,8,Lieutenant Governor,Collier,D,73911,36.6
+2022,8,Lieutenant Governor,Patrick,R,123318,61.1
+2022,8,Lieutenant Governor,Steele,L,4547,2.3
+2022,8,Attorney General,Ash,L,4797,2.4
+2022,8,Attorney General,Garza,D,73254,36.4
+2022,9,Governor,Abbott,R,76499,54.0
+2022,9,Governor,Barrios,G,718,0.5
+2022,9,Governor,O'Rourke,D,62893,44.4
+2022,9,Governor,Tippetts,L,1428,1.0
+2022,9,Governor,Write-In,W,21,0.0
+2022,9,Lieutenant Governor,Collier,D,60973,43.4
+2022,9,Lieutenant Governor,Patrick,R,75691,53.9
+2022,9,Lieutenant Governor,Steele,L,3887,2.8
+2022,9,Attorney General,Ash,L,3493,2.5
+2022,9,Attorney General,Garza,D,61525,43.8
+2022,10,Governor,Abbott,R,152847,59.1
+2022,10,Governor,Barrios,G,594,0.2
+2022,10,Governor,O'Rourke,D,102112,39.5
+2022,10,Governor,Tippetts,L,3079,1.2
+2022,10,Governor,Write-In,W,194,0.1
+2022,10,Lieutenant Governor,Collier,D,101798,39.6
+2022,10,Lieutenant Governor,Patrick,R,148105,57.7
+2022,10,Lieutenant Governor,Steele,L,6946,2.7
+2022,10,Attorney General,Ash,L,8380,3.3
+2022,10,Attorney General,Garza,D,101401,39.7
+2022,11,Governor,Abbott,R,137369,65.9
+2022,11,Governor,Barrios,G,577,0.3
+2022,11,Governor,O'Rourke,D,68191,32.7
+2022,11,Governor,Tippetts,L,2178,1.0
+2022,11,Governor,Write-In,W,103,0.0
+2022,11,Lieutenant Governor,Collier,D,67469,32.7
+2022,11,Lieutenant Governor,Patrick,R,133461,64.6
+2022,11,Lieutenant Governor,Steele,L,5591,2.7
+2022,11,Attorney General,Ash,L,5628,2.7
+2022,11,Attorney General,Garza,D,68046,33.1
+2022,12,Governor,Abbott,R,130119,60.2
+2022,12,Governor,Barrios,G,612,0.3
+2022,12,Governor,O'Rourke,D,82815,38.3
+2022,12,Governor,Tippetts,L,2444,1.1
+2022,12,Governor,Write-In,W,62,0.0
+2022,12,Lieutenant Governor,Collier,D,82942,38.6
+2022,12,Lieutenant Governor,Patrick,R,125570,58.4
+2022,12,Lieutenant Governor,Steele,L,6518,3.0
+2022,12,Attorney General,Ash,L,7816,3.6
+2022,12,Attorney General,Garza,D,81413,38.0
+2022,13,Governor,Abbott,R,160629,73.9
+2022,13,Governor,Barrios,G,640,0.3
+2022,13,Governor,O'Rourke,D,53733,24.7
+2022,13,Governor,Tippetts,L,2224,1.0
+2022,13,Governor,Write-In,W,81,0.0
+2022,13,Lieutenant Governor,Collier,D,53979,25.0
+2022,13,Lieutenant Governor,Patrick,R,156120,72.3
+2022,13,Lieutenant Governor,Steele,L,5912,2.7
+2022,13,Attorney General,Ash,L,5424,2.5
+2022,13,Attorney General,Garza,D,54021,25.1
+2022,14,Governor,Abbott,R,141877,63.4
+2022,14,Governor,Barrios,G,762,0.3
+2022,14,Governor,O'Rourke,D,78816,35.2
+2022,14,Governor,Tippetts,L,2349,1.0
+2022,14,Governor,Write-In,W,106,0.0
+2022,14,Lieutenant Governor,Collier,D,78246,35.1
+2022,14,Lieutenant Governor,Patrick,R,139001,62.4
+2022,14,Lieutenant Governor,Steele,L,5576,2.5
+2022,14,Attorney General,Ash,L,5722,2.6
+2022,14,Attorney General,Garza,D,77942,35.0
+2022,15,Governor,Abbott,R,81721,52.5
+2022,15,Governor,Barrios,G,866,0.6
+2022,15,Governor,O'Rourke,D,72061,46.3
+2022,15,Governor,Tippetts,L,1021,0.7
+2022,15,Governor,Write-In,W,50,0.0
+2022,15,Lieutenant Governor,Collier,D,67779,44.7
+2022,15,Lieutenant Governor,Patrick,R,79798,52.6
+2022,15,Lieutenant Governor,Steele,L,3995,2.6
+2022,15,Attorney General,Ash,L,2972,2.0
+2022,15,Attorney General,Garza,D,70816,46.8
+2022,16,Governor,Abbott,R,53543,34.6
+2022,16,Governor,Barrios,G,1116,0.7
+2022,16,Governor,O'Rourke,D,98495,63.7
+2022,16,Governor,Tippetts,L,1380,0.9
+2022,16,Governor,Write-In,W,95,0.1
+2022,16,Lieutenant Governor,Collier,D,92025,60.9
+2022,16,Lieutenant Governor,Patrick,R,53285,35.2
+2022,16,Lieutenant Governor,Steele,L,5922,3.9
+2022,16,Attorney General,Ash,L,4602,3.0
+2022,16,Attorney General,Garza,D,94835,62.7
+2022,17,Governor,Abbott,R,142155,59.8
+2022,17,Governor,Barrios,G,676,0.3
+2022,17,Governor,O'Rourke,D,92037,38.7
+2022,17,Governor,Tippetts,L,2799,1.2
+2022,17,Governor,Write-In,W,146,0.1
+2022,17,Lieutenant Governor,Collier,D,91280,38.8
+2022,17,Lieutenant Governor,Patrick,R,137840,58.5
+2022,17,Lieutenant Governor,Steele,L,6346,2.7
+2022,17,Attorney General,Ash,L,7550,3.2
+2022,17,Attorney General,Garza,D,90226,38.6
+2022,18,Governor,Abbott,R,33425,18.3
+2022,18,Governor,Barrios,G,1008,0.6
+2022,18,Governor,O'Rourke,D,146385,80.3
+2022,18,Governor,Tippetts,L,1510,0.8
+2022,18,Governor,Write-In,W,50,0.0
+2022,18,Lieutenant Governor,Collier,D,143084,79.0
+2022,18,Lieutenant Governor,Patrick,R,32680,18.1
+2022,18,Lieutenant Governor,Steele,L,5275,2.9
+2022,18,Attorney General,Ash,L,4298,2.4
+2022,18,Attorney General,Garza,D,143541,79.5
+2022,19,Governor,Abbott,R,149237,76.6
+2022,19,Governor,Barrios,G,593,0.3
+2022,19,Governor,O'Rourke,D,43094,22.1
+2022,19,Governor,Tippetts,L,1909,1.0
+2022,19,Governor,Write-In,W,71,0.0
+2022,19,Lieutenant Governor,Collier,D,43317,22.4
+2022,19,Lieutenant Governor,Patrick,R,144926,74.9
+2022,19,Lieutenant Governor,Steele,L,5262,2.7
+2022,19,Attorney General,Ash,L,4963,2.6
+2022,19,Attorney General,Garza,D,43534,22.5
+2022,20,Governor,Abbott,R,46298,28.8
+2022,20,Governor,Barrios,G,1035,0.6
+2022,20,Governor,O'Rourke,D,112018,69.7
+2022,20,Governor,Tippetts,L,1360,0.8
+2022,20,Governor,Write-In,W,93,0.1
+2022,20,Lieutenant Governor,Collier,D,105670,67.1
+2022,20,Lieutenant Governor,Patrick,R,45584,29.0
+2022,20,Lieutenant Governor,Steele,L,6181,3.9
+2022,20,Attorney General,Ash,L,4561,2.9
+2022,20,Attorney General,Garza,D,108337,68.6
+2022,21,Governor,Abbott,R,187636,59.5
+2022,21,Governor,Barrios,G,934,0.3
+2022,21,Governor,O'Rourke,D,122850,39.0
+2022,21,Governor,Tippetts,L,3591,1.1
+2022,21,Governor,Write-In,W,186,0.1
+2022,21,Lieutenant Governor,Collier,D,120072,38.4
+2022,21,Lieutenant Governor,Patrick,R,183366,58.6
+2022,21,Lieutenant Governor,Steele,L,9510,3.0
+2022,21,Attorney General,Ash,L,9521,3.0
+2022,21,Attorney General,Garza,D,120993,38.7
+2022,22,Governor,Abbott,R,144398,59.8
+2022,22,Governor,Barrios,G,791,0.3
+2022,22,Governor,O'Rourke,D,93324,38.7
+2022,22,Governor,Tippetts,L,2666,1.1
+2022,22,Governor,Write-In,W,145,0.1
+2022,22,Lieutenant Governor,Collier,D,92234,38.5
+2022,22,Lieutenant Governor,Patrick,R,141584,59.1
+2022,22,Lieutenant Governor,Steele,L,5813,2.4
+2022,22,Attorney General,Ash,L,6418,2.7
+2022,22,Attorney General,Garza,D,91102,38.1
+2022,23,Governor,Abbott,R,120529,54.5
+2022,23,Governor,Barrios,G,1022,0.5
+2022,23,Governor,O'Rourke,D,97332,44.0
+2022,23,Governor,Tippetts,L,1993,0.9
+2022,23,Governor,Write-In,W,143,0.1
+2022,23,Lieutenant Governor,Collier,D,93316,43.1
+2022,23,Lieutenant Governor,Patrick,R,116975,54.0
+2022,23,Lieutenant Governor,Steele,L,6383,2.9
+2022,23,Attorney General,Ash,L,5613,2.6
+2022,23,Attorney General,Garza,D,95091,44.0
+2022,24,Governor,Abbott,R,166129,57.6
+2022,24,Governor,Barrios,G,703,0.2
+2022,24,Governor,O'Rourke,D,118101,40.9
+2022,24,Governor,Tippetts,L,3377,1.2
+2022,24,Governor,Write-In,W,139,0.0
+2022,24,Lieutenant Governor,Collier,D,120440,41.9
+2022,24,Lieutenant Governor,Patrick,R,158920,55.3
+2022,24,Lieutenant Governor,Steele,L,8043,2.8
+2022,24,Attorney General,Ash,L,11246,3.9
+2022,24,Attorney General,Garza,D,117743,41.1
+2022,25,Governor,Abbott,R,134451,61.4
+2022,25,Governor,Barrios,G,633,0.3
+2022,25,Governor,O'Rourke,D,81722,37.3
+2022,25,Governor,Tippetts,L,2068,0.9
+2022,25,Governor,Write-In,W,80,0.0
+2022,25,Lieutenant Governor,Collier,D,82316,37.8
+2022,25,Lieutenant Governor,Patrick,R,130198,59.7
+2022,25,Lieutenant Governor,Steele,L,5441,2.5
+2022,25,Attorney General,Ash,L,6682,3.1
+2022,25,Attorney General,Garza,D,80661,37.1
+2022,26,Governor,Abbott,R,167734,61.3
+2022,26,Governor,Barrios,G,632,0.2
+2022,26,Governor,O'Rourke,D,102151,37.3
+2022,26,Governor,Tippetts,L,3060,1.1
+2022,26,Governor,Write-In,W,53,0.0
+2022,26,Lieutenant Governor,Collier,D,102110,37.5
+2022,26,Lieutenant Governor,Patrick,R,162472,59.6
+2022,26,Lieutenant Governor,Steele,L,7931,2.9
+2022,26,Attorney General,Ash,L,9811,3.6
+2022,26,Attorney General,Garza,D,100308,36.9
+2022,27,Governor,Abbott,R,139863,60.0
+2022,27,Governor,Barrios,G,876,0.4
+2022,27,Governor,O'Rourke,D,89861,38.5
+2022,27,Governor,Tippetts,L,2453,1.1
+2022,27,Governor,Write-In,W,158,0.1
+2022,27,Lieutenant Governor,Collier,D,88901,38.4
+2022,27,Lieutenant Governor,Patrick,R,136223,58.8
+2022,27,Lieutenant Governor,Steele,L,6429,2.8
+2022,27,Attorney General,Ash,L,6781,2.9
+2022,27,Attorney General,Garza,D,89661,38.8
+2022,28,Governor,Abbott,R,59081,43.9
+2022,28,Governor,Barrios,G,1405,1.0
+2022,28,Governor,O'Rourke,D,73086,54.3
+2022,28,Governor,Tippetts,L,883,0.7
+2022,28,Governor,Write-In,W,67,0.0
+2022,28,Lieutenant Governor,Collier,D,66318,52.6
+2022,28,Lieutenant Governor,Patrick,R,55097,43.7
+2022,28,Lieutenant Governor,Steele,L,4608,3.7
+2022,28,Attorney General,Ash,L,2728,2.2
+2022,28,Attorney General,Garza,D,70629,56.2
+2022,29,Governor,Abbott,R,33713,28.0
+2022,29,Governor,Barrios,G,727,0.6
+2022,29,Governor,O'Rourke,D,84799,70.4
+2022,29,Governor,Tippetts,L,1150,1.0
+2022,29,Governor,Write-In,W,10,0.0
+2022,29,Lieutenant Governor,Collier,D,82089,68.7
+2022,29,Lieutenant Governor,Patrick,R,33749,28.2
+2022,29,Lieutenant Governor,Steele,L,3650,3.1
+2022,29,Attorney General,Ash,L,3092,2.6
+2022,29,Attorney General,Garza,D,82933,69.5
+2022,30,Governor,Abbott,R,38050,22.2
+2022,30,Governor,Barrios,G,595,0.3
+2022,30,Governor,O'Rourke,D,131055,76.6
+2022,30,Governor,Tippetts,L,1149,0.7
+2022,30,Governor,Write-In,W,189,0.1
+2022,30,Lieutenant Governor,Collier,D,128702,75.5
+2022,30,Lieutenant Governor,Patrick,R,36453,21.4
+2022,30,Lieutenant Governor,Steele,L,5203,3.1
+2022,30,Attorney General,Ash,L,4985,2.9
+2022,30,Attorney General,Garza,D,128474,75.6
+2022,31,Governor,Abbott,R,149540,61.3
+2022,31,Governor,Barrios,G,743,0.3
+2022,31,Governor,O'Rourke,D,90807,37.2
+2022,31,Governor,Tippetts,L,2852,1.2
+2022,31,Governor,Write-In,W,177,0.1
+2022,31,Lieutenant Governor,Collier,D,89262,37.0
+2022,31,Lieutenant Governor,Patrick,R,144896,60.0
+2022,31,Lieutenant Governor,Steele,L,7369,3.1
+2022,31,Attorney General,Ash,L,8490,3.5
+2022,31,Attorney General,Garza,D,88895,37.1
+2022,32,Governor,Abbott,R,135648,57.3
+2022,32,Governor,Barrios,G,603,0.3
+2022,32,Governor,O'Rourke,D,98051,41.4
+2022,32,Governor,Tippetts,L,2321,1.0
+2022,32,Governor,Write-In,W,167,0.1
+2022,32,Lieutenant Governor,Collier,D,98691,41.8
+2022,32,Lieutenant Governor,Patrick,R,131064,55.5
+2022,32,Lieutenant Governor,Steele,L,6244,2.6
+2022,32,Attorney General,Ash,L,7857,3.3
+2022,32,Attorney General,Garza,D,97672,41.5
+2022,STATE,Governor,Abbott,R,4278859,53.4
+2022,STATE,Governor,Barrios,G,3265946,41.0
+2022,STATE,Governor,O'Rourke,D,212246,2.7
+2022,1,Governor,Abbott,R,175165,75.0
+2022,1,Governor,Barrios,G,51270,22.0
+2022,1,Governor,O'Rourke,D,3348,1.4
+2022,2,Governor,Abbott,R,137257,60.2
+2022,2,Governor,Barrios,G,79012,34.8
+2022,2,Governor,O'Rourke,D,5151,2.3
+2022,3,Governor,Abbott,R,148835,59.3
+2022,3,Governor,Barrios,G,86245,34.5
+2022,3,Governor,O'Rourke,D,5249,2.1
+2022,4,Governor,Abbott,R,155315,59.5
+2022,4,Governor,Barrios,G,89407,34.4
+2022,4,Governor,O'Rourke,D,4545,1.7
+2022,5,Governor,Abbott,R,119476,58.3
+2022,5,Governor,Barrios,G,73082,35.8
+2022,5,Governor,O'Rourke,D,4845,2.4
+2022,6,Governor,Abbott,R,130524,59.8
+2022,6,Governor,Barrios,G,75019,34.5
+2022,6,Governor,O'Rourke,D,5329,2.5
+2022,7,Governor,Abbott,R,59448,32.6
+2022,7,Governor,Barrios,G,110615,61.0
+2022,7,Governor,O'Rourke,D,4186,2.3
+2022,8,Governor,Abbott,R,123294,61.2
+2022,8,Governor,Barrios,G,68685,34.2
+2022,8,Governor,O'Rourke,D,4243,2.1
+2022,9,Governor,Abbott,R,75292,53.7
+2022,9,Governor,Barrios,G,57426,41.1
+2022,9,Governor,O'Rourke,D,4620,3.3
+2022,10,Governor,Abbott,R,145891,57.1
+2022,10,Governor,Barrios,G,92377,36.3
+2022,10,Governor,O'Rourke,D,5521,2.2
+2022,11,Governor,Abbott,R,132036,64.2
+2022,11,Governor,Barrios,G,62560,30.5
+2022,11,Governor,O'Rourke,D,5127,2.5
+2022,12,Governor,Abbott,R,125200,58.4
+2022,12,Governor,Barrios,G,75775,35.4
+2022,12,Governor,O'Rourke,D,5592,2.6
+2022,13,Governor,Abbott,R,156171,72.4
+2022,13,Governor,Barrios,G,50331,23.5
+2022,13,Governor,O'Rourke,D,4648,2.2
+2022,14,Governor,Abbott,R,138838,62.4
+2022,14,Governor,Barrios,G,74170,33.5
+2022,14,Governor,O'Rourke,D,4753,2.1
+2022,15,Governor,Abbott,R,77554,51.2
+2022,15,Governor,Barrios,G,65626,43.7
+2022,15,Governor,O'Rourke,D,6592,4.4
+2022,16,Governor,Abbott,R,51882,34.3
+2022,16,Governor,Barrios,G,90055,60.1
+2022,16,Governor,O'Rourke,D,7248,4.8
+2022,17,Governor,Abbott,R,135973,58.2
+2022,17,Governor,Barrios,G,84953,36.3
+2022,17,Governor,O'Rourke,D,5297,2.3
+2022,18,Governor,Abbott,R,32700,18.1
+2022,18,Governor,Barrios,G,140041,77.9
+2022,18,Governor,O'Rourke,D,4507,2.5
+2022,19,Governor,Abbott,R,144562,74.9
+2022,19,Governor,Barrios,G,39417,20.5
+2022,19,Governor,O'Rourke,D,4799,2.5
+2022,20,Governor,Abbott,R,45002,28.5
+2022,20,Governor,Barrios,G,102726,65.7
+2022,20,Governor,O'Rourke,D,7123,4.6
+2022,21,Governor,Abbott,R,181857,58.2
+2022,21,Governor,Barrios,G,110861,35.7
+2022,21,Governor,O'Rourke,D,7581,2.4
+2022,22,Governor,Abbott,R,141308,59.2
+2022,22,Governor,Barrios,G,84227,35.4
+2022,22,Governor,O'Rourke,D,5014,2.1
+2022,23,Governor,Abbott,R,115511,53.4
+2022,23,Governor,Barrios,G,86874,40.6
+2022,23,Governor,O'Rourke,D,7118,3.3
+2022,24,Governor,Abbott,R,157211,54.9
+2022,24,Governor,Barrios,G,105884,37.0
+2022,24,Governor,O'Rourke,D,6253,2.2
+2022,25,Governor,Abbott,R,130073,59.8
+2022,25,Governor,Barrios,G,76951,35.5
+2022,25,Governor,O'Rourke,D,4646,2.1
+2022,26,Governor,Abbott,R,161528,59.5
+2022,26,Governor,Barrios,G,92187,34.1
+2022,26,Governor,O'Rourke,D,6939,2.6
+2022,27,Governor,Abbott,R,134444,58.2
+2022,27,Governor,Barrios,G,82349,35.8
+2022,27,Governor,O'Rourke,D,5971,2.6
+2022,28,Governor,Abbott,R,52331,41.6
+2022,28,Governor,Barrios,G,64166,51.8
+2022,28,Governor,O'Rourke,D,7822,6.3
+2022,29,Governor,Abbott,R,33227,27.9
+2022,29,Governor,Barrios,G,79209,66.8
+2022,29,Governor,O'Rourke,D,4261,3.6
+2022,30,Governor,Abbott,R,36541,21.5
+2022,30,Governor,Barrios,G,126232,74.4
+2022,30,Governor,O'Rourke,D,4956,2.9
+2022,31,Governor,Abbott,R,142433,59.4
+2022,31,Governor,Barrios,G,83614,34.8
+2022,31,Governor,O'Rourke,D,6052,2.5
+2022,32,Governor,Abbott,R,129754,55.1
+2022,32,Governor,Barrios,G,89709,38.2
+2022,32,Governor,O'Rourke,D,5369,2.3
+2022,33,Governor,Abbott,R,40671,27.3
+2022,33,Governor,Barrios,G,567,0.4
+2022,33,Governor,O'Rourke,D,106092,71.3
+2022,33,Governor,Tippetts,L,1399,0.9
+2022,33,Governor,Write-In,W,167,0.1
+2022,33,Lieutenant Governor,Collier,D,104090,70.3
+2022,33,Lieutenant Governor,Patrick,R,39182,26.4
+2022,33,Lieutenant Governor,Steele,L,4895,3.3
+2022,33,Attorney General,Ash,L,4925,3.3
+2022,33,Attorney General,Garza,D,104452,70.6
+2022,34,Governor,Abbott,R,84199,49.9
+2022,34,Governor,Barrios,G,947,0.6
+2022,34,Governor,O'Rourke,D,82073,48.7
+2022,34,Governor,Tippetts,L,1420,0.8
+2022,34,Governor,Write-In,W,53,0.0
+2022,34,Lieutenant Governor,Collier,D,78428,47.1
+2022,34,Lieutenant Governor,Patrick,R,83197,50.0
+2022,34,Lieutenant Governor,Steele,L,4868,2.9
+2022,34,Attorney General,Ash,L,3823,2.3
+2022,34,Attorney General,Garza,D,81803,49.2
+2022,35,Governor,Abbott,R,108335,52.5
+2022,35,Governor,Barrios,G,972,0.5
+2022,35,Governor,O'Rourke,D,94892,46.0
+2022,35,Governor,Tippetts,L,2150,1.0
+2022,35,Governor,Write-In,W,156,0.1
+2022,35,Lieutenant Governor,Collier,D,89996,44.2
+2022,35,Lieutenant Governor,Patrick,R,106518,52.3
+2022,35,Lieutenant Governor,Steele,L,7011,3.4
+2022,35,Attorney General,Ash,L,5940,2.9
+2022,35,Attorney General,Garza,D,92222,45.3
+2022,36,Governor,Abbott,R,138869,66.1
+2022,36,Governor,Barrios,G,665,0.3
+2022,36,Governor,O'Rourke,D,68480,32.6
+2022,36,Governor,Tippetts,L,2057,1.0
+2022,36,Governor,Write-In,W,69,0.0
+2022,36,Lieutenant Governor,Collier,D,68061,32.6
+2022,36,Lieutenant Governor,Patrick,R,136350,65.2
+2022,36,Lieutenant Governor,Steele,L,4667,2.2
+2022,36,Attorney General,Ash,L,4665,2.2
+2022,36,Attorney General,Garza,D,67806,32.5
+2022,37,Governor,Abbott,R,43135,16.2
+2022,37,Governor,Barrios,G,891,0.3
+2022,37,Governor,O'Rourke,D,218568,82.2
+2022,37,Governor,Tippetts,L,2981,1.1
+2022,37,Governor,Write-In,W,192,0.1
+2022,37,Lieutenant Governor,Collier,D,213120,81.2
+2022,37,Lieutenant Governor,Patrick,R,41079,15.7
+2022,37,Lieutenant Governor,Steele,L,8171,3.1
+2022,37,Attorney General,Ash,L,7245,2.8
+2022,37,Attorney General,Garza,D,214843,82.1
+2022,38,Governor,Abbott,R,155473,60.2
+2022,38,Governor,Barrios,G,738,0.3
+2022,38,Governor,O'Rourke,D,98992,38.3
+2022,38,Governor,Tippetts,L,3050,1.2
+2022,38,Governor,Write-In,W,42,0.0
+2022,38,Lieutenant Governor,Collier,D,99375,38.6
+2022,38,Lieutenant Governor,Patrick,R,152202,59.1
+2022,38,Lieutenant Governor,Steele,L,5839,2.3
+2022,38,Attorney General,Ash,L,7308,2.8
+2022,38,Attorney General,Garza,D,97371,37.9
+2022,33,Governor,Abbott,R,38497,26.0
+2022,33,Governor,Barrios,G,97638,66.2
+2022,33,Governor,O'Rourke,D,6081,4.1
+2022,34,Governor,Abbott,R,80598,48.5
+2022,34,Governor,Barrios,G,76149,46.3
+2022,34,Governor,O'Rourke,D,7033,4.3
+2022,35,Governor,Abbott,R,105415,51.8
+2022,35,Governor,Barrios,G,86658,42.9
+2022,35,Governor,O'Rourke,D,6847,3.4
+2022,36,Governor,Abbott,R,136269,65.3
+2022,36,Governor,Barrios,G,64513,31.1
+2022,36,Governor,O'Rourke,D,4038,1.9
+2022,37,Governor,Abbott,R,39535,15.1
+2022,37,Governor,Barrios,G,200961,77.5
+2022,37,Governor,O'Rourke,D,8614,3.3
+2022,38,Governor,Abbott,R,151912,59.2
+2022,38,Governor,Barrios,G,88972,34.8
+2022,38,Governor,O'Rourke,D,4928,1.9

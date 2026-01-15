@@ -1,0 +1,321 @@
+year,district,office,candidate,party,votes,percentage
+2024,STATE,President,Harris,D,4835134,42.4
+2024,STATE,President,Oliver,L,68563,0.6
+2024,STATE,President,Stein,G,82698,0.7
+2024,STATE,President,Trump,R,6393403,56.1
+2024,STATE,President,Write-In,W,24730,0.2
+2024,STATE,U.S. Senate,Allred,D,5031142,44.6
+2024,STATE,U.S. Senate,Andrus,W,534,0.0
+2024,STATE,U.S. Senate,Brown,L,266944,2.4
+2024,STATE,U.S. Senate,Cruz,R,5990637,53.1
+2024,STATE,U.S. Senate,Roche,W,976,0.0
+2024,1,President,Harris,D,90867,22.5
+2024,1,President,Oliver,L,1754,0.4
+2024,1,President,Stein,G,988,0.2
+2024,1,President,Trump,R,309025,76.6
+2024,1,President,Write-In,W,673,0.2
+2024,1,U.S. Senate,Allred,D,94045,23.5
+2024,1,U.S. Senate,Andrus,W,76,0.0
+2024,1,U.S. Senate,Brown,L,7108,1.8
+2024,1,U.S. Senate,Cruz,R,299125,74.7
+2024,1,U.S. Senate,Roche,W,34,0.0
+2024,2,President,Harris,D,158003,39.0
+2024,2,President,Oliver,L,2367,0.6
+2024,2,President,Stein,G,3333,0.8
+2024,2,President,Trump,R,240447,59.3
+2024,2,President,Write-In,W,1489,0.4
+2024,2,U.S. Senate,Allred,D,167663,41.8
+2024,2,U.S. Senate,Andrus,W,8,0.0
+2024,2,U.S. Senate,Brown,L,8241,2.1
+2024,2,U.S. Senate,Cruz,R,225497,56.2
+2024,2,U.S. Senate,Roche,W,9,0.0
+2024,3,President,Harris,D,91399,23.3
+2024,3,President,Oliver,L,1503,0.4
+2024,3,President,Stein,G,906,0.2
+2024,3,President,Trump,R,297515,75.9
+2024,3,President,Write-In,W,426,0.1
+2024,3,U.S. Senate,Allred,D,95043,24.5
+2024,3,U.S. Senate,Andrus,W,11,0.0
+2024,3,U.S. Senate,Brown,L,6768,1.7
+2024,3,U.S. Senate,Cruz,R,286254,73.8
+2024,3,U.S. Senate,Roche,W,23,0.0
+2024,4,President,Harris,D,137852,32.4
+2024,4,President,Oliver,L,2425,0.6
+2024,4,President,Stein,G,1921,0.5
+2024,4,President,Trump,R,283693,66.6
+2024,4,President,Write-In,W,205,0.0
+2024,4,U.S. Senate,Allred,D,144494,34.0
+2024,4,U.S. Senate,Andrus,W,27,0.0
+2024,4,U.S. Senate,Brown,L,8959,2.1
+2024,4,U.S. Senate,Cruz,R,270977,63.8
+2024,4,U.S. Senate,Roche,W,54,0.0
+2024,5,President,Harris,D,162229,37.6
+2024,5,President,Oliver,L,3081,0.7
+2024,5,President,Stein,G,2381,0.6
+2024,5,President,Trump,R,262437,60.9
+2024,5,President,Write-In,W,1126,0.3
+2024,5,U.S. Senate,Allred,D,166826,39.0
+2024,5,U.S. Senate,Andrus,W,4,0.0
+2024,5,U.S. Senate,Brown,L,11075,2.6
+2024,5,U.S. Senate,Cruz,R,249558,58.4
+2024,5,U.S. Senate,Roche,W,33,0.0
+2024,6,President,Harris,D,115747,58.6
+2024,6,President,Oliver,L,977,0.5
+2024,6,President,Stein,G,1427,0.7
+2024,6,President,Trump,R,79118,40.1
+2024,6,President,Write-In,W,126,0.1
+2024,6,U.S. Senate,Allred,D,121767,62.6
+2024,6,U.S. Senate,Andrus,W,10,0.0
+2024,6,U.S. Senate,Brown,L,6095,3.1
+2024,6,U.S. Senate,Cruz,R,66684,34.3
+2024,6,U.S. Senate,Roche,W,18,0.0
+2024,7,President,Harris,D,157036,38.6
+2024,7,President,Oliver,L,2586,0.6
+2024,7,President,Stein,G,4411,1.1
+2024,7,President,Trump,R,242211,59.6
+2024,7,President,Write-In,W,278,0.1
+2024,7,U.S. Senate,Allred,D,166152,41.0
+2024,7,U.S. Senate,Andrus,W,15,0.0
+2024,7,U.S. Senate,Brown,L,10484,2.6
+2024,7,U.S. Senate,Cruz,R,228294,56.4
+2024,7,U.S. Senate,Roche,W,62,0.0
+2024,8,President,Harris,D,188439,39.3
+2024,8,President,Oliver,L,3229,0.7
+2024,8,President,Stein,G,8041,1.7
+2024,8,President,Trump,R,277207,57.9
+2024,8,President,Write-In,W,2101,0.4
+2024,8,U.S. Senate,Allred,D,200830,42.4
+2024,8,U.S. Senate,Andrus,W,3,0.0
+2024,8,U.S. Senate,Brown,L,10395,2.2
+2024,8,U.S. Senate,Cruz,R,262017,55.4
+2024,8,U.S. Senate,Roche,W,15,0.0
+2024,9,President,Harris,D,161560,40.6
+2024,9,President,Oliver,L,2697,0.7
+2024,9,President,Stein,G,2527,0.6
+2024,9,President,Trump,R,230782,58.0
+2024,9,President,Write-In,W,293,0.1
+2024,9,U.S. Senate,Allred,D,169860,42.8
+2024,9,U.S. Senate,Andrus,W,20,0.0
+2024,9,U.S. Senate,Brown,L,9837,2.5
+2024,9,U.S. Senate,Cruz,R,217192,54.7
+2024,9,U.S. Senate,Roche,W,83,0.0
+2024,10,President,Harris,D,147359,38.7
+2024,10,President,Oliver,L,2365,0.6
+2024,10,President,Stein,G,1911,0.5
+2024,10,President,Trump,R,228882,60.1
+2024,10,President,Write-In,W,461,0.1
+2024,10,U.S. Senate,Allred,D,154655,40.7
+2024,10,U.S. Senate,Andrus,W,19,0.0
+2024,10,U.S. Senate,Brown,L,8634,2.3
+2024,10,U.S. Senate,Cruz,R,216285,57.0
+2024,10,U.S. Senate,Roche,W,62,0.0
+2024,11,President,Harris,D,157076,39.1
+2024,11,President,Oliver,L,2452,0.6
+2024,11,President,Stein,G,3180,0.8
+2024,11,President,Trump,R,238875,59.5
+2024,11,President,Write-In,W,218,0.1
+2024,11,U.S. Senate,Allred,D,164828,41.2
+2024,11,U.S. Senate,Andrus,W,23,0.0
+2024,11,U.S. Senate,Brown,L,10182,2.5
+2024,11,U.S. Senate,Cruz,R,225136,56.3
+2024,11,U.S. Senate,Roche,W,61,0.0
+2024,12,President,Harris,D,186860,39.9
+2024,12,President,Oliver,L,3481,0.7
+2024,12,President,Stein,G,3893,0.8
+2024,12,President,Trump,R,272946,58.3
+2024,12,President,Write-In,W,1394,0.3
+2024,12,U.S. Senate,Allred,D,197108,42.2
+2024,12,U.S. Senate,Andrus,W,22,0.0
+2024,12,U.S. Senate,Brown,L,9556,2.0
+2024,12,U.S. Senate,Cruz,R,260764,55.8
+2024,12,U.S. Senate,Roche,W,52,0.0
+2024,13,President,Harris,D,191368,73.0
+2024,13,President,Oliver,L,1249,0.5
+2024,13,President,Stein,G,2516,1.0
+2024,13,President,Trump,R,66526,25.4
+2024,13,President,Write-In,W,405,0.2
+2024,13,U.S. Senate,Allred,D,194154,75.1
+2024,13,U.S. Senate,Andrus,W,12,0.0
+2024,13,U.S. Senate,Brown,L,6279,2.4
+2024,13,U.S. Senate,Cruz,R,58230,22.5
+2024,13,U.S. Senate,Roche,W,17,0.0
+2024,14,President,Harris,D,315745,71.8
+2024,14,President,Oliver,L,3583,0.8
+2024,14,President,Stein,G,4647,1.1
+2024,14,President,Trump,R,112660,25.6
+2024,14,President,Write-In,W,2904,0.7
+2024,14,U.S. Senate,Allred,D,322028,73.9
+2024,14,U.S. Senate,Andrus,W,0,0.0
+2024,14,U.S. Senate,Brown,L,10253,2.4
+2024,14,U.S. Senate,Cruz,R,103196,23.7
+2024,14,U.S. Senate,Roche,W,0,0.0
+2024,15,President,Harris,D,207856,61.8
+2024,15,President,Oliver,L,2418,0.7
+2024,15,President,Stein,G,3093,0.9
+2024,15,President,Trump,R,122588,36.5
+2024,15,President,Write-In,W,317,0.1
+2024,15,U.S. Senate,Allred,D,214584,64.0
+2024,15,U.S. Senate,Andrus,W,18,0.0
+2024,15,U.S. Senate,Brown,L,8210,2.4
+2024,15,U.S. Senate,Cruz,R,112446,33.5
+2024,15,U.S. Senate,Roche,W,57,0.0
+2024,16,President,Harris,D,154611,57.9
+2024,16,President,Oliver,L,2080,0.8
+2024,16,President,Stein,G,3350,1.3
+2024,16,President,Trump,R,105484,39.5
+2024,16,President,Write-In,W,1541,0.6
+2024,16,U.S. Senate,Allred,D,161744,61.5
+2024,16,U.S. Senate,Andrus,W,0,0.0
+2024,16,U.S. Senate,Brown,L,6553,2.5
+2024,16,U.S. Senate,Cruz,R,94545,36.0
+2024,16,U.S. Senate,Roche,W,0,0.0
+2024,17,President,Harris,D,145021,37.6
+2024,17,President,Oliver,L,2447,0.6
+2024,17,President,Stein,G,4209,1.1
+2024,17,President,Trump,R,232879,60.4
+2024,17,President,Write-In,W,730,0.2
+2024,17,U.S. Senate,Allred,D,152010,39.7
+2024,17,U.S. Senate,Andrus,W,8,0.0
+2024,17,U.S. Senate,Brown,L,8865,2.3
+2024,17,U.S. Senate,Cruz,R,221680,57.9
+2024,17,U.S. Senate,Roche,W,24,0.0
+2024,18,President,Harris,D,148753,35.3
+2024,18,President,Oliver,L,2000,0.5
+2024,18,President,Stein,G,5905,1.4
+2024,18,President,Trump,R,263788,62.6
+2024,18,President,Write-In,W,786,0.2
+2024,18,U.S. Senate,Allred,D,156822,37.8
+2024,18,U.S. Senate,Andrus,W,16,0.0
+2024,18,U.S. Senate,Brown,L,10468,2.5
+2024,18,U.S. Senate,Cruz,R,247920,59.7
+2024,18,U.S. Senate,Roche,W,16,0.0
+2024,19,President,Harris,D,166872,50.1
+2024,19,President,Oliver,L,1682,0.5
+2024,19,President,Stein,G,1684,0.5
+2024,19,President,Trump,R,162245,48.7
+2024,19,President,Write-In,W,747,0.2
+2024,19,U.S. Senate,Allred,D,173408,53.4
+2024,19,U.S. Senate,Andrus,W,32,0.0
+2024,19,U.S. Senate,Brown,L,8605,2.7
+2024,19,U.S. Senate,Cruz,R,142614,43.9
+2024,19,U.S. Senate,Roche,W,20,0.0
+2024,20,President,Harris,D,121108,47.4
+2024,20,President,Oliver,L,1073,0.4
+2024,20,President,Stein,G,1186,0.5
+2024,20,President,Trump,R,131930,51.7
+2024,20,President,Write-In,W,107,0.0
+2024,20,U.S. Senate,Allred,D,126766,50.5
+2024,20,U.S. Senate,Andrus,W,6,0.0
+2024,20,U.S. Senate,Brown,L,6131,2.4
+2024,20,U.S. Senate,Cruz,R,118063,47.0
+2024,20,U.S. Senate,Roche,W,10,0.0
+2024,21,President,Harris,D,158225,50.9
+2024,21,President,Oliver,L,1566,0.5
+2024,21,President,Stein,G,1820,0.6
+2024,21,President,Trump,R,148363,47.8
+2024,21,President,Write-In,W,685,0.2
+2024,21,U.S. Senate,Allred,D,164069,54.2
+2024,21,U.S. Senate,Andrus,W,11,0.0
+2024,21,U.S. Senate,Brown,L,8420,2.8
+2024,21,U.S. Senate,Cruz,R,130057,43.0
+2024,21,U.S. Senate,Roche,W,17,0.0
+2024,22,President,Harris,D,140888,35.4
+2024,22,President,Oliver,L,2319,0.6
+2024,22,President,Stein,G,2218,0.6
+2024,22,President,Trump,R,252403,63.3
+2024,22,President,Write-In,W,622,0.2
+2024,22,U.S. Senate,Allred,D,148393,37.4
+2024,22,U.S. Senate,Andrus,W,38,0.0
+2024,22,U.S. Senate,Brown,L,8502,2.1
+2024,22,U.S. Senate,Cruz,R,239876,60.4
+2024,22,U.S. Senate,Roche,W,88,0.0
+2024,23,President,Harris,D,226026,72.3
+2024,23,President,Oliver,L,2015,0.6
+2024,23,President,Stein,G,2125,0.7
+2024,23,President,Trump,R,81422,26.0
+2024,23,President,Write-In,W,1241,0.4
+2024,23,U.S. Senate,Allred,D,231364,74.8
+2024,23,U.S. Senate,Andrus,W,0,0.0
+2024,23,U.S. Senate,Brown,L,7132,2.3
+2024,23,U.S. Senate,Cruz,R,70619,22.8
+2024,23,U.S. Senate,Roche,W,7,0.0
+2024,24,President,Harris,D,149560,36.7
+2024,24,President,Oliver,L,2745,0.7
+2024,24,President,Stein,G,2215,0.5
+2024,24,President,Trump,R,251573,61.8
+2024,24,President,Write-In,W,1101,0.3
+2024,24,U.S. Senate,Allred,D,154552,38.3
+2024,24,U.S. Senate,Andrus,W,16,0.0
+2024,24,U.S. Senate,Brown,L,10264,2.5
+2024,24,U.S. Senate,Cruz,R,238638,59.1
+2024,24,U.S. Senate,Roche,W,26,0.0
+2024,25,President,Harris,D,202871,38.4
+2024,25,President,Oliver,L,3645,0.7
+2024,25,President,Stein,G,2304,0.4
+2024,25,President,Trump,R,318266,60.2
+2024,25,President,Write-In,W,1567,0.3
+2024,25,U.S. Senate,Allred,D,210068,40.0
+2024,25,U.S. Senate,Andrus,W,36,0.0
+2024,25,U.S. Senate,Brown,L,11317,2.2
+2024,25,U.S. Senate,Cruz,R,303297,57.8
+2024,25,U.S. Senate,Roche,W,12,0.0
+2024,26,President,Harris,D,180425,60.5
+2024,26,President,Oliver,L,1680,0.6
+2024,26,President,Stein,G,1907,0.6
+2024,26,President,Trump,R,113341,38.0
+2024,26,President,Write-In,W,971,0.3
+2024,26,U.S. Senate,Allred,D,184386,63.4
+2024,26,U.S. Senate,Andrus,W,15,0.0
+2024,26,U.S. Senate,Brown,L,7418,2.6
+2024,26,U.S. Senate,Cruz,R,99055,34.1
+2024,26,U.S. Senate,Roche,W,0,0.0
+2024,27,President,Harris,D,115490,43.5
+2024,27,President,Oliver,L,1104,0.4
+2024,27,President,Stein,G,1042,0.4
+2024,27,President,Trump,R,147768,55.6
+2024,27,President,Write-In,W,244,0.1
+2024,27,U.S. Senate,Allred,D,123394,47.4
+2024,27,U.S. Senate,Andrus,W,6,0.0
+2024,27,U.S. Senate,Brown,L,6400,2.5
+2024,27,U.S. Senate,Cruz,R,130506,50.1
+2024,27,U.S. Senate,Roche,W,7,0.0
+2024,28,President,Harris,D,83987,23.7
+2024,28,President,Oliver,L,2102,0.6
+2024,28,President,Stein,G,1146,0.3
+2024,28,President,Trump,R,267014,75.3
+2024,28,President,Write-In,W,224,0.1
+2024,28,U.S. Senate,Allred,D,87377,24.8
+2024,28,U.S. Senate,Andrus,W,26,0.0
+2024,28,U.S. Senate,Brown,L,8163,2.3
+2024,28,U.S. Senate,Cruz,R,256711,72.9
+2024,28,U.S. Senate,Roche,W,40,0.0
+2024,29,President,Harris,D,149479,55.6
+2024,29,President,Oliver,L,1584,0.6
+2024,29,President,Stein,G,1699,0.6
+2024,29,President,Trump,R,115462,42.9
+2024,29,President,Write-In,W,642,0.2
+2024,29,U.S. Senate,Allred,D,148295,56.7
+2024,29,U.S. Senate,Andrus,W,0,0.0
+2024,29,U.S. Senate,Brown,L,10536,4.0
+2024,29,U.S. Senate,Cruz,R,102522,39.2
+2024,29,U.S. Senate,Roche,W,0,0.0
+2024,30,President,Harris,D,165821,35.4
+2024,30,President,Oliver,L,2750,0.6
+2024,30,President,Stein,G,3909,0.8
+2024,30,President,Trump,R,294646,63.0
+2024,30,President,Write-In,W,721,0.2
+2024,30,U.S. Senate,Allred,D,174852,37.6
+2024,30,U.S. Senate,Andrus,W,35,0.0
+2024,30,U.S. Senate,Brown,L,9818,2.1
+2024,30,U.S. Senate,Cruz,R,280299,60.3
+2024,30,U.S. Senate,Roche,W,94,0.0
+2024,31,President,Harris,D,56601,18.8
+2024,31,President,Oliver,L,1604,0.5
+2024,31,President,Stein,G,804,0.3
+2024,31,President,Trump,R,241907,80.3
+2024,31,President,Write-In,W,385,0.1
+2024,31,U.S. Senate,Allred,D,59605,20.0
+2024,31,U.S. Senate,Andrus,W,21,0.0
+2024,31,U.S. Senate,Brown,L,6276,2.1
+2024,31,U.S. Senate,Cruz,R,232580,77.9
+2024,31,U.S. Senate,Roche,W,35,0.0
