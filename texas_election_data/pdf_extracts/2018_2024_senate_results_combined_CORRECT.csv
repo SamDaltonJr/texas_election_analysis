@@ -1,0 +1,961 @@
+year,district,office,candidate,party,votes,percentage
+2018,STATE,U.S. Senate,Cruz,R,4259630,50.9
+2018,STATE,U.S. Senate,O'Rourke,D,4044073,48.3
+2018,STATE,U.S. Senate,Dikeman,L,65472,0.8
+2018,STATE,Governor,Abbott,R,4655344,55.8
+2018,STATE,Governor,Valdez,D,3545673,42.5
+2018,STATE,Governor,Tippetts,L,140596,1.7
+2018,STATE,Lieutenant Governor,Patrick,R,4260186,51.3
+2018,STATE,Lieutenant Governor,Collier,D,3859878,46.5
+2018,STATE,Lieutenant Governor,McKennon,L,183455,2.2
+2018,STATE,Attorney General,Paxton,R,4190455,50.6
+2018,1,U.S. Senate,Cruz,R,201313,73.3
+2018,1,U.S. Senate,O'Rourke,D,71736,26.1
+2018,1,U.S. Senate,Dikeman,L,1667,0.6
+2018,1,Governor,Abbott,R,207209,75.4
+2018,1,Governor,Valdez,D,64452,23.5
+2018,1,Governor,Tippetts,L,2974,1.1
+2018,1,Lieutenant Governor,Patrick,R,193360,70.7
+2018,1,Lieutenant Governor,Collier,D,75675,27.7
+2018,1,Lieutenant Governor,McKennon,L,4517,1.7
+2018,1,Attorney General,Paxton,R,197117,72.2
+2018,2,U.S. Senate,Cruz,R,152065,58.0
+2018,2,U.S. Senate,O'Rourke,D,108182,41.3
+2018,2,U.S. Senate,Dikeman,L,1929,0.7
+2018,2,Governor,Abbott,R,163043,62.3
+2018,2,Governor,Valdez,D,94217,36.0
+2018,2,Governor,Tippetts,L,4265,1.6
+2018,2,Lieutenant Governor,Patrick,R,150880,57.9
+2018,2,Lieutenant Governor,Collier,D,104371,40.1
+2018,2,Lieutenant Governor,McKennon,L,5195,2.0
+2018,2,Attorney General,Paxton,R,148801,57.2
+2018,3,U.S. Senate,Cruz,R,216839,77.9
+2018,3,U.S. Senate,O'Rourke,D,59977,21.5
+2018,3,U.S. Senate,Dikeman,L,1593,0.6
+2018,3,Governor,Abbott,R,223101,80.2
+2018,3,Governor,Valdez,D,52495,18.9
+2018,3,Governor,Tippetts,L,2694,1.0
+2018,3,Lieutenant Governor,Patrick,R,211110,76.2
+2018,3,Lieutenant Governor,Collier,D,61828,22.3
+2018,3,Lieutenant Governor,McKennon,L,4204,1.5
+2018,3,Attorney General,Paxton,R,212000,76.7
+2018,4,U.S. Senate,Cruz,R,204606,65.7
+2018,4,U.S. Senate,O'Rourke,D,104840,33.6
+2018,4,U.S. Senate,Dikeman,L,2135,0.7
+2018,4,Governor,Abbott,R,216292,69.4
+2018,4,Governor,Valdez,D,91399,29.3
+2018,4,Governor,Tippetts,L,4018,1.3
+2018,4,Lieutenant Governor,Patrick,R,204212,65.7
+2018,4,Lieutenant Governor,Collier,D,101143,32.6
+2018,4,Lieutenant Governor,McKennon,L,5356,1.7
+2018,4,Attorney General,Paxton,R,202097,65.1
+2018,5,U.S. Senate,Cruz,R,183265,54.3
+2018,5,U.S. Senate,O'Rourke,D,150471,44.6
+2018,5,U.S. Senate,Dikeman,L,3569,1.1
+2018,5,Governor,Abbott,R,200564,59.7
+2018,5,Governor,Valdez,D,128248,38.1
+2018,5,Governor,Tippetts,L,7407,2.2
+2018,5,Lieutenant Governor,Patrick,R,182561,54.6
+2018,5,Lieutenant Governor,Collier,D,142128,42.5
+2018,5,Lieutenant Governor,McKennon,L,9858,2.9
+2018,5,Attorney General,Paxton,R,180023,54.0
+2018,6,U.S. Senate,Cruz,R,34591,25.5
+2018,6,U.S. Senate,O'Rourke,D,100320,73.9
+2018,6,U.S. Senate,Dikeman,L,828,0.6
+2018,6,Governor,Abbott,R,40727,30.0
+2018,6,Governor,Valdez,D,93519,68.9
+2018,6,Governor,Tippetts,L,1538,1.1
+2018,6,Lieutenant Governor,Patrick,R,36910,27.2
+2018,6,Lieutenant Governor,Collier,D,96689,71.3
+2018,6,Lieutenant Governor,McKennon,L,1941,1.4
+2018,6,Attorney General,Paxton,R,34760,25.7
+2018,7,U.S. Senate,Cruz,R,171330,55.3
+2018,7,U.S. Senate,O'Rourke,D,136013,43.9
+2018,7,U.S. Senate,Dikeman,L,2277,0.7
+2018,7,Governor,Abbott,R,185874,60.1
+2018,7,Governor,Valdez,D,119227,38.5
+2018,7,Governor,Tippetts,L,4384,1.4
+2018,7,Lieutenant Governor,Patrick,R,172955,56.0
+2018,7,Lieutenant Governor,Collier,D,130834,42.3
+2018,7,Lieutenant Governor,McKennon,L,5279,1.7
+2018,7,Attorney General,Paxton,R,169977,55.1
+2018,8,U.S. Senate,Cruz,R,165817,48.6
+2018,8,U.S. Senate,O'Rourke,D,172744,50.6
+2018,8,U.S. Senate,Dikeman,L,2811,0.8
+2018,8,Governor,Abbott,R,186618,55.0
+2018,8,Governor,Valdez,D,145988,43.0
+2018,8,Governor,Tippetts,L,6529,1.9
+2018,8,Lieutenant Governor,Patrick,R,169236,50.2
+2018,8,Lieutenant Governor,Collier,D,160330,47.6
+2018,8,Lieutenant Governor,McKennon,L,7508,2.2
+2018,8,Attorney General,Paxton,R,164172,48.7
+2018,9,U.S. Senate,Cruz,R,125460,50.2
+2018,9,U.S. Senate,O'Rourke,D,122148,48.9
+2018,9,U.S. Senate,Dikeman,L,2153,0.9
+2018,9,Governor,Abbott,R,137538,55.3
+2018,9,Governor,Valdez,D,106504,42.8
+2018,9,Governor,Tippetts,L,4737,1.9
+2018,9,Lieutenant Governor,Patrick,R,127720,51.6
+2018,9,Lieutenant Governor,Collier,D,113935,46.0
+2018,9,Lieutenant Governor,McKennon,L,6080,2.5
+2018,9,Attorney General,Paxton,R,124818,50.5
+2018,10,U.S. Senate,Cruz,R,133973,45.9
+2018,10,U.S. Senate,O'Rourke,D,155515,53.3
+2018,10,U.S. Senate,Dikeman,L,2306,0.8
+2018,10,Governor,Abbott,R,148751,51.1
+2018,10,Governor,Valdez,D,136924,47.1
+2018,10,Governor,Tippetts,L,5168,1.8
+2018,10,Lieutenant Governor,Patrick,R,136051,46.9
+2018,10,Lieutenant Governor,Collier,D,147141,50.8
+2018,10,Lieutenant Governor,McKennon,L,6661,2.3
+2018,10,Attorney General,Paxton,R,133257,46.1
+2018,11,U.S. Senate,Cruz,R,168516,57.7
+2018,11,U.S. Senate,O'Rourke,D,121142,41.5
+2018,11,U.S. Senate,Dikeman,L,2278,0.8
+2018,11,Governor,Abbott,R,181245,62.2
+2018,11,Governor,Valdez,D,105584,36.2
+2018,11,Governor,Tippetts,L,4713,1.6
+2018,11,Lieutenant Governor,Patrick,R,168766,58.0
+2018,11,Lieutenant Governor,Collier,D,116098,39.9
+2018,11,Lieutenant Governor,McKennon,L,5975,2.1
+2018,11,Attorney General,Paxton,R,165252,56.9
+2018,12,U.S. Senate,Cruz,R,193858,55.9
+2018,12,U.S. Senate,O'Rourke,D,150338,43.3
+2018,12,U.S. Senate,Dikeman,L,2892,0.8
+2018,12,Governor,Abbott,R,212372,61.4
+2018,12,Governor,Valdez,D,126324,36.5
+2018,12,Governor,Tippetts,L,7061,2.0
+2018,12,Lieutenant Governor,Patrick,R,196218,57.0
+2018,12,Lieutenant Governor,Collier,D,139347,40.5
+2018,12,Lieutenant Governor,McKennon,L,8871,2.6
+2018,12,Attorney General,Paxton,R,192403,56.0
+2018,13,U.S. Senate,Cruz,R,28518,14.8
+2018,13,U.S. Senate,O'Rourke,D,163655,84.7
+2018,13,U.S. Senate,Dikeman,L,1059,0.5
+2018,13,Governor,Abbott,R,37432,19.4
+2018,13,Governor,Valdez,D,153310,79.3
+2018,13,Governor,Tippetts,L,2621,1.4
+2018,13,Lieutenant Governor,Patrick,R,30675,15.9
+2018,13,Lieutenant Governor,Collier,D,159891,82.8
+2018,13,Lieutenant Governor,McKennon,L,2622,1.4
+2018,13,Attorney General,Paxton,R,28532,14.8
+2018,14,U.S. Senate,Cruz,R,98589,25.1
+2018,14,U.S. Senate,O'Rourke,D,289357,73.8
+2018,14,U.S. Senate,Dikeman,L,4241,1.1
+2018,14,Governor,Abbott,R,119889,30.9
+2018,14,Governor,Valdez,D,257708,66.3
+2018,14,Governor,Tippetts,L,10975,2.8
+2018,14,Lieutenant Governor,Patrick,R,102092,26.4
+2018,14,Lieutenant Governor,Collier,D,272535,70.4
+2018,14,Lieutenant Governor,McKennon,L,12556,3.2
+2018,14,Attorney General,Paxton,R,98123,25.4
+2018,15,U.S. Senate,Cruz,R,75831,32.0
+2018,15,U.S. Senate,O'Rourke,D,159508,67.3
+2018,15,U.S. Senate,Dikeman,L,1847,0.8
+2018,15,Governor,Abbott,R,88786,37.5
+2018,15,Governor,Valdez,D,144021,60.8
+2018,15,Governor,Tippetts,L,4039,1.7
+2018,15,Lieutenant Governor,Patrick,R,78747,33.3
+2018,15,Lieutenant Governor,Collier,D,153594,64.9
+2018,15,Lieutenant Governor,McKennon,L,4212,1.8
+2018,15,Attorney General,Paxton,R,75763,32.1
+2018,16,U.S. Senate,Cruz,R,129635,43.3
+2018,16,U.S. Senate,O'Rourke,D,167575,55.9
+2018,16,U.S. Senate,Dikeman,L,2448,0.8
+2018,16,Governor,Abbott,R,151690,50.9
+2018,16,Governor,Valdez,D,139742,46.9
+2018,16,Governor,Tippetts,L,6382,2.1
+2018,16,Lieutenant Governor,Patrick,R,133482,45.1
+2018,16,Lieutenant Governor,Collier,D,155724,52.6
+2018,16,Lieutenant Governor,McKennon,L,6902,2.3
+2018,16,Attorney General,Paxton,R,128911,43.6
+2018,17,U.S. Senate,Cruz,R,148421,47.5
+2018,17,U.S. Senate,O'Rourke,D,161742,51.8
+2018,17,U.S. Senate,Dikeman,L,2318,0.7
+2018,17,Governor,Abbott,R,167347,53.8
+2018,17,Governor,Valdez,D,138731,44.6
+2018,17,Governor,Tippetts,L,5253,1.7
+2018,17,Lieutenant Governor,Patrick,R,150408,48.4
+2018,17,Lieutenant Governor,Collier,D,154453,49.7
+2018,17,Lieutenant Governor,McKennon,L,5910,1.9
+2018,17,Attorney General,Paxton,R,146274,47.2
+2018,18,U.S. Senate,Cruz,R,197262,62.7
+2018,18,U.S. Senate,O'Rourke,D,115607,36.7
+2018,18,U.S. Senate,Dikeman,L,1983,0.6
+2018,18,Governor,Abbott,R,209844,66.7
+2018,18,Governor,Valdez,D,100907,32.1
+2018,18,Governor,Tippetts,L,3784,1.2
+2018,18,Lieutenant Governor,Patrick,R,195415,62.4
+2018,18,Lieutenant Governor,Collier,D,112599,35.9
+2018,18,Lieutenant Governor,McKennon,L,5197,1.7
+2018,18,Attorney General,Paxton,R,193046,61.8
+2018,19,U.S. Senate,Cruz,R,95407,42.3
+2018,19,U.S. Senate,O'Rourke,D,127928,56.8
+2018,19,U.S. Senate,Dikeman,L,2003,0.9
+2018,19,Governor,Abbott,R,108256,48.3
+2018,19,Governor,Valdez,D,112437,50.2
+2018,19,Governor,Tippetts,L,3296,1.5
+2018,19,Lieutenant Governor,Patrick,R,97945,44.0
+2018,19,Lieutenant Governor,Collier,D,119522,53.7
+2018,19,Lieutenant Governor,McKennon,L,4945,2.2
+2018,19,Attorney General,Paxton,R,93162,42.0
+2018,20,U.S. Senate,Cruz,R,79575,40.5
+2018,20,U.S. Senate,O'Rourke,D,115675,58.9
+2018,20,U.S. Senate,Dikeman,L,1273,0.6
+2018,20,Governor,Abbott,R,92671,47.3
+2018,20,Governor,Valdez,D,100688,51.4
+2018,20,Governor,Tippetts,L,2462,1.3
+2018,20,Lieutenant Governor,Patrick,R,78952,40.7
+2018,20,Lieutenant Governor,Collier,D,110888,57.2
+2018,20,Lieutenant Governor,McKennon,L,4065,2.1
+2018,20,Attorney General,Paxton,R,77073,39.8
+2018,21,U.S. Senate,Cruz,R,83064,39.3
+2018,21,U.S. Senate,O'Rourke,D,126385,59.8
+2018,21,U.S. Senate,Dikeman,L,1763,0.8
+2018,21,Governor,Abbott,R,92913,44.4
+2018,21,Governor,Valdez,D,113195,54.0
+2018,21,Governor,Tippetts,L,3339,1.6
+2018,21,Lieutenant Governor,Patrick,R,81537,39.4
+2018,21,Lieutenant Governor,Collier,D,120023,58.0
+2018,21,Lieutenant Governor,McKennon,L,5439,2.6
+2018,21,Attorney General,Paxton,R,78392,37.9
+2018,22,U.S. Senate,Cruz,R,187267,65.4
+2018,22,U.S. Senate,O'Rourke,D,97053,33.9
+2018,22,U.S. Senate,Dikeman,L,2167,0.8
+2018,22,Governor,Abbott,R,198838,69.4
+2018,22,Governor,Valdez,D,83390,29.1
+2018,22,Governor,Tippetts,L,4221,1.5
+2018,22,Lieutenant Governor,Patrick,R,184021,64.5
+2018,22,Lieutenant Governor,Collier,D,95292,33.4
+2018,22,Lieutenant Governor,McKennon,L,6003,2.1
+2018,22,Attorney General,Paxton,R,182223,64.0
+2018,23,U.S. Senate,Cruz,R,36011,15.8
+2018,23,U.S. Senate,O'Rourke,D,191086,83.7
+2018,23,U.S. Senate,Dikeman,L,1317,0.6
+2018,23,Governor,Abbott,R,46198,20.3
+2018,23,Governor,Valdez,D,176391,77.6
+2018,23,Governor,Tippetts,L,4664,2.1
+2018,23,Lieutenant Governor,Patrick,R,38528,17.0
+2018,23,Lieutenant Governor,Collier,D,183322,81.0
+2018,23,Lieutenant Governor,McKennon,L,4389,1.9
+2018,23,Attorney General,Paxton,R,36474,16.1
+2018,24,U.S. Senate,Cruz,R,191453,67.2
+2018,24,U.S. Senate,O'Rourke,D,90985,31.9
+2018,24,U.S. Senate,Dikeman,L,2431,0.9
+2018,24,Governor,Abbott,R,202504,71.1
+2018,24,Governor,Valdez,D,77653,27.3
+2018,24,Governor,Tippetts,L,4568,1.6
+2018,24,Lieutenant Governor,Patrick,R,188888,66.5
+2018,24,Lieutenant Governor,Collier,D,88301,31.1
+2018,24,Lieutenant Governor,McKennon,L,6671,2.4
+2018,24,Attorney General,Paxton,R,187702,66.4
+2018,25,U.S. Senate,Cruz,R,224690,53.9
+2018,25,U.S. Senate,O'Rourke,D,188211,45.2
+2018,25,U.S. Senate,Dikeman,L,3933,0.9
+2018,25,Governor,Abbott,R,247924,59.6
+2018,25,Governor,Valdez,D,159449,38.4
+2018,25,Governor,Tippetts,L,8339,2.0
+2018,25,Lieutenant Governor,Patrick,R,228267,55.1
+2018,25,Lieutenant Governor,Collier,D,175611,42.4
+2018,25,Lieutenant Governor,McKennon,L,10344,2.5
+2018,25,Attorney General,Paxton,R,221789,53.7
+2018,26,U.S. Senate,Cruz,R,62837,29.9
+2018,26,U.S. Senate,O'Rourke,D,145329,69.1
+2018,26,U.S. Senate,Dikeman,L,2002,1.0
+2018,26,Governor,Abbott,R,75292,36.0
+2018,26,Governor,Valdez,D,129733,62.1
+2018,26,Governor,Tippetts,L,3870,1.9
+2018,26,Lieutenant Governor,Patrick,R,67281,32.3
+2018,26,Lieutenant Governor,Collier,D,135875,65.2
+2018,26,Lieutenant Governor,McKennon,L,5097,2.4
+2018,26,Attorney General,Paxton,R,62202,29.9
+2018,27,U.S. Senate,Cruz,R,50965,33.9
+2018,27,U.S. Senate,O'Rourke,D,98318,65.4
+2018,27,U.S. Senate,Dikeman,L,972,0.6
+2018,27,Governor,Abbott,R,61326,41.0
+2018,27,Governor,Valdez,D,86231,57.7
+2018,27,Governor,Tippetts,L,1842,1.2
+2018,27,Lieutenant Governor,Patrick,R,50706,34.4
+2018,27,Lieutenant Governor,Collier,D,92891,63.1
+2018,27,Lieutenant Governor,McKennon,L,3592,2.4
+2018,27,Attorney General,Paxton,R,47989,32.6
+2018,28,U.S. Senate,Cruz,R,166883,72.3
+2018,28,U.S. Senate,O'Rourke,D,62260,27.0
+2018,28,U.S. Senate,Dikeman,L,1724,0.7
+2018,28,Governor,Abbott,R,172733,75.0
+2018,28,Governor,Valdez,D,53861,23.4
+2018,28,Governor,Tippetts,L,3822,1.7
+2018,28,Lieutenant Governor,Patrick,R,157118,68.6
+2018,28,Lieutenant Governor,Collier,D,66121,28.9
+2018,28,Lieutenant Governor,McKennon,L,5750,2.5
+2018,28,Attorney General,Paxton,R,162118,70.9
+2018,29,U.S. Senate,Cruz,R,52861,25.4
+2018,29,U.S. Senate,O'Rourke,D,154093,74.0
+2018,29,U.S. Senate,Dikeman,L,1253,0.6
+2018,29,Governor,Abbott,R,64792,31.6
+2018,29,Governor,Valdez,D,136491,66.6
+2018,29,Governor,Tippetts,L,3792,1.8
+2018,29,Lieutenant Governor,Patrick,R,58284,28.8
+2018,29,Lieutenant Governor,Collier,D,138209,68.2
+2018,29,Lieutenant Governor,McKennon,L,6098,3.0
+2018,29,Attorney General,Paxton,R,55540,27.4
+2018,30,U.S. Senate,Cruz,R,231613,71.7
+2018,30,U.S. Senate,O'Rourke,D,88851,27.5
+2018,30,U.S. Senate,Dikeman,L,2630,0.8
+2018,30,Governor,Abbott,R,241998,75.0
+2018,30,Governor,Valdez,D,75909,23.5
+2018,30,Governor,Tippetts,L,4833,1.5
+2018,30,Lieutenant Governor,Patrick,R,227866,71.0
+2018,30,Lieutenant Governor,Collier,D,86158,26.8
+2018,30,Lieutenant Governor,McKennon,L,7126,2.2
+2018,30,Attorney General,Paxton,R,226984,70.8
+2018,31,U.S. Senate,Cruz,R,167115,77.4
+2018,31,U.S. Senate,O'Rourke,D,47029,21.8
+2018,31,U.S. Senate,Dikeman,L,1670,0.8
+2018,31,Governor,Abbott,R,171577,79.6
+2018,31,Governor,Valdez,D,40945,19.0
+2018,31,Governor,Tippetts,L,3006,1.4
+2018,31,Lieutenant Governor,Patrick,R,159995,74.6
+2018,31,Lieutenant Governor,Collier,D,49350,23.0
+2018,31,Lieutenant Governor,McKennon,L,5092,2.4
+2018,31,Attorney General,Paxton,R,163481,76.3
+2020,STATE,President,Biden,D,5257519,46.5
+2020,STATE,President,Trump,R,5889022,52.0
+2020,STATE,President,Jorgensen,L,126212,1.1
+2020,STATE,President,Hawkins,G,33378,0.3
+2020,STATE,President,Write-In,W,10908,0.1
+2020,STATE,U.S. Senate,Cornyn,R,5961643,53.5
+2020,STATE,U.S. Senate,Hegar,D,4887315,43.9
+2020,STATE,Lieutenant Governor,McKennon,L,209623,1.9
+2020,STATE,Lieutenant Governor,Collins,G,81753,0.7
+2020,STATE,Lieutenant Governor,Castaneda,D,4791173,43.6
+2020,1,President,Biden,D,92593,25.5
+2020,1,President,Trump,R,265715,73.3
+2020,1,President,Jorgensen,L,3362,0.9
+2020,1,President,Hawkins,G,725,0.2
+2020,1,President,Write-In,W,179,0.0
+2020,1,U.S. Senate,Cornyn,R,263758,73.4
+2020,1,U.S. Senate,Hegar,D,88848,24.7
+2020,1,Lieutenant Governor,McKennon,L,5104,1.4
+2020,1,Lieutenant Governor,Collins,G,1443,0.4
+2020,1,Lieutenant Governor,Castaneda,D,84901,23.8
+2020,2,President,Biden,D,138917,39.4
+2020,2,President,Trump,R,208774,59.2
+2020,2,President,Jorgensen,L,3466,1.0
+2020,2,President,Hawkins,G,1074,0.3
+2020,2,President,Write-In,W,187,0.1
+2020,2,U.S. Senate,Cornyn,R,210162,60.1
+2020,2,U.S. Senate,Hegar,D,131144,37.5
+2020,2,Lieutenant Governor,McKennon,L,5944,1.7
+2020,2,Lieutenant Governor,Collins,G,2623,0.7
+2020,2,Lieutenant Governor,Castaneda,D,129910,37.4
+2020,3,President,Biden,D,77364,20.6
+2020,3,President,Trump,R,294559,78.4
+2020,3,President,Jorgensen,L,2978,0.8
+2020,3,President,Hawkins,G,598,0.2
+2020,3,President,Write-In,W,249,0.1
+2020,3,U.S. Senate,Cornyn,R,289935,78.1
+2020,3,U.S. Senate,Hegar,D,74243,20.0
+2020,3,Lieutenant Governor,McKennon,L,5453,1.5
+2020,3,Lieutenant Governor,Collins,G,1610,0.4
+2020,3,Lieutenant Governor,Castaneda,D,70255,19.1
+2020,4,President,Biden,D,142522,33.2
+2020,4,President,Trump,R,281331,65.5
+2020,4,President,Jorgensen,L,4909,1.1
+2020,4,President,Hawkins,G,865,0.2
+2020,4,President,Write-In,W,99,0.0
+2020,4,U.S. Senate,Cornyn,R,282429,66.5
+2020,4,U.S. Senate,Hegar,D,132696,31.3
+2020,4,Lieutenant Governor,McKennon,L,7445,1.8
+2020,4,Lieutenant Governor,Collins,G,2008,0.5
+2020,4,Lieutenant Governor,Castaneda,D,128303,30.6
+2020,5,President,Biden,D,199253,43.4
+2020,5,President,Trump,R,250002,54.5
+2020,5,President,Jorgensen,L,7531,1.6
+2020,5,President,Hawkins,G,1233,0.3
+2020,5,President,Write-In,W,1102,0.2
+2020,5,U.S. Senate,Cornyn,R,253766,56.3
+2020,5,U.S. Senate,Hegar,D,184980,41.0
+2020,5,Lieutenant Governor,McKennon,L,9608,2.1
+2020,5,Lieutenant Governor,Collins,G,2397,0.5
+2020,5,Lieutenant Governor,Castaneda,D,175328,39.5
+2020,6,President,Biden,D,123709,66.1
+2020,6,President,Trump,R,61089,32.6
+2020,6,President,Jorgensen,L,1577,0.8
+2020,6,President,Hawkins,G,770,0.4
+2020,6,President,Write-In,W,5,0.0
+2020,6,U.S. Senate,Cornyn,R,59310,32.8
+2020,6,U.S. Senate,Hegar,D,115621,64.0
+2020,6,Lieutenant Governor,McKennon,L,3609,2.0
+2020,6,Lieutenant Governor,Collins,G,2257,1.2
+2020,6,Lieutenant Governor,Castaneda,D,118636,66.1
+2020,7,President,Biden,D,188150,44.1
+2020,7,President,Trump,R,232201,54.5
+2020,7,President,Jorgensen,L,4746,1.1
+2020,7,President,Hawkins,G,1216,0.3
+2020,7,President,Write-In,W,11,0.0
+2020,7,U.S. Senate,Cornyn,R,237216,56.3
+2020,7,U.S. Senate,Hegar,D,173948,41.3
+2020,7,Lieutenant Governor,McKennon,L,7682,1.8
+2020,7,Lieutenant Governor,Collins,G,2796,0.7
+2020,7,Lieutenant Governor,Castaneda,D,169832,40.8
+2020,8,President,Biden,D,231252,51.3
+2020,8,President,Trump,R,211190,46.9
+2020,8,President,Jorgensen,L,5540,1.2
+2020,8,President,Hawkins,G,1283,0.3
+2020,8,President,Write-In,W,1347,0.3
+2020,8,U.S. Senate,Cornyn,R,223430,50.6
+2020,8,U.S. Senate,Hegar,D,208224,47.1
+2020,8,Lieutenant Governor,McKennon,L,7650,1.7
+2020,8,Lieutenant Governor,Collins,G,2598,0.6
+2020,8,Lieutenant Governor,Castaneda,D,201585,46.4
+2020,9,President,Biden,D,161000,48.3
+2020,9,President,Trump,R,166632,50.0
+2020,9,President,Jorgensen,L,4224,1.3
+2020,9,President,Hawkins,G,1154,0.3
+2020,9,President,Write-In,W,118,0.0
+2020,9,U.S. Senate,Cornyn,R,170797,51.7
+2020,9,U.S. Senate,Hegar,D,149988,45.4
+2020,9,Lieutenant Governor,McKennon,L,6931,2.1
+2020,9,Lieutenant Governor,Collins,G,2667,0.8
+2020,9,Lieutenant Governor,Castaneda,D,145783,44.6
+2020,10,President,Biden,D,199896,53.1
+2020,10,President,Trump,R,170688,45.4
+2020,10,President,Jorgensen,L,4305,1.1
+2020,10,President,Hawkins,G,1180,0.3
+2020,10,President,Write-In,W,192,0.1
+2020,10,U.S. Senate,Cornyn,R,177999,47.7
+2020,10,U.S. Senate,Hegar,D,185910,49.8
+2020,10,Lieutenant Governor,McKennon,L,6788,1.8
+2020,10,Lieutenant Governor,Collins,G,2636,0.7
+2020,10,Lieutenant Governor,Castaneda,D,181063,49.0
+2020,11,President,Biden,D,161818,40.4
+2020,11,President,Trump,R,232156,58.0
+2020,11,President,Jorgensen,L,4865,1.2
+2020,11,President,Hawkins,G,1104,0.3
+2020,11,President,Write-In,W,309,0.1
+2020,11,U.S. Senate,Cornyn,R,233823,59.1
+2020,11,U.S. Senate,Hegar,D,151408,38.3
+2020,11,Lieutenant Governor,McKennon,L,7629,1.9
+2020,11,Lieutenant Governor,Collins,G,2479,0.6
+2020,11,Lieutenant Governor,Castaneda,D,148236,38.0
+2020,12,President,Biden,D,211292,43.2
+2020,12,President,Trump,R,270287,55.2
+2020,12,President,Jorgensen,L,6444,1.3
+2020,12,President,Hawkins,G,1218,0.2
+2020,12,President,Write-In,W,301,0.1
+2020,12,U.S. Senate,Cornyn,R,280011,57.8
+2020,12,U.S. Senate,Hegar,D,191574,39.5
+2020,12,Lieutenant Governor,McKennon,L,10037,2.1
+2020,12,Lieutenant Governor,Collins,G,3004,0.6
+2020,12,Lieutenant Governor,Castaneda,D,182343,38.3
+2020,13,President,Biden,D,208895,80.8
+2020,13,President,Trump,R,46896,18.1
+2020,13,President,Jorgensen,L,1759,0.7
+2020,13,President,Hawkins,G,968,0.4
+2020,13,President,Write-In,W,109,0.0
+2020,13,U.S. Senate,Cornyn,R,48048,19.0
+2020,13,U.S. Senate,Hegar,D,197335,78.2
+2020,13,Lieutenant Governor,McKennon,L,4312,1.7
+2020,13,Lieutenant Governor,Collins,G,2629,1.0
+2020,13,Lieutenant Governor,Castaneda,D,196548,78.6
+2020,14,President,Biden,D,347953,70.8
+2020,14,President,Trump,R,132727,27.0
+2020,14,President,Jorgensen,L,7231,1.5
+2020,14,President,Hawkins,G,1697,0.3
+2020,14,President,Write-In,W,1736,0.4
+2020,14,U.S. Senate,Cornyn,R,143908,29.7
+2020,14,U.S. Senate,Hegar,D,327272,67.6
+2020,14,Lieutenant Governor,McKennon,L,9578,2.0
+2020,14,Lieutenant Governor,Collins,G,3239,0.7
+2020,14,Lieutenant Governor,Castaneda,D,312900,66.1
+2020,15,President,Biden,D,208552,64.5
+2020,15,President,Trump,R,110485,34.1
+2020,15,President,Jorgensen,L,3444,1.1
+2020,15,President,Hawkins,G,1045,0.3
+2020,15,President,Write-In,W,12,0.0
+2020,15,U.S. Senate,Cornyn,R,114616,36.0
+2020,15,U.S. Senate,Hegar,D,195264,61.3
+2020,15,Lieutenant Governor,McKennon,L,6065,1.9
+2020,15,Lieutenant Governor,Collins,G,2657,0.8
+2020,15,Lieutenant Governor,Castaneda,D,192351,61.1
+2020,16,President,Biden,D,210107,56.0
+2020,16,President,Trump,R,159233,42.5
+2020,16,President,Jorgensen,L,4497,1.2
+2020,16,President,Hawkins,G,1138,0.3
+2020,16,President,Write-In,W,0,0.0
+2020,16,U.S. Senate,Cornyn,R,175271,46.8
+2020,16,U.S. Senate,Hegar,D,190437,50.9
+2020,16,Lieutenant Governor,McKennon,L,6075,1.6
+2020,16,Lieutenant Governor,Collins,G,2670,0.7
+2020,16,Lieutenant Governor,Castaneda,D,188493,50.9
+2020,17,President,Biden,D,212242,51.6
+2020,17,President,Trump,R,193514,47.0
+2020,17,President,Jorgensen,L,4235,1.0
+2020,17,President,Hawkins,G,1152,0.3
+2020,17,President,Write-In,W,370,0.1
+2020,17,U.S. Senate,Cornyn,R,202358,50.0
+2020,17,U.S. Senate,Hegar,D,193469,47.8
+2020,17,Lieutenant Governor,McKennon,L,6455,1.6
+2020,17,Lieutenant Governor,Collins,G,2489,0.6
+2020,17,Lieutenant Governor,Castaneda,D,187148,47.1
+2020,18,President,Biden,D,161933,36.8
+2020,18,President,Trump,R,271898,61.9
+2020,18,President,Jorgensen,L,3815,0.9
+2020,18,President,Hawkins,G,1140,0.3
+2020,18,President,Write-In,W,697,0.2
+2020,18,U.S. Senate,Cornyn,R,272006,63.2
+2020,18,U.S. Senate,Hegar,D,149866,34.8
+2020,18,Lieutenant Governor,McKennon,L,6457,1.5
+2020,18,Lieutenant Governor,Collins,G,2101,0.5
+2020,18,Lieutenant Governor,Castaneda,D,147290,34.6
+2020,19,President,Biden,D,176256,53.3
+2020,19,President,Trump,R,149924,45.3
+2020,19,President,Jorgensen,L,3294,1.0
+2020,19,President,Hawkins,G,1118,0.3
+2020,19,President,Write-In,W,168,0.1
+2020,19,U.S. Senate,Cornyn,R,148232,46.1
+2020,19,U.S. Senate,Hegar,D,163896,51.0
+2020,19,Lieutenant Governor,McKennon,L,6253,1.9
+2020,19,Lieutenant Governor,Collins,G,3023,0.9
+2020,19,Lieutenant Governor,Castaneda,D,166721,52.3
+2020,20,President,Biden,D,143598,52.2
+2020,20,President,Trump,R,128363,46.6
+2020,20,President,Jorgensen,L,2236,0.8
+2020,20,President,Hawkins,G,841,0.3
+2020,20,President,Write-In,W,266,0.1
+2020,20,U.S. Senate,Cornyn,R,124292,46.7
+2020,20,U.S. Senate,Hegar,D,133376,50.1
+2020,20,Lieutenant Governor,McKennon,L,5720,2.1
+2020,20,Lieutenant Governor,Collins,G,2832,1.1
+2020,20,Lieutenant Governor,Castaneda,D,136487,52.2
+2020,21,President,Biden,D,155987,53.2
+2020,21,President,Trump,R,132733,45.3
+2020,21,President,Jorgensen,L,2886,1.0
+2020,21,President,Hawkins,G,1050,0.4
+2020,21,President,Write-In,W,465,0.2
+2020,21,U.S. Senate,Cornyn,R,125567,44.4
+2020,21,U.S. Senate,Hegar,D,148079,52.4
+2020,21,Lieutenant Governor,McKennon,L,5861,2.1
+2020,21,Lieutenant Governor,Collins,G,3273,1.2
+2020,21,Lieutenant Governor,Castaneda,D,148546,53.3
+2020,22,President,Biden,D,128415,33.2
+2020,22,President,Trump,R,253102,65.4
+2020,22,President,Jorgensen,L,4161,1.1
+2020,22,President,Hawkins,G,941,0.2
+2020,22,President,Write-In,W,488,0.1
+2020,22,U.S. Senate,Cornyn,R,253522,66.2
+2020,22,U.S. Senate,Hegar,D,119920,31.3
+2020,22,Lieutenant Governor,McKennon,L,6830,1.8
+2020,22,Lieutenant Governor,Collins,G,2507,0.7
+2020,22,Lieutenant Governor,Castaneda,D,115720,30.6
+2020,23,President,Biden,D,237533,80.9
+2020,23,President,Trump,R,52415,17.8
+2020,23,President,Jorgensen,L,2420,0.8
+2020,23,President,Hawkins,G,1395,0.5
+2020,23,President,Write-In,W,0,0.0
+2020,23,U.S. Senate,Cornyn,R,56277,19.3
+2020,23,U.S. Senate,Hegar,D,227603,77.9
+2020,23,Lieutenant Governor,McKennon,L,5154,1.8
+2020,23,Lieutenant Governor,Collins,G,3151,1.1
+2020,23,Lieutenant Governor,Castaneda,D,228469,78.5
+2020,24,President,Biden,D,126340,32.3
+2020,24,President,Trump,R,257861,65.9
+2020,24,President,Jorgensen,L,5077,1.3
+2020,24,President,Hawkins,G,985,0.3
+2020,24,President,Write-In,W,737,0.2
+2020,24,U.S. Senate,Cornyn,R,260101,67.2
+2020,24,U.S. Senate,Hegar,D,118019,30.5
+2020,24,Lieutenant Governor,McKennon,L,7309,1.9
+2020,24,Lieutenant Governor,Collins,G,1901,0.5
+2020,24,Lieutenant Governor,Castaneda,D,111946,29.3
+2020,25,President,Biden,D,256178,45.1
+2020,25,President,Trump,R,302919,53.3
+2020,25,President,Jorgensen,L,7474,1.3
+2020,25,President,Hawkins,G,1462,0.3
+2020,25,President,Write-In,W,550,0.1
+2020,25,U.S. Senate,Cornyn,R,315128,56.0
+2020,25,U.S. Senate,Hegar,D,233881,41.6
+2020,25,Lieutenant Governor,McKennon,L,10507,1.9
+2020,25,Lieutenant Governor,Collins,G,3116,0.6
+2020,25,Lieutenant Governor,Castaneda,D,229291,41.3
+2020,26,President,Biden,D,191570,66.4
+2020,26,President,Trump,R,92307,32.0
+2020,26,President,Jorgensen,L,3249,1.1
+2020,26,President,Hawkins,G,1333,0.5
+2020,26,President,Write-In,W,199,0.1
+2020,26,U.S. Senate,Cornyn,R,95327,33.9
+2020,26,U.S. Senate,Hegar,D,176819,62.8
+2020,26,Lieutenant Governor,McKennon,L,6289,2.2
+2020,26,Lieutenant Governor,Collins,G,2943,1.0
+2020,26,Lieutenant Governor,Castaneda,D,179568,64.2
+2020,27,President,Biden,D,125040,57.3
+2020,27,President,Trump,R,90758,41.6
+2020,27,President,Jorgensen,L,1328,0.6
+2020,27,President,Hawkins,G,794,0.4
+2020,27,President,Write-In,W,195,0.1
+2020,27,U.S. Senate,Cornyn,R,84949,40.6
+2020,27,U.S. Senate,Hegar,D,117219,56.0
+2020,27,Lieutenant Governor,McKennon,L,4158,2.0
+2020,27,Lieutenant Governor,Collins,G,2971,1.4
+2020,27,Lieutenant Governor,Castaneda,D,121903,59.3
+2020,28,President,Biden,D,76925,25.3
+2020,28,President,Trump,R,222872,73.3
+2020,28,President,Jorgensen,L,3280,1.1
+2020,28,President,Hawkins,G,691,0.2
+2020,28,President,Write-In,W,149,0.0
+2020,28,U.S. Senate,Cornyn,R,221146,73.8
+2020,28,U.S. Senate,Hegar,D,70901,23.7
+2020,28,Lieutenant Governor,McKennon,L,5860,2.0
+2020,28,Lieutenant Governor,Collins,G,1606,0.5
+2020,28,Lieutenant Governor,Castaneda,D,68015,23.0
+2020,29,President,Biden,D,180899,66.5
+2020,29,President,Trump,R,87022,32.0
+2020,29,President,Jorgensen,L,2803,1.0
+2020,29,President,Hawkins,G,1467,0.5
+2020,29,President,Write-In,W,2,0.0
+2020,29,U.S. Senate,Cornyn,R,82479,31.2
+2020,29,U.S. Senate,Hegar,D,167546,63.4
+2020,29,Lieutenant Governor,McKennon,L,8347,3.2
+2020,29,Lieutenant Governor,Collins,G,6100,2.3
+2020,29,Lieutenant Governor,Castaneda,D,163304,62.7
+2020,30,President,Biden,D,121646,26.5
+2020,30,President,Trump,R,329601,71.9
+2020,30,President,Jorgensen,L,5608,1.2
+2020,30,President,Hawkins,G,1094,0.2
+2020,30,President,Write-In,W,568,0.1
+2020,30,U.S. Senate,Cornyn,R,328103,72.6
+2020,30,U.S. Senate,Hegar,D,112517,24.9
+2020,30,Lieutenant Governor,McKennon,L,8901,2.0
+2020,30,Lieutenant Governor,Collins,G,2629,0.6
+2020,30,Lieutenant Governor,Castaneda,D,105743,23.7
+2020,31,President,Biden,D,59684,20.3
+2020,31,President,Trump,R,229768,78.2
+2020,31,President,Jorgensen,L,3468,1.2
+2020,31,President,Hawkins,G,647,0.2
+2020,31,President,Write-In,W,98,0.0
+2020,31,U.S. Senate,Cornyn,R,227677,78.5
+2020,31,U.S. Senate,Hegar,D,55312,19.1
+2020,31,Lieutenant Governor,McKennon,L,5612,1.9
+2020,31,Lieutenant Governor,Collins,G,1398,0.5
+2020,31,Lieutenant Governor,Castaneda,D,54555,19.0
+2024,STATE,President,Harris,D,4835134,42.4
+2024,STATE,President,Oliver,L,68563,0.6
+2024,STATE,President,Stein,G,82698,0.7
+2024,STATE,President,Trump,R,6393403,56.1
+2024,STATE,President,Write-In,W,24730,0.2
+2024,STATE,U.S. Senate,Allred,D,5031142,44.6
+2024,STATE,U.S. Senate,Andrus,W,534,0.0
+2024,STATE,U.S. Senate,Brown,L,266944,2.4
+2024,STATE,U.S. Senate,Cruz,R,5990637,53.1
+2024,STATE,U.S. Senate,Roche,W,976,0.0
+2024,1,President,Harris,D,90867,22.5
+2024,1,President,Oliver,L,1754,0.4
+2024,1,President,Stein,G,988,0.2
+2024,1,President,Trump,R,309025,76.6
+2024,1,President,Write-In,W,673,0.2
+2024,1,U.S. Senate,Allred,D,94045,23.5
+2024,1,U.S. Senate,Andrus,W,76,0.0
+2024,1,U.S. Senate,Brown,L,7108,1.8
+2024,1,U.S. Senate,Cruz,R,299125,74.7
+2024,1,U.S. Senate,Roche,W,34,0.0
+2024,2,President,Harris,D,158003,39.0
+2024,2,President,Oliver,L,2367,0.6
+2024,2,President,Stein,G,3333,0.8
+2024,2,President,Trump,R,240447,59.3
+2024,2,President,Write-In,W,1489,0.4
+2024,2,U.S. Senate,Allred,D,167663,41.8
+2024,2,U.S. Senate,Andrus,W,8,0.0
+2024,2,U.S. Senate,Brown,L,8241,2.1
+2024,2,U.S. Senate,Cruz,R,225497,56.2
+2024,2,U.S. Senate,Roche,W,9,0.0
+2024,3,President,Harris,D,91399,23.3
+2024,3,President,Oliver,L,1503,0.4
+2024,3,President,Stein,G,906,0.2
+2024,3,President,Trump,R,297515,75.9
+2024,3,President,Write-In,W,426,0.1
+2024,3,U.S. Senate,Allred,D,95043,24.5
+2024,3,U.S. Senate,Andrus,W,11,0.0
+2024,3,U.S. Senate,Brown,L,6768,1.7
+2024,3,U.S. Senate,Cruz,R,286254,73.8
+2024,3,U.S. Senate,Roche,W,23,0.0
+2024,4,President,Harris,D,137852,32.4
+2024,4,President,Oliver,L,2425,0.6
+2024,4,President,Stein,G,1921,0.5
+2024,4,President,Trump,R,283693,66.6
+2024,4,President,Write-In,W,205,0.0
+2024,4,U.S. Senate,Allred,D,144494,34.0
+2024,4,U.S. Senate,Andrus,W,27,0.0
+2024,4,U.S. Senate,Brown,L,8959,2.1
+2024,4,U.S. Senate,Cruz,R,270977,63.8
+2024,4,U.S. Senate,Roche,W,54,0.0
+2024,5,President,Harris,D,162229,37.6
+2024,5,President,Oliver,L,3081,0.7
+2024,5,President,Stein,G,2381,0.6
+2024,5,President,Trump,R,262437,60.9
+2024,5,President,Write-In,W,1126,0.3
+2024,5,U.S. Senate,Allred,D,166826,39.0
+2024,5,U.S. Senate,Andrus,W,4,0.0
+2024,5,U.S. Senate,Brown,L,11075,2.6
+2024,5,U.S. Senate,Cruz,R,249558,58.4
+2024,5,U.S. Senate,Roche,W,33,0.0
+2024,6,President,Harris,D,115747,58.6
+2024,6,President,Oliver,L,977,0.5
+2024,6,President,Stein,G,1427,0.7
+2024,6,President,Trump,R,79118,40.1
+2024,6,President,Write-In,W,126,0.1
+2024,6,U.S. Senate,Allred,D,121767,62.6
+2024,6,U.S. Senate,Andrus,W,10,0.0
+2024,6,U.S. Senate,Brown,L,6095,3.1
+2024,6,U.S. Senate,Cruz,R,66684,34.3
+2024,6,U.S. Senate,Roche,W,18,0.0
+2024,7,President,Harris,D,157036,38.6
+2024,7,President,Oliver,L,2586,0.6
+2024,7,President,Stein,G,4411,1.1
+2024,7,President,Trump,R,242211,59.6
+2024,7,President,Write-In,W,278,0.1
+2024,7,U.S. Senate,Allred,D,166152,41.0
+2024,7,U.S. Senate,Andrus,W,15,0.0
+2024,7,U.S. Senate,Brown,L,10484,2.6
+2024,7,U.S. Senate,Cruz,R,228294,56.4
+2024,7,U.S. Senate,Roche,W,62,0.0
+2024,8,President,Harris,D,188439,39.3
+2024,8,President,Oliver,L,3229,0.7
+2024,8,President,Stein,G,8041,1.7
+2024,8,President,Trump,R,277207,57.9
+2024,8,President,Write-In,W,2101,0.4
+2024,8,U.S. Senate,Allred,D,200830,42.4
+2024,8,U.S. Senate,Andrus,W,3,0.0
+2024,8,U.S. Senate,Brown,L,10395,2.2
+2024,8,U.S. Senate,Cruz,R,262017,55.4
+2024,8,U.S. Senate,Roche,W,15,0.0
+2024,9,President,Harris,D,161560,40.6
+2024,9,President,Oliver,L,2697,0.7
+2024,9,President,Stein,G,2527,0.6
+2024,9,President,Trump,R,230782,58.0
+2024,9,President,Write-In,W,293,0.1
+2024,9,U.S. Senate,Allred,D,169860,42.8
+2024,9,U.S. Senate,Andrus,W,20,0.0
+2024,9,U.S. Senate,Brown,L,9837,2.5
+2024,9,U.S. Senate,Cruz,R,217192,54.7
+2024,9,U.S. Senate,Roche,W,83,0.0
+2024,10,President,Harris,D,147359,38.7
+2024,10,President,Oliver,L,2365,0.6
+2024,10,President,Stein,G,1911,0.5
+2024,10,President,Trump,R,228882,60.1
+2024,10,President,Write-In,W,461,0.1
+2024,10,U.S. Senate,Allred,D,154655,40.7
+2024,10,U.S. Senate,Andrus,W,19,0.0
+2024,10,U.S. Senate,Brown,L,8634,2.3
+2024,10,U.S. Senate,Cruz,R,216285,57.0
+2024,10,U.S. Senate,Roche,W,62,0.0
+2024,11,President,Harris,D,157076,39.1
+2024,11,President,Oliver,L,2452,0.6
+2024,11,President,Stein,G,3180,0.8
+2024,11,President,Trump,R,238875,59.5
+2024,11,President,Write-In,W,218,0.1
+2024,11,U.S. Senate,Allred,D,164828,41.2
+2024,11,U.S. Senate,Andrus,W,23,0.0
+2024,11,U.S. Senate,Brown,L,10182,2.5
+2024,11,U.S. Senate,Cruz,R,225136,56.3
+2024,11,U.S. Senate,Roche,W,61,0.0
+2024,12,President,Harris,D,186860,39.9
+2024,12,President,Oliver,L,3481,0.7
+2024,12,President,Stein,G,3893,0.8
+2024,12,President,Trump,R,272946,58.3
+2024,12,President,Write-In,W,1394,0.3
+2024,12,U.S. Senate,Allred,D,197108,42.2
+2024,12,U.S. Senate,Andrus,W,22,0.0
+2024,12,U.S. Senate,Brown,L,9556,2.0
+2024,12,U.S. Senate,Cruz,R,260764,55.8
+2024,12,U.S. Senate,Roche,W,52,0.0
+2024,13,President,Harris,D,191368,73.0
+2024,13,President,Oliver,L,1249,0.5
+2024,13,President,Stein,G,2516,1.0
+2024,13,President,Trump,R,66526,25.4
+2024,13,President,Write-In,W,405,0.2
+2024,13,U.S. Senate,Allred,D,194154,75.1
+2024,13,U.S. Senate,Andrus,W,12,0.0
+2024,13,U.S. Senate,Brown,L,6279,2.4
+2024,13,U.S. Senate,Cruz,R,58230,22.5
+2024,13,U.S. Senate,Roche,W,17,0.0
+2024,14,President,Harris,D,315745,71.8
+2024,14,President,Oliver,L,3583,0.8
+2024,14,President,Stein,G,4647,1.1
+2024,14,President,Trump,R,112660,25.6
+2024,14,President,Write-In,W,2904,0.7
+2024,14,U.S. Senate,Allred,D,322028,73.9
+2024,14,U.S. Senate,Andrus,W,0,0.0
+2024,14,U.S. Senate,Brown,L,10253,2.4
+2024,14,U.S. Senate,Cruz,R,103196,23.7
+2024,14,U.S. Senate,Roche,W,0,0.0
+2024,15,President,Harris,D,207856,61.8
+2024,15,President,Oliver,L,2418,0.7
+2024,15,President,Stein,G,3093,0.9
+2024,15,President,Trump,R,122588,36.5
+2024,15,President,Write-In,W,317,0.1
+2024,15,U.S. Senate,Allred,D,214584,64.0
+2024,15,U.S. Senate,Andrus,W,18,0.0
+2024,15,U.S. Senate,Brown,L,8210,2.4
+2024,15,U.S. Senate,Cruz,R,112446,33.5
+2024,15,U.S. Senate,Roche,W,57,0.0
+2024,16,President,Harris,D,154611,57.9
+2024,16,President,Oliver,L,2080,0.8
+2024,16,President,Stein,G,3350,1.3
+2024,16,President,Trump,R,105484,39.5
+2024,16,President,Write-In,W,1541,0.6
+2024,16,U.S. Senate,Allred,D,161744,61.5
+2024,16,U.S. Senate,Andrus,W,0,0.0
+2024,16,U.S. Senate,Brown,L,6553,2.5
+2024,16,U.S. Senate,Cruz,R,94545,36.0
+2024,16,U.S. Senate,Roche,W,0,0.0
+2024,17,President,Harris,D,145021,37.6
+2024,17,President,Oliver,L,2447,0.6
+2024,17,President,Stein,G,4209,1.1
+2024,17,President,Trump,R,232879,60.4
+2024,17,President,Write-In,W,730,0.2
+2024,17,U.S. Senate,Allred,D,152010,39.7
+2024,17,U.S. Senate,Andrus,W,8,0.0
+2024,17,U.S. Senate,Brown,L,8865,2.3
+2024,17,U.S. Senate,Cruz,R,221680,57.9
+2024,17,U.S. Senate,Roche,W,24,0.0
+2024,18,President,Harris,D,148753,35.3
+2024,18,President,Oliver,L,2000,0.5
+2024,18,President,Stein,G,5905,1.4
+2024,18,President,Trump,R,263788,62.6
+2024,18,President,Write-In,W,786,0.2
+2024,18,U.S. Senate,Allred,D,156822,37.8
+2024,18,U.S. Senate,Andrus,W,16,0.0
+2024,18,U.S. Senate,Brown,L,10468,2.5
+2024,18,U.S. Senate,Cruz,R,247920,59.7
+2024,18,U.S. Senate,Roche,W,16,0.0
+2024,19,President,Harris,D,166872,50.1
+2024,19,President,Oliver,L,1682,0.5
+2024,19,President,Stein,G,1684,0.5
+2024,19,President,Trump,R,162245,48.7
+2024,19,President,Write-In,W,747,0.2
+2024,19,U.S. Senate,Allred,D,173408,53.4
+2024,19,U.S. Senate,Andrus,W,32,0.0
+2024,19,U.S. Senate,Brown,L,8605,2.7
+2024,19,U.S. Senate,Cruz,R,142614,43.9
+2024,19,U.S. Senate,Roche,W,20,0.0
+2024,20,President,Harris,D,121108,47.4
+2024,20,President,Oliver,L,1073,0.4
+2024,20,President,Stein,G,1186,0.5
+2024,20,President,Trump,R,131930,51.7
+2024,20,President,Write-In,W,107,0.0
+2024,20,U.S. Senate,Allred,D,126766,50.5
+2024,20,U.S. Senate,Andrus,W,6,0.0
+2024,20,U.S. Senate,Brown,L,6131,2.4
+2024,20,U.S. Senate,Cruz,R,118063,47.0
+2024,20,U.S. Senate,Roche,W,10,0.0
+2024,21,President,Harris,D,158225,50.9
+2024,21,President,Oliver,L,1566,0.5
+2024,21,President,Stein,G,1820,0.6
+2024,21,President,Trump,R,148363,47.8
+2024,21,President,Write-In,W,685,0.2
+2024,21,U.S. Senate,Allred,D,164069,54.2
+2024,21,U.S. Senate,Andrus,W,11,0.0
+2024,21,U.S. Senate,Brown,L,8420,2.8
+2024,21,U.S. Senate,Cruz,R,130057,43.0
+2024,21,U.S. Senate,Roche,W,17,0.0
+2024,22,President,Harris,D,140888,35.4
+2024,22,President,Oliver,L,2319,0.6
+2024,22,President,Stein,G,2218,0.6
+2024,22,President,Trump,R,252403,63.3
+2024,22,President,Write-In,W,622,0.2
+2024,22,U.S. Senate,Allred,D,148393,37.4
+2024,22,U.S. Senate,Andrus,W,38,0.0
+2024,22,U.S. Senate,Brown,L,8502,2.1
+2024,22,U.S. Senate,Cruz,R,239876,60.4
+2024,22,U.S. Senate,Roche,W,88,0.0
+2024,23,President,Harris,D,226026,72.3
+2024,23,President,Oliver,L,2015,0.6
+2024,23,President,Stein,G,2125,0.7
+2024,23,President,Trump,R,81422,26.0
+2024,23,President,Write-In,W,1241,0.4
+2024,23,U.S. Senate,Allred,D,231364,74.8
+2024,23,U.S. Senate,Andrus,W,0,0.0
+2024,23,U.S. Senate,Brown,L,7132,2.3
+2024,23,U.S. Senate,Cruz,R,70619,22.8
+2024,23,U.S. Senate,Roche,W,7,0.0
+2024,24,President,Harris,D,149560,36.7
+2024,24,President,Oliver,L,2745,0.7
+2024,24,President,Stein,G,2215,0.5
+2024,24,President,Trump,R,251573,61.8
+2024,24,President,Write-In,W,1101,0.3
+2024,24,U.S. Senate,Allred,D,154552,38.3
+2024,24,U.S. Senate,Andrus,W,16,0.0
+2024,24,U.S. Senate,Brown,L,10264,2.5
+2024,24,U.S. Senate,Cruz,R,238638,59.1
+2024,24,U.S. Senate,Roche,W,26,0.0
+2024,25,President,Harris,D,202871,38.4
+2024,25,President,Oliver,L,3645,0.7
+2024,25,President,Stein,G,2304,0.4
+2024,25,President,Trump,R,318266,60.2
+2024,25,President,Write-In,W,1567,0.3
+2024,25,U.S. Senate,Allred,D,210068,40.0
+2024,25,U.S. Senate,Andrus,W,36,0.0
+2024,25,U.S. Senate,Brown,L,11317,2.2
+2024,25,U.S. Senate,Cruz,R,303297,57.8
+2024,25,U.S. Senate,Roche,W,12,0.0
+2024,26,President,Harris,D,180425,60.5
+2024,26,President,Oliver,L,1680,0.6
+2024,26,President,Stein,G,1907,0.6
+2024,26,President,Trump,R,113341,38.0
+2024,26,President,Write-In,W,971,0.3
+2024,26,U.S. Senate,Allred,D,184386,63.4
+2024,26,U.S. Senate,Andrus,W,15,0.0
+2024,26,U.S. Senate,Brown,L,7418,2.6
+2024,26,U.S. Senate,Cruz,R,99055,34.1
+2024,26,U.S. Senate,Roche,W,0,0.0
+2024,27,President,Harris,D,115490,43.5
+2024,27,President,Oliver,L,1104,0.4
+2024,27,President,Stein,G,1042,0.4
+2024,27,President,Trump,R,147768,55.6
+2024,27,President,Write-In,W,244,0.1
+2024,27,U.S. Senate,Allred,D,123394,47.4
+2024,27,U.S. Senate,Andrus,W,6,0.0
+2024,27,U.S. Senate,Brown,L,6400,2.5
+2024,27,U.S. Senate,Cruz,R,130506,50.1
+2024,27,U.S. Senate,Roche,W,7,0.0
+2024,28,President,Harris,D,83987,23.7
+2024,28,President,Oliver,L,2102,0.6
+2024,28,President,Stein,G,1146,0.3
+2024,28,President,Trump,R,267014,75.3
+2024,28,President,Write-In,W,224,0.1
+2024,28,U.S. Senate,Allred,D,87377,24.8
+2024,28,U.S. Senate,Andrus,W,26,0.0
+2024,28,U.S. Senate,Brown,L,8163,2.3
+2024,28,U.S. Senate,Cruz,R,256711,72.9
+2024,28,U.S. Senate,Roche,W,40,0.0
+2024,29,President,Harris,D,149479,55.6
+2024,29,President,Oliver,L,1584,0.6
+2024,29,President,Stein,G,1699,0.6
+2024,29,President,Trump,R,115462,42.9
+2024,29,President,Write-In,W,642,0.2
+2024,29,U.S. Senate,Allred,D,148295,56.7
+2024,29,U.S. Senate,Andrus,W,0,0.0
+2024,29,U.S. Senate,Brown,L,10536,4.0
+2024,29,U.S. Senate,Cruz,R,102522,39.2
+2024,29,U.S. Senate,Roche,W,0,0.0
+2024,30,President,Harris,D,165821,35.4
+2024,30,President,Oliver,L,2750,0.6
+2024,30,President,Stein,G,3909,0.8
+2024,30,President,Trump,R,294646,63.0
+2024,30,President,Write-In,W,721,0.2
+2024,30,U.S. Senate,Allred,D,174852,37.6
+2024,30,U.S. Senate,Andrus,W,35,0.0
+2024,30,U.S. Senate,Brown,L,9818,2.1
+2024,30,U.S. Senate,Cruz,R,280299,60.3
+2024,30,U.S. Senate,Roche,W,94,0.0
+2024,31,President,Harris,D,56601,18.8
+2024,31,President,Oliver,L,1604,0.5
+2024,31,President,Stein,G,804,0.3
+2024,31,President,Trump,R,241907,80.3
+2024,31,President,Write-In,W,385,0.1
+2024,31,U.S. Senate,Allred,D,59605,20.0
+2024,31,U.S. Senate,Andrus,W,21,0.0
+2024,31,U.S. Senate,Brown,L,6276,2.1
+2024,31,U.S. Senate,Cruz,R,232580,77.9
+2024,31,U.S. Senate,Roche,W,35,0.0

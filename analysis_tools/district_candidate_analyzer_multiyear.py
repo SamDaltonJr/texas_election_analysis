@@ -27,12 +27,37 @@ class MultiYearDistrictCandidateAnalyzer:
         self.senate_races_2018_2022 = pd.read_csv('texas_election_data/pdf_extracts/2018_2022_senate_races.csv')
         self.senate_races = pd.concat([self.senate_races_2018_2022, self.senate_races_2024], ignore_index=True)
 
+        # Load congressional races (U.S. House)
+        self.congressional_races = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_congressional_races.csv')
+
         # Load statewide races broken down by district
         self.statewide_by_house = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_house_district_results_all.csv')
-        self.statewide_by_senate = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_senate_results_combined.csv')
+
+        # Load statewide by Senate (use CORRECT file if available)
+        import os
+        self.statewide_by_senate = None
+        if os.path.exists('texas_election_data/pdf_extracts/2018_2024_senate_results_combined_CORRECT.csv'):
+            self.statewide_by_senate = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_senate_results_combined_CORRECT.csv')
+        elif os.path.exists('texas_election_data/pdf_extracts/2018_2024_senate_results_combined.csv'):
+            self.statewide_by_senate = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_senate_results_combined.csv')
+
+        # Congressional statewide data currently unavailable (incorrect source data)
+        self.statewide_by_congressional = None
+        try:
+            if os.path.exists('texas_election_data/pdf_extracts/2018_2024_congressional_results_combined.csv'):
+                self.statewide_by_congressional = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_congressional_results_combined.csv')
+        except:
+            pass
 
         print(f"Loaded {len(self.house_races)} House race records ({len(self.house_races['year'].unique())} years)")
         print(f"Loaded {len(self.senate_races)} Senate race records ({len(self.senate_races['year'].unique())} years)")
+        print(f"Loaded {len(self.congressional_races)} Congressional race records ({len(self.congressional_races['year'].unique())} years)")
+        if self.statewide_by_senate is None:
+            print("⚠ Senate statewide data unavailable - vs_top_ticket analysis disabled for senate races")
+        else:
+            print(f"✓ Senate statewide data loaded ({len(self.statewide_by_senate)} records, {len(self.statewide_by_senate['year'].unique())} years)")
+        if self.statewide_by_congressional is None:
+            print("⚠ Congressional statewide data unavailable - vs_top_ticket analysis disabled for congressional races")
         print(f"Years available: {sorted(self.house_races['year'].unique())}")
 
     def classify_race_competitiveness(self, district_races_for_office):
@@ -99,7 +124,7 @@ class MultiYearDistrictCandidateAnalyzer:
         Calculate how district candidates performed vs. top-of-ticket in their districts
 
         Parameters:
-        - district_level: 'house' or 'senate'
+        - district_level: 'house', 'senate', or 'congressional'
         - year: Specific year, or None for all years
 
         Returns DataFrame with competitiveness flags
@@ -107,9 +132,16 @@ class MultiYearDistrictCandidateAnalyzer:
         if district_level == 'house':
             district_races = self.house_races.copy()
             statewide_data = self.statewide_by_house.copy()
-        else:
+        elif district_level == 'senate':
+            if self.statewide_by_senate is None:
+                raise ValueError("Senate statewide data is not available. vs_top_ticket analysis cannot be performed for senate races.")
             district_races = self.senate_races.copy()
             statewide_data = self.statewide_by_senate.copy()
+        else:  # congressional
+            if self.statewide_by_congressional is None:
+                raise ValueError("Congressional statewide data is not available. vs_top_ticket analysis cannot be performed for congressional races.")
+            district_races = self.congressional_races.copy()
+            statewide_data = self.statewide_by_congressional.copy()
 
         # Filter by year if specified
         if year:
