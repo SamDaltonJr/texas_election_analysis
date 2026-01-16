@@ -169,7 +169,10 @@ class MultiYearDistrictCandidateAnalyzer:
             pct = race_row['percentage']
 
             # Get top-of-ticket office for this year
-            if year in [2024, 2020]:
+            # For State Senate races, use U.S. Senate as top ticket
+            if district_level == 'senate':
+                top_office = 'U.S. Senate'
+            elif year in [2024, 2020]:
                 top_office = 'President'
             elif year in [2022, 2018]:
                 top_office = 'Governor'

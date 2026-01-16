@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Claude temporary files
+tmpclaude-*
+
+# Temporary analysis files
+temp_*.pdf
+sample_*.pdf
+
+# Data files marked as incorrect
+*_INCORRECT_DO_NOT_USE.*
+
+# Raw extracts (intermediate files)
+raw_extract_*.txt
+
+# Large VTD (Voter Tabulation District) data files
+texas_election_data/vtd_data/
