@@ -16,7 +16,10 @@
       "Bash(xargs git grep:*)",
       "Bash(git hash-object:*)",
       "Bash(curl:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(git mv:*)",
+      "Bash(git reset:*)",
+      "Bash(xargs:*)"
     ]
   }
 }

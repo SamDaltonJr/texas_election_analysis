@@ -30,8 +30,12 @@ class MultiYearDistrictCandidateAnalyzer:
         # Load congressional races (U.S. House)
         self.congressional_races = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_congressional_races.csv')
 
-        # Load statewide races broken down by district
-        self.statewide_by_house = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_house_district_results_all.csv')
+        # Load statewide races broken down by district (use CORRECT file if available)
+        import os
+        if os.path.exists('texas_election_data/pdf_extracts/2018_2024_house_results_combined_CORRECT.csv'):
+            self.statewide_by_house = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_house_results_combined_CORRECT.csv')
+        else:
+            self.statewide_by_house = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_house_district_results_all.csv')
 
         # Load statewide by Senate (use CORRECT file if available)
         import os
