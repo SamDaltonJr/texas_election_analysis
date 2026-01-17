@@ -22,3 +22,9 @@ raw_extract_*.txt
 
 # Large VTD (Voter Tabulation District) data files
 texas_election_data/vtd_data/
+
+# Large campaign finance raw data files (download from TEC)
+texas_election_data/campaign_finance/TEC_CF_CSV.zip
+texas_election_data/campaign_finance/cover.csv
+texas_election_data/campaign_finance/cand.csv
+texas_election_data/campaign_finance/filers.csv
