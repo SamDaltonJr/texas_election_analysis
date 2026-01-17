@@ -45,9 +45,11 @@ class MultiYearDistrictCandidateAnalyzer:
         elif os.path.exists('texas_election_data/pdf_extracts/2018_2024_senate_results_combined.csv'):
             self.statewide_by_senate = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_senate_results_combined.csv')
 
-        # Congressional statewide data (Daily Kos Elections for 2020 & 2024)
+        # Congressional statewide data (use CORRECT file if available)
         self.statewide_by_congressional = None
-        if os.path.exists('texas_election_data/pdf_extracts/2020_2024_congressional_presidential_dailykos.csv'):
+        if os.path.exists('texas_election_data/pdf_extracts/2018_2024_congressional_results_combined_CORRECT.csv'):
+            self.statewide_by_congressional = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_congressional_results_combined_CORRECT.csv')
+        elif os.path.exists('texas_election_data/pdf_extracts/2020_2024_congressional_presidential_dailykos.csv'):
             self.statewide_by_congressional = pd.read_csv('texas_election_data/pdf_extracts/2020_2024_congressional_presidential_dailykos.csv')
         elif os.path.exists('texas_election_data/pdf_extracts/2018_2024_congressional_results_combined.csv'):
             self.statewide_by_congressional = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_congressional_results_combined.csv')
