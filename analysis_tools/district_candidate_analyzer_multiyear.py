@@ -45,13 +45,12 @@ class MultiYearDistrictCandidateAnalyzer:
         elif os.path.exists('texas_election_data/pdf_extracts/2018_2024_senate_results_combined.csv'):
             self.statewide_by_senate = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_senate_results_combined.csv')
 
-        # Congressional statewide data currently unavailable (incorrect source data)
+        # Congressional statewide data (Daily Kos Elections for 2020 & 2024)
         self.statewide_by_congressional = None
-        try:
-            if os.path.exists('texas_election_data/pdf_extracts/2018_2024_congressional_results_combined.csv'):
-                self.statewide_by_congressional = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_congressional_results_combined.csv')
-        except:
-            pass
+        if os.path.exists('texas_election_data/pdf_extracts/2020_2024_congressional_presidential_dailykos.csv'):
+            self.statewide_by_congressional = pd.read_csv('texas_election_data/pdf_extracts/2020_2024_congressional_presidential_dailykos.csv')
+        elif os.path.exists('texas_election_data/pdf_extracts/2018_2024_congressional_results_combined.csv'):
+            self.statewide_by_congressional = pd.read_csv('texas_election_data/pdf_extracts/2018_2024_congressional_results_combined.csv')
 
         print(f"Loaded {len(self.house_races)} House race records ({len(self.house_races['year'].unique())} years)")
         print(f"Loaded {len(self.senate_races)} Senate race records ({len(self.senate_races['year'].unique())} years)")
