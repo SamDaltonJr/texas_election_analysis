@@ -89,13 +89,14 @@ texas_election_analysis/
 - `download_senate_pdfs_confirmed.py` - Downloads State Senate PDFs
 - `download_vtd_datasets.py` - Downloads VTD datasets (200MB)
 
-**Parsing Scripts:**
+**Parsing Scripts (Current):**
 - `parse_district_races_2024.py` - Parses 2024 district PDFs
 - `parse_vtd_district_races.py` - Aggregates VTD data for 2018-2022
 - `parse_congressional_races.py` - Parses U.S. House races
-- `parse_all_years.py` - Parses statewide races by House district
-- `parse_congressional_districts.py` - Parses statewide races by Congressional district
-- `parse_senate_districts.py` - Parses statewide races by State Senate district
+- `parse_house_statewide_CORRECT.py` - Parses statewide races by House district (PLANH2316)
+- `parse_senate_districts_CORRECT.py` - Parses statewide races by Senate district (PLANS172/S2168)
+- `parse_congressional_statewide_CORRECT.py` - Parses statewide races by Congressional district (PLANC2100/C2193)
+- `import_daily_kos_congressional.py` - Imports Daily Kos Elections verified presidential data
 
 **Verification Scripts:**
 - `verify_data.py` - Validates House district data
@@ -140,9 +141,10 @@ texas_election_analysis/
 - `2018_2024_congressional_races.csv` - 389 U.S. House candidates (4 years)
 
 **Statewide Races by District (Statewide races broken down BY district):**
-- `2018_2024_house_district_results_all.csv` - Statewide results by House district
-- `2018_2024_senate_results_combined.csv` - Statewide results by Senate district
-- `2018_2024_congressional_results_combined.csv` - Statewide results by Congressional district
+- `2018_2024_house_results_combined_CORRECT.csv` - All statewide races by House district (2018-2024)
+- `2018_2024_senate_results_combined_CORRECT.csv` - All statewide races by Senate district (2018-2024)
+- `2018_2024_congressional_results_combined_CORRECT.csv` - All statewide races by Congressional district (2018-2024)
+- `2020_2024_congressional_presidential_dailykos.csv` - Daily Kos Elections verified presidential results by CD
 
 ## Key Features
 
@@ -200,9 +202,16 @@ targets = analyzer.generate_recruitment_report(party='D')
 ### Total Records
 - **1,044** district race records (actual State House/Senate races)
 - **389** congressional race records (actual U.S. House races)
-- **6,191** statewide results by House district
-- **1,696** statewide results by Senate district
-- **2,067** statewide results by Congressional district
+- **6,040** statewide results by House district (151 districts × 4 years)
+- **960** statewide results by Senate district (31 districts × 4 years)
+- **1,520** statewide results by Congressional district (38 districts × 4 years)
+
+### Statewide Races Covered
+- **President** (2020, 2024)
+- **U.S. Senate** (2018, 2020, 2024)
+- **Governor** (2018, 2022)
+- **Lieutenant Governor** (2018, 2020, 2022, 2024)
+- **Attorney General** (2018, 2020, 2022, 2024)
 
 ## Example Use Cases
 
@@ -328,8 +337,10 @@ This is a research project. To contribute:
 
 ## Data Sources
 
-- **Texas Legislative Council** - Red-226 District Election Reports
-- **Texas Capitol Data Portal** - Comprehensive VTD Datasets
+- **Texas Legislative Council** - Red-206 Statewide Results by District (all district plans)
+- **Texas Legislative Council** - Red-226 District Election Reports (2024 district races)
+- **Texas Capitol Data Portal** - Comprehensive VTD Datasets (2018-2022 district races)
+- **Daily Kos Elections / The Downballot** - Verified presidential results by congressional district
 - **Texas Secretary of State** - Official election results
 
 ## License
@@ -347,6 +358,6 @@ Data: Texas Legislative Council, Texas Capitol Data Portal (2018-2024)
 
 ---
 
-**Last Updated:** 2025-01-15
-**Data Coverage:** 2018-2024 General Elections
-**Version:** 2.0 (Multi-Year with Competitiveness Flags)
+**Last Updated:** 2025-01-17
+**Data Coverage:** 2018-2024 General Elections (All statewide races, all district levels)
+**Version:** 3.0 (Complete Dataset with CORRECT District Plans)
